@@ -1,0 +1,19 @@
+// Public client settings only. AppSecret belongs exclusively on the server.
+WECHAT_APP_ID = worthit-unconfigured
+WECHAT_UNIVERSAL_LINK =
+AUTH_BASE_URL =
+TREE_HOLE_BASE_URL =
+WECHAT_AUTH_BASE_URL =
+WECHAT_ASSOCIATED_DOMAIN =
+SWIFT_OBJC_BRIDGING_HEADER = 值得吗？/Astronomy/WorthIt-Bridging-Header.h
+INFOPLIST_FILE = Configuration/AppInfo.plist
+OTHER_LDFLAGS = $(inherited) -ObjC -all_load -lz -lsqlite3 -lc++
+// Enable the supplied entitlement only after setting a real Associated Domain.
+CODE_SIGN_ENTITLEMENTS =
+// Public release metadata; no secrets.
+APP_OWNER_NAME =
+PRIVACY_POLICY_URL =
+TERMS_OF_USE_URL =
+SUPPORT_URL =
+SUPPORT_EMAIL =
+#include? "WeChat.local.xcconfig"

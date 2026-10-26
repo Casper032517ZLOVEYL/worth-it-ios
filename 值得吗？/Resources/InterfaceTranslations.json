@@ -1,0 +1,4482 @@
+{
+  "设置": {
+    "en": "Settings",
+    "ja": "設定",
+    "ko": "설정",
+    "es": "Ajustes",
+    "fr": "Réglages",
+    "de": "Einstellungen",
+    "it": "Impostazioni",
+    "pt": "Definições",
+    "ru": "Настройки",
+    "uk": "Налаштування",
+    "ar": "الإعدادات",
+    "hi": "सेटिंग्स",
+    "bn": "সেটিংস",
+    "ur": "ترتیبات",
+    "ta": "அமைப்புகள்",
+    "te": "సెట్టింగ్‌లు",
+    "id": "Pengaturan",
+    "ms": "Tetapan",
+    "vi": "Cài đặt",
+    "th": "การตั้งค่า",
+    "tr": "Ayarlar",
+    "fa": "تنظیمات",
+    "he": "הגדרות",
+    "pl": "Ustawienia",
+    "nl": "Instellingen",
+    "fil": "Mga setting"
+  },
+  "语言设置": {
+    "en": "Language",
+    "ja": "言語",
+    "ko": "언어",
+    "es": "Idioma",
+    "fr": "Langue",
+    "de": "Sprache",
+    "it": "Lingua",
+    "pt": "Idioma",
+    "ru": "Язык",
+    "uk": "Мова",
+    "ar": "اللغة",
+    "hi": "भाषा",
+    "bn": "ভাষা",
+    "ur": "زبان",
+    "ta": "மொழி",
+    "te": "భాష",
+    "id": "Bahasa",
+    "ms": "Bahasa",
+    "vi": "Ngôn ngữ",
+    "th": "ภาษา",
+    "tr": "Dil",
+    "fa": "زبان",
+    "he": "שפה",
+    "pl": "Język",
+    "nl": "Taal",
+    "fil": "Wika"
+  },
+  "显示设置": {
+    "en": "Display",
+    "ja": "表示設定",
+    "ko": "화면 설정",
+    "es": "Pantalla",
+    "fr": "Affichage",
+    "de": "Anzeige",
+    "it": "Aspetto",
+    "pt": "Ecrã",
+    "ru": "Оформление",
+    "uk": "Вигляд",
+    "ar": "المظهر",
+    "hi": "दिखावट",
+    "bn": "প্রদর্শন",
+    "ur": "ظاہری انداز",
+    "ta": "தோற்றம்",
+    "te": "రూపం",
+    "id": "Tampilan",
+    "ms": "Paparan",
+    "vi": "Hiển thị",
+    "th": "การแสดงผล",
+    "tr": "Görünüm",
+    "fa": "نمایش",
+    "he": "תצוגה",
+    "pl": "Wygląd",
+    "nl": "Weergave",
+    "fil": "Display"
+  },
+  "账号安全": {
+    "en": "Account security",
+    "ja": "アカウントの安全",
+    "ko": "계정 보안",
+    "es": "Seguridad de la cuenta",
+    "fr": "Sécurité du compte",
+    "de": "Kontosicherheit",
+    "it": "Sicurezza account",
+    "pt": "Segurança da conta",
+    "ru": "Безопасность аккаунта",
+    "uk": "Безпека облікового запису",
+    "ar": "أمان الحساب",
+    "hi": "खाते की सुरक्षा",
+    "bn": "অ্যাকাউন্টের নিরাপত্তা",
+    "ur": "اکاؤنٹ کی حفاظت",
+    "ta": "கணக்குப் பாதுகாப்பு",
+    "te": "ఖాతా భద్రత",
+    "id": "Keamanan akun",
+    "ms": "Keselamatan akaun",
+    "vi": "Bảo mật tài khoản",
+    "th": "ความปลอดภัยบัญชี",
+    "tr": "Hesap güvenliği",
+    "fa": "امنیت حساب",
+    "he": "אבטחת חשבון",
+    "pl": "Bezpieczeństwo konta",
+    "nl": "Accountbeveiliging",
+    "fil": "Seguridad ng account"
+  },
+  "跟随系统": {
+    "en": "System default",
+    "ja": "システムに従う",
+    "ko": "시스템 설정",
+    "es": "Seguir al sistema",
+    "fr": "Suivre le système",
+    "de": "Systemeinstellung",
+    "it": "Segui il sistema",
+    "pt": "Seguir o sistema",
+    "ru": "Как в системе",
+    "uk": "Як у системі",
+    "ar": "حسب النظام",
+    "hi": "सिस्टम के अनुसार",
+    "bn": "সিস্টেম অনুযায়ী",
+    "ur": "نظام کے مطابق",
+    "ta": "கணினி அமைப்பைப் பின்பற்று",
+    "te": "సిస్టమ్‌ను అనుసరించు",
+    "id": "Ikuti sistem",
+    "ms": "Ikut sistem",
+    "vi": "Theo hệ thống",
+    "th": "ตามระบบ",
+    "tr": "Sistemi izle",
+    "fa": "مطابق سیستم",
+    "he": "לפי המערכת",
+    "pl": "Zgodnie z systemem",
+    "nl": "Volg systeem",
+    "fil": "Sundin ang system"
+  },
+  "浅色": {
+    "en": "Light",
+    "ja": "ライト",
+    "ko": "라이트",
+    "es": "Claro",
+    "fr": "Clair",
+    "de": "Hell",
+    "it": "Chiaro",
+    "pt": "Claro",
+    "ru": "Светлая",
+    "uk": "Світлий",
+    "ar": "فاتح",
+    "hi": "हल्का",
+    "bn": "হালকা",
+    "ur": "روشن",
+    "ta": "வெளிர்",
+    "te": "లేత",
+    "id": "Terang",
+    "ms": "Cerah",
+    "vi": "Sáng",
+    "th": "สว่าง",
+    "tr": "Açık",
+    "fa": "روشن",
+    "he": "בהיר",
+    "pl": "Jasny",
+    "nl": "Licht",
+    "fil": "Maliwanag"
+  },
+  "深色": {
+    "en": "Dark",
+    "ja": "ダーク",
+    "ko": "다크",
+    "es": "Oscuro",
+    "fr": "Sombre",
+    "de": "Dunkel",
+    "it": "Scuro",
+    "pt": "Escuro",
+    "ru": "Тёмная",
+    "uk": "Темний",
+    "ar": "داكن",
+    "hi": "गहरा",
+    "bn": "গাঢ়",
+    "ur": "تاریک",
+    "ta": "இருண்ட",
+    "te": "ముదురు",
+    "id": "Gelap",
+    "ms": "Gelap",
+    "vi": "Tối",
+    "th": "มืด",
+    "tr": "Koyu",
+    "fa": "تیره",
+    "he": "כהה",
+    "pl": "Ciemny",
+    "nl": "Donker",
+    "fil": "Madilim"
+  },
+  "推荐给好友": {
+    "en": "Recommend to a friend",
+    "ja": "友達に紹介",
+    "ko": "친구에게 추천",
+    "es": "Recomendar a un amigo",
+    "fr": "Recommander à un ami",
+    "de": "Freunden empfehlen",
+    "it": "Consiglia a un amico",
+    "pt": "Recomendar a um amigo",
+    "ru": "Рекомендовать другу",
+    "uk": "Порадити другу",
+    "ar": "التوصية لصديق",
+    "hi": "मित्र को सुझाएँ",
+    "bn": "বন্ধুকে সুপারিশ",
+    "ur": "دوست کو تجویز کریں",
+    "ta": "நண்பருக்குப் பரிந்துரை",
+    "te": "స్నేహితునికి సూచించు",
+    "id": "Rekomendasikan ke teman",
+    "ms": "Syorkan kepada rakan",
+    "vi": "Giới thiệu bạn bè",
+    "th": "แนะนำให้เพื่อน",
+    "tr": "Arkadaşına öner",
+    "fa": "پیشنهاد به دوست",
+    "he": "המלצה לחבר",
+    "pl": "Poleć znajomemu",
+    "nl": "Aanbevelen aan een vriend",
+    "fil": "Irekomenda sa kaibigan"
+  },
+  "清除缓存": {
+    "en": "Clear history",
+    "ja": "履歴を消去",
+    "ko": "기록 지우기",
+    "es": "Borrar historial",
+    "fr": "Effacer l’historique",
+    "de": "Verlauf löschen",
+    "it": "Cancella cronologia",
+    "pt": "Limpar histórico",
+    "ru": "Очистить историю",
+    "uk": "Очистити історію",
+    "ar": "مسح السجل",
+    "hi": "इतिहास मिटाएँ",
+    "bn": "ইতিহাস মুছুন",
+    "ur": "تاریخ صاف کریں",
+    "ta": "வரலாற்றை அழி",
+    "te": "చరిత్ర తొలగించు",
+    "id": "Hapus riwayat",
+    "ms": "Padam sejarah",
+    "vi": "Xóa lịch sử",
+    "th": "ล้างประวัติ",
+    "tr": "Geçmişi temizle",
+    "fa": "پاک کردن تاریخچه",
+    "he": "ניקוי היסטוריה",
+    "pl": "Wyczyść historię",
+    "nl": "Geschiedenis wissen",
+    "fil": "Burahin ang kasaysayan"
+  },
+  "关于值得吗？": {
+    "en": "About Worth It?",
+    "ja": "Worth It?について",
+    "ko": "Worth It? 정보",
+    "es": "Acerca de Worth It?",
+    "fr": "À propos de Worth It?",
+    "de": "Über Worth It?",
+    "it": "Informazioni su Worth It?",
+    "pt": "Sobre Worth It?",
+    "ru": "О Worth It?",
+    "uk": "Про Worth It?",
+    "ar": "حول Worth It?",
+    "hi": "Worth It? के बारे में",
+    "bn": "Worth It? সম্পর্কে",
+    "ur": "Worth It? کے بارے میں",
+    "ta": "Worth It? பற்றி",
+    "te": "Worth It? గురించి",
+    "id": "Tentang Worth It?",
+    "ms": "Tentang Worth It?",
+    "vi": "Về Worth It?",
+    "th": "เกี่ยวกับ Worth It?",
+    "tr": "Worth It? hakkında",
+    "fa": "درباره Worth It?",
+    "he": "אודות Worth It?",
+    "pl": "O Worth It?",
+    "nl": "Over Worth It?",
+    "fil": "Tungkol sa Worth It?"
+  },
+  "退出登录": {
+    "en": "Sign out",
+    "ja": "ログアウト",
+    "ko": "로그아웃",
+    "es": "Cerrar sesión",
+    "fr": "Se déconnecter",
+    "de": "Abmelden",
+    "it": "Esci",
+    "pt": "Terminar sessão",
+    "ru": "Выйти",
+    "uk": "Вийти",
+    "ar": "تسجيل الخروج",
+    "hi": "साइन आउट",
+    "bn": "সাইন আউট",
+    "ur": "سائن آؤٹ",
+    "ta": "வெளியேறு",
+    "te": "సైన్ అవుట్",
+    "id": "Keluar",
+    "ms": "Log keluar",
+    "vi": "Đăng xuất",
+    "th": "ออกจากระบบ",
+    "tr": "Çıkış yap",
+    "fa": "خروج",
+    "he": "יציאה",
+    "pl": "Wyloguj",
+    "nl": "Uitloggen",
+    "fil": "Mag-sign out"
+  },
+  "数据隐私  ·  内容说明": {
+    "en": "Privacy · Content notes",
+    "ja": "プライバシー・内容説明",
+    "ko": "개인정보 · 콘텐츠 안내",
+    "es": "Privacidad · Contenido",
+    "fr": "Confidentialité · Contenu",
+    "de": "Datenschutz · Inhalte",
+    "it": "Privacy · Contenuti",
+    "pt": "Privacidade · Conteúdo",
+    "ru": "Конфиденциальность · Содержание",
+    "uk": "Приватність · Зміст",
+    "ar": "الخصوصية · المحتوى",
+    "hi": "गोपनीयता · सामग्री",
+    "bn": "গোপনীয়তা · বিষয়বস্তু",
+    "ur": "رازداری · مواد",
+    "ta": "தனியுரிமை · உள்ளடக்கம்",
+    "te": "గోప్యత · సమాచారం",
+    "id": "Privasi · Konten",
+    "ms": "Privasi · Kandungan",
+    "vi": "Quyền riêng tư · Nội dung",
+    "th": "ความเป็นส่วนตัว · เนื้อหา",
+    "tr": "Gizlilik · İçerik",
+    "fa": "حریم خصوصی · محتوا",
+    "he": "פרטיות · תוכן",
+    "pl": "Prywatność · Treść",
+    "nl": "Privacy · Inhoud",
+    "fil": "Privacy · Nilalaman"
+  },
+  "完成": {
+    "en": "Done",
+    "ja": "完了",
+    "ko": "완료",
+    "es": "Listo",
+    "fr": "Terminé",
+    "de": "Fertig",
+    "it": "Fine",
+    "pt": "Concluído",
+    "ru": "Готово",
+    "uk": "Готово",
+    "ar": "تم",
+    "hi": "हो गया",
+    "bn": "সম্পন্ন",
+    "ur": "مکمل",
+    "ta": "முடிந்தது",
+    "te": "పూర్తయింది",
+    "id": "Selesai",
+    "ms": "Selesai",
+    "vi": "Xong",
+    "th": "เสร็จ",
+    "tr": "Bitti",
+    "fa": "انجام شد",
+    "he": "סיום",
+    "pl": "Gotowe",
+    "nl": "Gereed",
+    "fil": "Tapos na"
+  },
+  "取消": {
+    "en": "Cancel",
+    "ja": "キャンセル",
+    "ko": "취소",
+    "es": "Cancelar",
+    "fr": "Annuler",
+    "de": "Abbrechen",
+    "it": "Annulla",
+    "pt": "Cancelar",
+    "ru": "Отмена",
+    "uk": "Скасувати",
+    "ar": "إلغاء",
+    "hi": "रद्द करें",
+    "bn": "বাতিল",
+    "ur": "منسوخ",
+    "ta": "ரத்து",
+    "te": "రద్దు",
+    "id": "Batal",
+    "ms": "Batal",
+    "vi": "Hủy",
+    "th": "ยกเลิก",
+    "tr": "İptal",
+    "fa": "لغو",
+    "he": "ביטול",
+    "pl": "Anuluj",
+    "nl": "Annuleren",
+    "fil": "Kanselahin"
+  },
+  "返回": {
+    "en": "Back",
+    "ja": "戻る",
+    "ko": "뒤로",
+    "es": "Volver",
+    "fr": "Retour",
+    "de": "Zurück",
+    "it": "Indietro",
+    "pt": "Voltar",
+    "ru": "Назад",
+    "uk": "Назад",
+    "ar": "رجوع",
+    "hi": "वापस",
+    "bn": "ফিরুন",
+    "ur": "واپس",
+    "ta": "பின்செல்",
+    "te": "వెనక్కి",
+    "id": "Kembali",
+    "ms": "Kembali",
+    "vi": "Quay lại",
+    "th": "กลับ",
+    "tr": "Geri",
+    "fa": "بازگشت",
+    "he": "חזרה",
+    "pl": "Wstecz",
+    "nl": "Terug",
+    "fil": "Bumalik"
+  },
+  "下一问": {
+    "en": "Next question",
+    "ja": "次の質問",
+    "ko": "다음 질문",
+    "es": "Siguiente pregunta",
+    "fr": "Question suivante",
+    "de": "Nächste Frage",
+    "it": "Domanda successiva",
+    "pt": "Próxima pergunta",
+    "ru": "Следующий вопрос",
+    "uk": "Наступне запитання",
+    "ar": "السؤال التالي",
+    "hi": "अगला प्रश्न",
+    "bn": "পরের প্রশ্ন",
+    "ur": "اگلا سوال",
+    "ta": "அடுத்த கேள்வி",
+    "te": "తదుపరి ప్రశ్న",
+    "id": "Pertanyaan berikutnya",
+    "ms": "Soalan seterusnya",
+    "vi": "Câu tiếp theo",
+    "th": "คำถามถัดไป",
+    "tr": "Sonraki soru",
+    "fa": "پرسش بعدی",
+    "he": "השאלה הבאה",
+    "pl": "Następne pytanie",
+    "nl": "Volgende vraag",
+    "fil": "Susunod na tanong"
+  },
+  "上一题": {
+    "en": "Previous question",
+    "ja": "前の質問",
+    "ko": "이전 질문",
+    "es": "Pregunta anterior",
+    "fr": "Question précédente",
+    "de": "Vorherige Frage",
+    "it": "Domanda precedente",
+    "pt": "Pergunta anterior",
+    "ru": "Предыдущий вопрос",
+    "uk": "Попереднє запитання",
+    "ar": "السؤال السابق",
+    "hi": "पिछला प्रश्न",
+    "bn": "আগের প্রশ্ন",
+    "ur": "پچھلا سوال",
+    "ta": "முந்தைய கேள்வி",
+    "te": "మునుపటి ప్రశ్న",
+    "id": "Pertanyaan sebelumnya",
+    "ms": "Soalan sebelumnya",
+    "vi": "Câu trước",
+    "th": "คำถามก่อนหน้า",
+    "tr": "Önceki soru",
+    "fa": "پرسش قبلی",
+    "he": "השאלה הקודמת",
+    "pl": "Poprzednie pytanie",
+    "nl": "Vorige vraag",
+    "fil": "Nakaraang tanong"
+  },
+  "问一问": {
+    "en": "Reflect",
+    "ja": "自分に問う",
+    "ko": "나에게 묻기",
+    "es": "Reflexionar",
+    "fr": "Réfléchir",
+    "de": "Nachdenken",
+    "it": "Rifletti",
+    "pt": "Refletir",
+    "ru": "Подумать",
+    "uk": "Поміркувати",
+    "ar": "تأمّل",
+    "hi": "मनन करें",
+    "bn": "ভেবে দেখুন",
+    "ur": "غور کریں",
+    "ta": "சிந்தியுங்கள்",
+    "te": "ఆలోచించండి",
+    "id": "Renungkan",
+    "ms": "Renungkan",
+    "vi": "Tự hỏi",
+    "th": "ทบทวนใจ",
+    "tr": "Düşün",
+    "fa": "تأمل",
+    "he": "להרהר",
+    "pl": "Zastanów się",
+    "nl": "Reflecteren",
+    "fil": "Magnilay"
+  },
+  "问心签": {
+    "en": "Mindful lots",
+    "ja": "こころの籤",
+    "ko": "마음의 제비",
+    "es": "Suertes conscientes",
+    "fr": "Tirage intérieur",
+    "de": "Achtsame Lose",
+    "it": "Sorti interiori",
+    "pt": "Sortes conscientes",
+    "ru": "Жребий для себя",
+    "uk": "Усвідомлений жереб",
+    "ar": "قرعة التأمل",
+    "hi": "मनन पर्चियाँ",
+    "bn": "মননের চিরকুট",
+    "ur": "فکری قرعے",
+    "ta": "மனச் சீட்டுகள்",
+    "te": "మనసు చీటీలు",
+    "id": "Undian refleksi",
+    "ms": "Cabutan renungan",
+    "vi": "Thẻ suy ngẫm",
+    "th": "เซียมซีทบทวนใจ",
+    "tr": "Farkındalık kurası",
+    "fa": "قرعه تأمل",
+    "he": "פתקי התבוננות",
+    "pl": "Losy refleksji",
+    "nl": "Reflectieloten",
+    "fil": "Mga bunot ng pagninilay"
+  },
+  "观音灵签": {
+    "en": "Guanyin lots",
+    "ja": "観音籤",
+    "ko": "관음 영첨",
+    "es": "Suertes de Guanyin",
+    "fr": "Tirage de Guanyin",
+    "de": "Guanyin-Lose",
+    "it": "Sorti di Guanyin",
+    "pt": "Sortes de Guanyin",
+    "ru": "Жребий Гуаньинь",
+    "uk": "Жереб Ґуаньїнь",
+    "ar": "قرعة غوانيين",
+    "hi": "गुआनयिन पर्चियाँ",
+    "bn": "গুয়ানইন চিরকুট",
+    "ur": "گوان ین کے قرعے",
+    "ta": "குவான்யின் சீட்டுகள்",
+    "te": "గువాన్యిన్ చీటీలు",
+    "id": "Undian Guanyin",
+    "ms": "Cabutan Guanyin",
+    "vi": "Quẻ Quan Âm",
+    "th": "เซียมซีเจ้าแม่กวนอิม",
+    "tr": "Guanyin kurası",
+    "fa": "قرعه گوان‌یین",
+    "he": "פתקי גואניין",
+    "pl": "Losy Guanyin",
+    "nl": "Guanyin-loten",
+    "fil": "Mga bunot ni Guanyin"
+  },
+  "我的": {
+    "en": "Profile",
+    "ja": "マイページ",
+    "ko": "내 정보",
+    "es": "Perfil",
+    "fr": "Profil",
+    "de": "Profil",
+    "it": "Profilo",
+    "pt": "Perfil",
+    "ru": "Профиль",
+    "uk": "Профіль",
+    "ar": "ملفي",
+    "hi": "प्रोफ़ाइल",
+    "bn": "প্রোফাইল",
+    "ur": "پروفائل",
+    "ta": "சுயவிவரம்",
+    "te": "ప్రొఫైల్",
+    "id": "Profil",
+    "ms": "Profil",
+    "vi": "Hồ sơ",
+    "th": "โปรไฟล์",
+    "tr": "Profil",
+    "fa": "نمایه",
+    "he": "פרופיל",
+    "pl": "Profil",
+    "nl": "Profiel",
+    "fil": "Profile"
+  },
+  "星笺": {
+    "en": "Star notes",
+    "ja": "星の便り",
+    "ko": "별의 편지",
+    "es": "Notas astrales",
+    "fr": "Notes astrales",
+    "de": "Sternnotizen",
+    "it": "Note astrali",
+    "pt": "Notas astrais",
+    "ru": "Звёздные заметки",
+    "uk": "Зоряні нотатки",
+    "ar": "ملاحظات النجوم",
+    "hi": "तारों के नोट्स",
+    "bn": "তারার নোট",
+    "ur": "ستاروں کے نوٹس",
+    "ta": "நட்சத்திரக் குறிப்புகள்",
+    "te": "నక్షత్ర గమనికలు",
+    "id": "Catatan bintang",
+    "ms": "Catatan bintang",
+    "vi": "Ghi chú sao",
+    "th": "บันทึกดวงดาว",
+    "tr": "Yıldız notları",
+    "fa": "یادداشت ستارگان",
+    "he": "רשימות כוכבים",
+    "pl": "Gwiezdne notatki",
+    "nl": "Sterrennotities",
+    "fil": "Mga tala ng bituin"
+  },
+  "问答历史": {
+    "en": "Question history",
+    "ja": "回答履歴",
+    "ko": "답변 기록",
+    "es": "Historial de respuestas",
+    "fr": "Historique des réponses",
+    "de": "Antwortverlauf",
+    "it": "Cronologia risposte",
+    "pt": "Histórico de respostas",
+    "ru": "История ответов",
+    "uk": "Історія відповідей",
+    "ar": "سجل الإجابات",
+    "hi": "उत्तर इतिहास",
+    "bn": "উত্তরের ইতিহাস",
+    "ur": "جوابات کی تاریخ",
+    "ta": "பதில் வரலாறு",
+    "te": "జవాబుల చరిత్ర",
+    "id": "Riwayat jawaban",
+    "ms": "Sejarah jawapan",
+    "vi": "Lịch sử trả lời",
+    "th": "ประวัติคำตอบ",
+    "tr": "Yanıt geçmişi",
+    "fa": "تاریخچه پاسخ‌ها",
+    "he": "היסטוריית תשובות",
+    "pl": "Historia odpowiedzi",
+    "nl": "Antwoordgeschiedenis",
+    "fil": "Kasaysayan ng sagot"
+  },
+  "我的签笺": {
+    "en": "My lots",
+    "ja": "私の籤",
+    "ko": "내 제비",
+    "es": "Mis suertes",
+    "fr": "Mes tirages",
+    "de": "Meine Lose",
+    "it": "Le mie sorti",
+    "pt": "As minhas sortes",
+    "ru": "Мои жребии",
+    "uk": "Мої жереби",
+    "ar": "قرعاتي",
+    "hi": "मेरी पर्चियाँ",
+    "bn": "আমার চিরকুট",
+    "ur": "میرے قرعے",
+    "ta": "என் சீட்டுகள்",
+    "te": "నా చీటీలు",
+    "id": "Undian saya",
+    "ms": "Cabutan saya",
+    "vi": "Thẻ của tôi",
+    "th": "เซียมซีของฉัน",
+    "tr": "Kuralarım",
+    "fa": "قرعه‌های من",
+    "he": "הפתקים שלי",
+    "pl": "Moje losy",
+    "nl": "Mijn loten",
+    "fil": "Mga bunot ko"
+  },
+  "激动": {
+    "en": "Excited",
+    "ja": "興奮",
+    "ko": "흥분",
+    "es": "Entusiasmo",
+    "fr": "Enthousiaste",
+    "de": "Aufgeregt",
+    "it": "Entusiasmo",
+    "pt": "Entusiasmo",
+    "ru": "Волнение",
+    "uk": "Збудження",
+    "ar": "حماس",
+    "hi": "उत्साहित",
+    "bn": "উত্তেজিত",
+    "ur": "پُرجوش",
+    "ta": "உற்சாகம்",
+    "te": "ఉత్సాహం",
+    "id": "Bersemangat",
+    "ms": "Teruja",
+    "vi": "Phấn khích",
+    "th": "ตื่นเต้น",
+    "tr": "Heyecanlı",
+    "fa": "هیجان‌زده",
+    "he": "נרגש",
+    "pl": "Podekscytowanie",
+    "nl": "Opgewonden",
+    "fil": "Nasasabik"
+  },
+  "高兴": {
+    "en": "Happy",
+    "ja": "うれしい",
+    "ko": "기쁨",
+    "es": "Alegría",
+    "fr": "Heureux",
+    "de": "Fröhlich",
+    "it": "Felicità",
+    "pt": "Alegria",
+    "ru": "Радость",
+    "uk": "Радість",
+    "ar": "سعادة",
+    "hi": "खुश",
+    "bn": "খুশি",
+    "ur": "خوش",
+    "ta": "மகிழ்ச்சி",
+    "te": "సంతోషం",
+    "id": "Senang",
+    "ms": "Gembira",
+    "vi": "Vui vẻ",
+    "th": "มีความสุข",
+    "tr": "Mutlu",
+    "fa": "شاد",
+    "he": "שמח",
+    "pl": "Radość",
+    "nl": "Blij",
+    "fil": "Masaya"
+  },
+  "伤心": {
+    "en": "Sad",
+    "ja": "悲しい",
+    "ko": "슬픔",
+    "es": "Tristeza",
+    "fr": "Triste",
+    "de": "Traurig",
+    "it": "Tristezza",
+    "pt": "Tristeza",
+    "ru": "Грусть",
+    "uk": "Смуток",
+    "ar": "حزن",
+    "hi": "उदास",
+    "bn": "দুঃখিত",
+    "ur": "اداس",
+    "ta": "சோகம்",
+    "te": "విచారం",
+    "id": "Sedih",
+    "ms": "Sedih",
+    "vi": "Buồn",
+    "th": "เศร้า",
+    "tr": "Üzgün",
+    "fa": "غمگین",
+    "he": "עצוב",
+    "pl": "Smutek",
+    "nl": "Verdrietig",
+    "fil": "Malungkot"
+  },
+  "悲痛": {
+    "en": "Grieving",
+    "ja": "深い悲しみ",
+    "ko": "깊은 슬픔",
+    "es": "Duelo",
+    "fr": "En deuil",
+    "de": "Trauernd",
+    "it": "Lutto",
+    "pt": "Luto",
+    "ru": "Скорбь",
+    "uk": "Скорбота",
+    "ar": "حداد",
+    "hi": "शोक में",
+    "bn": "শোকাহত",
+    "ur": "سوگوار",
+    "ta": "துயரம்",
+    "te": "దుఃఖం",
+    "id": "Berduka",
+    "ms": "Berduka",
+    "vi": "Đau buồn",
+    "th": "โศกเศร้า",
+    "tr": "Yaslı",
+    "fa": "سوگوار",
+    "he": "באבל",
+    "pl": "Żałoba",
+    "nl": "Rouwend",
+    "fil": "Nagluluksa"
+  },
+  "无感": {
+    "en": "Neutral",
+    "ja": "平静",
+    "ko": "무덤덤",
+    "es": "Neutralidad",
+    "fr": "Neutre",
+    "de": "Neutral",
+    "it": "Neutralità",
+    "pt": "Neutralidade",
+    "ru": "Нейтрально",
+    "uk": "Нейтрально",
+    "ar": "حياد",
+    "hi": "तटस्थ",
+    "bn": "নিরপেক্ষ",
+    "ur": "غیر جانب دار",
+    "ta": "நடுநிலை",
+    "te": "తటస్థం",
+    "id": "Netral",
+    "ms": "Neutral",
+    "vi": "Bình thường",
+    "th": "เฉย ๆ",
+    "tr": "Nötr",
+    "fa": "خنثی",
+    "he": "ניטרלי",
+    "pl": "Neutralność",
+    "nl": "Neutraal",
+    "fil": "Neutral"
+  },
+  "准备好了，开始摇签": {
+    "en": "Ready to shake",
+    "ja": "準備ができたら振る",
+    "ko": "준비되면 흔들기",
+    "es": "Listo para agitar",
+    "fr": "Prêt à secouer",
+    "de": "Bereit zum Schütteln",
+    "it": "Pronto a scuotere",
+    "pt": "Pronto para agitar",
+    "ru": "Готово, встряхнуть",
+    "uk": "Готово струсити",
+    "ar": "مستعد لهز الهاتف",
+    "hi": "तैयार हैं, फ़ोन हिलाएँ",
+    "bn": "প্রস্তুত, ফোন ঝাঁকান",
+    "ur": "تیار ہیں، فون ہلائیں",
+    "ta": "தயார், கைப்பேசியை அசைக்கவும்",
+    "te": "సిద్ధం, ఫోన్ ఊపండి",
+    "id": "Siap menggoyangkan",
+    "ms": "Sedia untuk menggoncang",
+    "vi": "Sẵn sàng lắc",
+    "th": "พร้อมเขย่า",
+    "tr": "Sallamaya hazır",
+    "fa": "آماده تکان دادن",
+    "he": "מוכן לניעור",
+    "pl": "Gotowe do potrząśnięcia",
+    "nl": "Klaar om te schudden",
+    "fil": "Handa nang alugin"
+  },
+  "也可以点按抽一签": {
+    "en": "Or tap to draw",
+    "ja": "タップして引く",
+    "ko": "눌러서 뽑기",
+    "es": "O toca para sacar",
+    "fr": "Ou toucher pour tirer",
+    "de": "Oder zum Ziehen tippen",
+    "it": "Oppure tocca per estrarre",
+    "pt": "Ou toque para tirar",
+    "ru": "Или нажать для выбора",
+    "uk": "Або торкніться для вибору",
+    "ar": "أو اضغط للسحب",
+    "hi": "या पर्ची चुनने के लिए दबाएँ",
+    "bn": "অথবা বেছে নিতে চাপুন",
+    "ur": "یا قرعہ نکالنے کو دبائیں",
+    "ta": "அல்லது சீட்டெடுக்கத் தட்டவும்",
+    "te": "లేదా చీటీ కోసం నొక్కండి",
+    "id": "Atau ketuk untuk memilih",
+    "ms": "Atau ketik untuk mencabut",
+    "vi": "Hoặc chạm để rút",
+    "th": "หรือแตะเพื่อสุ่ม",
+    "tr": "Veya çekmek için dokun",
+    "fa": "یا برای انتخاب بزنید",
+    "he": "או הקשה לבחירה",
+    "pl": "Lub dotknij, aby losować",
+    "nl": "Of tik om te trekken",
+    "fil": "O pindutin para bumunot"
+  },
+  "生成我的决定签": {
+    "en": "Create my reflection",
+    "ja": "振り返りを作成",
+    "ko": "성찰 결과 만들기",
+    "es": "Crear mi reflexión",
+    "fr": "Créer ma réflexion",
+    "de": "Reflexion erstellen",
+    "it": "Crea la mia riflessione",
+    "pt": "Criar a minha reflexão",
+    "ru": "Создать размышление",
+    "uk": "Створити роздуми",
+    "ar": "إنشاء تأملي",
+    "hi": "मेरा मनन बनाएँ",
+    "bn": "আমার মনন তৈরি করুন",
+    "ur": "میرا غور تیار کریں",
+    "ta": "என் சிந்தனையை உருவாக்கு",
+    "te": "నా ఆలోచనను రూపొందించు",
+    "id": "Buat refleksi saya",
+    "ms": "Cipta renungan saya",
+    "vi": "Tạo suy ngẫm của tôi",
+    "th": "สร้างบททบทวนของฉัน",
+    "tr": "Düşüncemi oluştur",
+    "fa": "تأمل مرا بساز",
+    "he": "יצירת ההתבוננות שלי",
+    "pl": "Utwórz refleksję",
+    "nl": "Mijn reflectie maken",
+    "fil": "Gawin ang pagninilay ko"
+  },
+  "保存并退出": {
+    "en": "Save and exit",
+    "ja": "保存して終了",
+    "ko": "저장 후 나가기",
+    "es": "Guardar y salir",
+    "fr": "Enregistrer et quitter",
+    "de": "Speichern und beenden",
+    "it": "Salva ed esci",
+    "pt": "Guardar e sair",
+    "ru": "Сохранить и выйти",
+    "uk": "Зберегти й вийти",
+    "ar": "حفظ وخروج",
+    "hi": "सहेजें और बाहर जाएँ",
+    "bn": "সংরক্ষণ করে বের হন",
+    "ur": "محفوظ کر کے نکلیں",
+    "ta": "சேமித்து வெளியேறு",
+    "te": "భద్రపరచి నిష్క్రమించు",
+    "id": "Simpan dan keluar",
+    "ms": "Simpan dan keluar",
+    "vi": "Lưu và thoát",
+    "th": "บันทึกแล้วออก",
+    "tr": "Kaydet ve çık",
+    "fa": "ذخیره و خروج",
+    "he": "שמירה ויציאה",
+    "pl": "Zapisz i wyjdź",
+    "nl": "Opslaan en afsluiten",
+    "fil": "I-save at lumabas"
+  },
+  "保存进度，稍后继续": {
+    "en": "Save and continue later",
+    "ja": "保存して後で続ける",
+    "ko": "저장하고 나중에 계속",
+    "es": "Guardar y continuar luego",
+    "fr": "Enregistrer et reprendre plus tard",
+    "de": "Speichern und später fortsetzen",
+    "it": "Salva e riprendi dopo",
+    "pt": "Guardar e continuar depois",
+    "ru": "Сохранить и продолжить позже",
+    "uk": "Зберегти та продовжити згодом",
+    "ar": "حفظ والمتابعة لاحقًا",
+    "hi": "सहेजें, बाद में जारी रखें",
+    "bn": "সংরক্ষণ, পরে চালিয়ে যান",
+    "ur": "محفوظ کریں، بعد میں جاری رکھیں",
+    "ta": "சேமித்து பின்னர் தொடரவும்",
+    "te": "భద్రపరచి తర్వాత కొనసాగించు",
+    "id": "Simpan, lanjutkan nanti",
+    "ms": "Simpan, sambung kemudian",
+    "vi": "Lưu, tiếp tục sau",
+    "th": "บันทึกและทำต่อภายหลัง",
+    "tr": "Kaydet, sonra devam et",
+    "fa": "ذخیره، ادامه در آینده",
+    "he": "שמירה והמשך אחר כך",
+    "pl": "Zapisz i kontynuuj później",
+    "nl": "Opslaan en later doorgaan",
+    "fil": "I-save, magpatuloy mamaya"
+  },
+  "继续答题": {
+    "en": "Keep answering",
+    "ja": "回答を続ける",
+    "ko": "계속 답하기",
+    "es": "Seguir respondiendo",
+    "fr": "Continuer",
+    "de": "Weiter antworten",
+    "it": "Continua a rispondere",
+    "pt": "Continuar a responder",
+    "ru": "Продолжить ответы",
+    "uk": "Продовжити відповідати",
+    "ar": "متابعة الإجابة",
+    "hi": "उत्तर जारी रखें",
+    "bn": "উত্তর চালিয়ে যান",
+    "ur": "جواب جاری رکھیں",
+    "ta": "பதில்களைத் தொடரவும்",
+    "te": "జవాబులు కొనసాగించు",
+    "id": "Lanjut menjawab",
+    "ms": "Terus menjawab",
+    "vi": "Tiếp tục trả lời",
+    "th": "ตอบต่อ",
+    "tr": "Yanıtlamaya devam et",
+    "fa": "ادامه پاسخ‌ها",
+    "he": "להמשיך לענות",
+    "pl": "Kontynuuj odpowiedzi",
+    "nl": "Verder antwoorden",
+    "fil": "Magpatuloy sa pagsagot"
+  },
+  "自己": {
+    "en": "Me",
+    "ja": "自分",
+    "ko": "나",
+    "es": "Yo",
+    "fr": "Moi",
+    "de": "Ich",
+    "it": "Io",
+    "pt": "Eu",
+    "ru": "Я",
+    "uk": "Я",
+    "ar": "أنا",
+    "hi": "मैं",
+    "bn": "আমি",
+    "ur": "میں",
+    "ta": "நான்",
+    "te": "నేను",
+    "id": "Saya",
+    "ms": "Saya",
+    "vi": "Tôi",
+    "th": "ฉัน",
+    "tr": "Ben",
+    "fa": "من",
+    "he": "אני",
+    "pl": "Ja",
+    "nl": "Ik",
+    "fil": "Ako"
+  },
+  "今日心情": {
+    "en": "Today's mood",
+    "ja": "今日の気分",
+    "ko": "오늘의 기분",
+    "es": "Ánimo de hoy",
+    "fr": "Humeur du jour",
+    "de": "Stimmung heute",
+    "it": "Umore di oggi",
+    "pt": "Humor de hoje",
+    "ru": "Настроение сегодня",
+    "uk": "Настрій сьогодні",
+    "ar": "مزاج اليوم",
+    "hi": "आज का मन",
+    "bn": "আজকের মন",
+    "ur": "آج کا مزاج",
+    "ta": "இன்றைய மனநிலை",
+    "te": "నేటి మనస్థితి",
+    "id": "Suasana hati hari ini",
+    "ms": "Perasaan hari ini",
+    "vi": "Tâm trạng hôm nay",
+    "th": "อารมณ์วันนี้",
+    "tr": "Bugünkü ruh hali",
+    "fa": "حال امروز",
+    "he": "מצב הרוח היום",
+    "pl": "Dzisiejszy nastrój",
+    "nl": "Stemming vandaag",
+    "fil": "Pakiramdam ngayon"
+  },
+  "更多": {
+    "en": "More",
+    "ja": "もっと見る",
+    "ko": "더 보기",
+    "es": "Más",
+    "fr": "Plus",
+    "de": "Mehr",
+    "it": "Altro",
+    "pt": "Mais",
+    "ru": "Ещё",
+    "uk": "Більше",
+    "ar": "المزيد",
+    "hi": "और",
+    "bn": "আরও",
+    "ur": "مزید",
+    "ta": "மேலும்",
+    "te": "మరిన్ని",
+    "id": "Lainnya",
+    "ms": "Lagi",
+    "vi": "Thêm",
+    "th": "เพิ่มเติม",
+    "tr": "Daha fazla",
+    "fa": "بیشتر",
+    "he": "עוד",
+    "pl": "Więcej",
+    "nl": "Meer",
+    "fil": "Higit pa"
+  },
+  "爱情": {
+    "en": "Love",
+    "ja": "恋愛",
+    "ko": "사랑",
+    "es": "Amor",
+    "fr": "Amour",
+    "de": "Liebe",
+    "it": "Amore",
+    "pt": "Amor",
+    "ru": "Любовь",
+    "uk": "Кохання",
+    "ar": "الحب",
+    "hi": "प्रेम",
+    "bn": "ভালোবাসা",
+    "ur": "محبت",
+    "ta": "காதல்",
+    "te": "ప్రేమ",
+    "id": "Cinta",
+    "ms": "Cinta",
+    "vi": "Tình yêu",
+    "th": "ความรัก",
+    "tr": "Aşk",
+    "fa": "عشق",
+    "he": "אהבה",
+    "pl": "Miłość",
+    "nl": "Liefde",
+    "fil": "Pag-ibig"
+  },
+  "财运": {
+    "en": "Money",
+    "ja": "金銭",
+    "ko": "금전",
+    "es": "Dinero",
+    "fr": "Argent",
+    "de": "Geld",
+    "it": "Denaro",
+    "pt": "Dinheiro",
+    "ru": "Деньги",
+    "uk": "Гроші",
+    "ar": "المال",
+    "hi": "धन",
+    "bn": "অর্থ",
+    "ur": "پیسہ",
+    "ta": "பணம்",
+    "te": "డబ్బు",
+    "id": "Keuangan",
+    "ms": "Wang",
+    "vi": "Tiền bạc",
+    "th": "การเงิน",
+    "tr": "Para",
+    "fa": "پول",
+    "he": "כסף",
+    "pl": "Pieniądze",
+    "nl": "Geld",
+    "fil": "Pera"
+  },
+  "事业": {
+    "en": "Career",
+    "ja": "仕事",
+    "ko": "직업",
+    "es": "Carrera",
+    "fr": "Carrière",
+    "de": "Beruf",
+    "it": "Carriera",
+    "pt": "Carreira",
+    "ru": "Карьера",
+    "uk": "Кар’єра",
+    "ar": "المهنة",
+    "hi": "करियर",
+    "bn": "কর্মজীবন",
+    "ur": "پیشہ",
+    "ta": "தொழில்",
+    "te": "వృత్తి",
+    "id": "Karier",
+    "ms": "Kerjaya",
+    "vi": "Sự nghiệp",
+    "th": "อาชีพ",
+    "tr": "Kariyer",
+    "fa": "کار",
+    "he": "קריירה",
+    "pl": "Kariera",
+    "nl": "Loopbaan",
+    "fil": "Karera"
+  },
+  "学业": {
+    "en": "Study",
+    "ja": "学習",
+    "ko": "학업",
+    "es": "Estudios",
+    "fr": "Études",
+    "de": "Lernen",
+    "it": "Studio",
+    "pt": "Estudos",
+    "ru": "Учёба",
+    "uk": "Навчання",
+    "ar": "الدراسة",
+    "hi": "पढ़ाई",
+    "bn": "পড়াশোনা",
+    "ur": "پڑھائی",
+    "ta": "படிப்பு",
+    "te": "చదువు",
+    "id": "Belajar",
+    "ms": "Pelajaran",
+    "vi": "Học tập",
+    "th": "การเรียน",
+    "tr": "Öğrenim",
+    "fa": "تحصیل",
+    "he": "לימודים",
+    "pl": "Nauka",
+    "nl": "Studie",
+    "fil": "Pag-aaral"
+  },
+  "人际": {
+    "en": "Social",
+    "ja": "人間関係",
+    "ko": "대인관계",
+    "es": "Relaciones",
+    "fr": "Relations",
+    "de": "Kontakte",
+    "it": "Relazioni",
+    "pt": "Relações",
+    "ru": "Общение",
+    "uk": "Спілкування",
+    "ar": "العلاقات",
+    "hi": "संबंध",
+    "bn": "সম্পর্ক",
+    "ur": "تعلقات",
+    "ta": "உறவுகள்",
+    "te": "సంబంధాలు",
+    "id": "Relasi",
+    "ms": "Hubungan",
+    "vi": "Quan hệ",
+    "th": "ความสัมพันธ์",
+    "tr": "İlişkiler",
+    "fa": "روابط",
+    "he": "יחסים",
+    "pl": "Relacje",
+    "nl": "Contacten",
+    "fil": "Ugnayan"
+  },
+  "家庭": {
+    "en": "Family",
+    "ja": "家族",
+    "ko": "가족",
+    "es": "Familia",
+    "fr": "Famille",
+    "de": "Familie",
+    "it": "Famiglia",
+    "pt": "Família",
+    "ru": "Семья",
+    "uk": "Родина",
+    "ar": "العائلة",
+    "hi": "परिवार",
+    "bn": "পরিবার",
+    "ur": "خاندان",
+    "ta": "குடும்பம்",
+    "te": "కుటుంబం",
+    "id": "Keluarga",
+    "ms": "Keluarga",
+    "vi": "Gia đình",
+    "th": "ครอบครัว",
+    "tr": "Aile",
+    "fa": "خانواده",
+    "he": "משפחה",
+    "pl": "Rodzina",
+    "nl": "Familie",
+    "fil": "Pamilya"
+  },
+  "情绪": {
+    "en": "Mood",
+    "ja": "感情",
+    "ko": "감정",
+    "es": "Emociones",
+    "fr": "Émotions",
+    "de": "Gefühle",
+    "it": "Emozioni",
+    "pt": "Emoções",
+    "ru": "Эмоции",
+    "uk": "Емоції",
+    "ar": "المشاعر",
+    "hi": "भावनाएँ",
+    "bn": "অনুভূতি",
+    "ur": "جذبات",
+    "ta": "உணர்வுகள்",
+    "te": "భావాలు",
+    "id": "Emosi",
+    "ms": "Emosi",
+    "vi": "Cảm xúc",
+    "th": "อารมณ์",
+    "tr": "Duygular",
+    "fa": "احساسات",
+    "he": "רגשות",
+    "pl": "Emocje",
+    "nl": "Emoties",
+    "fil": "Damdamin"
+  },
+  "综合分数": {
+    "en": "Overall score",
+    "ja": "総合点",
+    "ko": "종합 점수",
+    "es": "Puntuación general",
+    "fr": "Score global",
+    "de": "Gesamtwert",
+    "it": "Punteggio totale",
+    "pt": "Pontuação geral",
+    "ru": "Общий балл",
+    "uk": "Загальний бал",
+    "ar": "النتيجة الإجمالية",
+    "hi": "कुल अंक",
+    "bn": "মোট নম্বর",
+    "ur": "کل نمبر",
+    "ta": "மொத்த மதிப்பெண்",
+    "te": "మొత్తం స్కోరు",
+    "id": "Skor keseluruhan",
+    "ms": "Skor keseluruhan",
+    "vi": "Điểm tổng hợp",
+    "th": "คะแนนรวม",
+    "tr": "Genel puan",
+    "fa": "امتیاز کلی",
+    "he": "ציון כולל",
+    "pl": "Wynik ogólny",
+    "nl": "Totaalscore",
+    "fil": "Kabuuang puntos"
+  },
+  "日": {
+    "en": "Day",
+    "ja": "日",
+    "ko": "일",
+    "es": "Día",
+    "fr": "Jour",
+    "de": "Tag",
+    "it": "Giorno",
+    "pt": "Dia",
+    "ru": "День",
+    "uk": "День",
+    "ar": "يوم",
+    "hi": "दिन",
+    "bn": "দিন",
+    "ur": "دن",
+    "ta": "நாள்",
+    "te": "రోజు",
+    "id": "Hari",
+    "ms": "Hari",
+    "vi": "Ngày",
+    "th": "วัน",
+    "tr": "Gün",
+    "fa": "روز",
+    "he": "יום",
+    "pl": "Dzień",
+    "nl": "Dag",
+    "fil": "Araw"
+  },
+  "周": {
+    "en": "Week",
+    "ja": "週",
+    "ko": "주",
+    "es": "Semana",
+    "fr": "Semaine",
+    "de": "Woche",
+    "it": "Settimana",
+    "pt": "Semana",
+    "ru": "Неделя",
+    "uk": "Тиждень",
+    "ar": "أسبوع",
+    "hi": "सप्ताह",
+    "bn": "সপ্তাহ",
+    "ur": "ہفتہ",
+    "ta": "வாரம்",
+    "te": "వారం",
+    "id": "Minggu",
+    "ms": "Minggu",
+    "vi": "Tuần",
+    "th": "สัปดาห์",
+    "tr": "Hafta",
+    "fa": "هفته",
+    "he": "שבוע",
+    "pl": "Tydzień",
+    "nl": "Week",
+    "fil": "Linggo"
+  },
+  "月": {
+    "en": "Month",
+    "ja": "月",
+    "ko": "월",
+    "es": "Mes",
+    "fr": "Mois",
+    "de": "Monat",
+    "it": "Mese",
+    "pt": "Mês",
+    "ru": "Месяц",
+    "uk": "Місяць",
+    "ar": "شهر",
+    "hi": "महीना",
+    "bn": "মাস",
+    "ur": "مہینہ",
+    "ta": "மாதம்",
+    "te": "నెల",
+    "id": "Bulan",
+    "ms": "Bulan",
+    "vi": "Tháng",
+    "th": "เดือน",
+    "tr": "Ay",
+    "fa": "ماه",
+    "he": "חודש",
+    "pl": "Miesiąc",
+    "nl": "Maand",
+    "fil": "Buwan"
+  },
+  "年": {
+    "en": "Year",
+    "ja": "年",
+    "ko": "년",
+    "es": "Año",
+    "fr": "Année",
+    "de": "Jahr",
+    "it": "Anno",
+    "pt": "Ano",
+    "ru": "Год",
+    "uk": "Рік",
+    "ar": "سنة",
+    "hi": "वर्ष",
+    "bn": "বছর",
+    "ur": "سال",
+    "ta": "ஆண்டு",
+    "te": "సంవత్సరం",
+    "id": "Tahun",
+    "ms": "Tahun",
+    "vi": "Năm",
+    "th": "ปี",
+    "tr": "Yıl",
+    "fa": "سال",
+    "he": "שנה",
+    "pl": "Rok",
+    "nl": "Jaar",
+    "fil": "Taon"
+  },
+  "今天": {
+    "en": "Today",
+    "ja": "今日",
+    "ko": "오늘",
+    "es": "Hoy",
+    "fr": "Aujourd’hui",
+    "de": "Heute",
+    "it": "Oggi",
+    "pt": "Hoje",
+    "ru": "Сегодня",
+    "uk": "Сьогодні",
+    "ar": "اليوم",
+    "hi": "आज",
+    "bn": "আজ",
+    "ur": "آج",
+    "ta": "இன்று",
+    "te": "నేడు",
+    "id": "Hari ini",
+    "ms": "Hari ini",
+    "vi": "Hôm nay",
+    "th": "วันนี้",
+    "tr": "Bugün",
+    "fa": "امروز",
+    "he": "היום",
+    "pl": "Dzisiaj",
+    "nl": "Vandaag",
+    "fil": "Ngayon"
+  },
+  "本期幸运": {
+    "en": "Period charms",
+    "ja": "今期のお守り",
+    "ko": "이번 기간의 행운",
+    "es": "Amuletos del período",
+    "fr": "Symboles de la période",
+    "de": "Symbole der Zeit",
+    "it": "Simboli del periodo",
+    "pt": "Símbolos do período",
+    "ru": "Символы периода",
+    "uk": "Символи періоду",
+    "ar": "رموز الفترة",
+    "hi": "इस अवधि के प्रतीक",
+    "bn": "এই সময়ের প্রতীক",
+    "ur": "اس مدت کی علامتیں",
+    "ta": "இக்காலச் சின்னங்கள்",
+    "te": "ఈ కాలపు చిహ్నాలు",
+    "id": "Simbol periode",
+    "ms": "Simbol tempoh",
+    "vi": "Biểu tượng kỳ này",
+    "th": "สัญลักษณ์ช่วงนี้",
+    "tr": "Dönem sembolleri",
+    "fa": "نمادهای این دوره",
+    "he": "סמלי התקופה",
+    "pl": "Symbole okresu",
+    "nl": "Symbolen van deze periode",
+    "fil": "Mga simbolo ng panahon"
+  },
+  "小小幸运": {
+    "en": "Little charms",
+    "ja": "小さな幸運",
+    "ko": "작은 행운",
+    "es": "Pequeñas suertes",
+    "fr": "Petits porte-bonheur",
+    "de": "Kleine Glückssymbole",
+    "it": "Piccole fortune",
+    "pt": "Pequenas sortes",
+    "ru": "Маленькие талисманы",
+    "uk": "Маленькі талісмани",
+    "ar": "رموز صغيرة",
+    "hi": "छोटे शुभ प्रतीक",
+    "bn": "ছোট সৌভাগ্য প্রতীক",
+    "ur": "چھوٹی خوش قسمت علامتیں",
+    "ta": "சிறு நற்சின்னங்கள்",
+    "te": "చిన్న శుభ చిహ్నాలు",
+    "id": "Keberuntungan kecil",
+    "ms": "Tuah kecil",
+    "vi": "May mắn nhỏ",
+    "th": "สิ่งนำโชคเล็ก ๆ",
+    "tr": "Küçük şanslar",
+    "fa": "نمادهای کوچک بخت",
+    "he": "סמלי מזל קטנים",
+    "pl": "Małe symbole szczęścia",
+    "nl": "Kleine gelukssymbolen",
+    "fil": "Maliliit na simbolo ng suwerte"
+  },
+  "幸运颜色": {
+    "en": "Lucky color",
+    "ja": "ラッキーカラー",
+    "ko": "행운의 색",
+    "es": "Color de la suerte",
+    "fr": "Couleur porte-bonheur",
+    "de": "Glücksfarbe",
+    "it": "Colore fortunato",
+    "pt": "Cor da sorte",
+    "ru": "Цвет удачи",
+    "uk": "Щасливий колір",
+    "ar": "لون الحظ",
+    "hi": "शुभ रंग",
+    "bn": "শুভ রং",
+    "ur": "خوش قسمتی کا رنگ",
+    "ta": "அதிர்ஷ்ட நிறம்",
+    "te": "అదృష్ట రంగు",
+    "id": "Warna keberuntungan",
+    "ms": "Warna bertuah",
+    "vi": "Màu may mắn",
+    "th": "สีนำโชค",
+    "tr": "Şans rengi",
+    "fa": "رنگ بخت",
+    "he": "צבע מזל",
+    "pl": "Szczęśliwy kolor",
+    "nl": "Gelukskleur",
+    "fil": "Masuwerteng kulay"
+  },
+  "幸运数字": {
+    "en": "Lucky number",
+    "ja": "ラッキーナンバー",
+    "ko": "행운의 숫자",
+    "es": "Número de la suerte",
+    "fr": "Nombre porte-bonheur",
+    "de": "Glückszahl",
+    "it": "Numero fortunato",
+    "pt": "Número da sorte",
+    "ru": "Число удачи",
+    "uk": "Щасливе число",
+    "ar": "رقم الحظ",
+    "hi": "शुभ अंक",
+    "bn": "শুভ সংখ্যা",
+    "ur": "خوش قسمتی کا عدد",
+    "ta": "அதிர்ஷ்ட எண்",
+    "te": "అదృష్ట సంఖ్య",
+    "id": "Angka keberuntungan",
+    "ms": "Nombor bertuah",
+    "vi": "Số may mắn",
+    "th": "เลขนำโชค",
+    "tr": "Şans sayısı",
+    "fa": "عدد بخت",
+    "he": "מספר מזל",
+    "pl": "Szczęśliwa liczba",
+    "nl": "Geluksgetal",
+    "fil": "Masuwerteng numero"
+  },
+  "幸运石": {
+    "en": "Lucky stone",
+    "ja": "ラッキーストーン",
+    "ko": "행운의 돌",
+    "es": "Piedra de la suerte",
+    "fr": "Pierre porte-bonheur",
+    "de": "Glücksstein",
+    "it": "Pietra fortunata",
+    "pt": "Pedra da sorte",
+    "ru": "Камень удачи",
+    "uk": "Щасливий камінь",
+    "ar": "حجر الحظ",
+    "hi": "शुभ पत्थर",
+    "bn": "শুভ পাথর",
+    "ur": "خوش قسمتی کا پتھر",
+    "ta": "அதிர்ஷ்டக் கல்",
+    "te": "అదృష్ట రాయి",
+    "id": "Batu keberuntungan",
+    "ms": "Batu bertuah",
+    "vi": "Đá may mắn",
+    "th": "หินนำโชค",
+    "tr": "Şans taşı",
+    "fa": "سنگ بخت",
+    "he": "אבן מזל",
+    "pl": "Szczęśliwy kamień",
+    "nl": "Gelukssteen",
+    "fil": "Masuwerteng bato"
+  },
+  "设置密码": {
+    "en": "Set password",
+    "ja": "パスワード設定",
+    "ko": "비밀번호 설정",
+    "es": "Crear contraseña",
+    "fr": "Définir un mot de passe",
+    "de": "Passwort festlegen",
+    "it": "Imposta password",
+    "pt": "Definir palavra-passe",
+    "ru": "Установить пароль",
+    "uk": "Установити пароль",
+    "ar": "تعيين كلمة مرور",
+    "hi": "पासवर्ड बनाएँ",
+    "bn": "পাসওয়ার্ড দিন",
+    "ur": "پاس ورڈ بنائیں",
+    "ta": "கடவுச்சொல் அமை",
+    "te": "పాస్‌వర్డ్ సెట్ చేయు",
+    "id": "Atur kata sandi",
+    "ms": "Tetapkan kata laluan",
+    "vi": "Đặt mật khẩu",
+    "th": "ตั้งรหัสผ่าน",
+    "tr": "Parola belirle",
+    "fa": "تنظیم گذرواژه",
+    "he": "הגדרת סיסמה",
+    "pl": "Ustaw hasło",
+    "nl": "Wachtwoord instellen",
+    "fil": "Magtakda ng password"
+  },
+  "手机号码": {
+    "en": "Phone number",
+    "ja": "電話番号",
+    "ko": "전화번호",
+    "es": "Teléfono",
+    "fr": "Téléphone",
+    "de": "Telefonnummer",
+    "it": "Telefono",
+    "pt": "Telefone",
+    "ru": "Телефон",
+    "uk": "Телефон",
+    "ar": "رقم الهاتف",
+    "hi": "फ़ोन नंबर",
+    "bn": "ফোন নম্বর",
+    "ur": "فون نمبر",
+    "ta": "தொலைபேசி எண்",
+    "te": "ఫోన్ నంబర్",
+    "id": "Nomor telepon",
+    "ms": "Nombor telefon",
+    "vi": "Số điện thoại",
+    "th": "หมายเลขโทรศัพท์",
+    "tr": "Telefon numarası",
+    "fa": "شماره تلفن",
+    "he": "מספר טלפון",
+    "pl": "Numer telefonu",
+    "nl": "Telefoonnummer",
+    "fil": "Numero ng telepono"
+  },
+  "邮箱": {
+    "en": "Email",
+    "ja": "メール",
+    "ko": "이메일",
+    "es": "Correo",
+    "fr": "E-mail",
+    "de": "E-Mail",
+    "it": "E-mail",
+    "pt": "E-mail",
+    "ru": "Почта",
+    "uk": "Е-пошта",
+    "ar": "البريد الإلكتروني",
+    "hi": "ईमेल",
+    "bn": "ইমেইল",
+    "ur": "ای میل",
+    "ta": "மின்னஞ்சல்",
+    "te": "ఇమెయిల్",
+    "id": "Email",
+    "ms": "E-mel",
+    "vi": "Email",
+    "th": "อีเมล",
+    "tr": "E-posta",
+    "fa": "ایمیل",
+    "he": "דוא״ל",
+    "pl": "E-mail",
+    "nl": "E-mail",
+    "fil": "Email"
+  },
+  "注销账号": {
+    "en": "Delete account",
+    "ja": "アカウント削除",
+    "ko": "계정 삭제",
+    "es": "Eliminar cuenta",
+    "fr": "Supprimer le compte",
+    "de": "Konto löschen",
+    "it": "Elimina account",
+    "pt": "Eliminar conta",
+    "ru": "Удалить аккаунт",
+    "uk": "Видалити обліковий запис",
+    "ar": "حذف الحساب",
+    "hi": "खाता हटाएँ",
+    "bn": "অ্যাকাউন্ট মুছুন",
+    "ur": "اکاؤنٹ حذف کریں",
+    "ta": "கணக்கை நீக்கு",
+    "te": "ఖాతా తొలగించు",
+    "id": "Hapus akun",
+    "ms": "Padam akaun",
+    "vi": "Xóa tài khoản",
+    "th": "ลบบัญชี",
+    "tr": "Hesabı sil",
+    "fa": "حذف حساب",
+    "he": "מחיקת חשבון",
+    "pl": "Usuń konto",
+    "nl": "Account verwijderen",
+    "fil": "Burahin ang account"
+  },
+  "授权管理": {
+    "en": "Authorizations",
+    "ja": "認証管理",
+    "ko": "인증 관리",
+    "es": "Autorizaciones",
+    "fr": "Autorisations",
+    "de": "Berechtigungen",
+    "it": "Autorizzazioni",
+    "pt": "Autorizações",
+    "ru": "Разрешения",
+    "uk": "Дозволи",
+    "ar": "التفويضات",
+    "hi": "अनुमतियाँ",
+    "bn": "অনুমোদন",
+    "ur": "اجازتیں",
+    "ta": "அனுமதிகள்",
+    "te": "అనుమతులు",
+    "id": "Otorisasi",
+    "ms": "Kebenaran",
+    "vi": "Quyền truy cập",
+    "th": "การอนุญาต",
+    "tr": "Yetkiler",
+    "fa": "مجوزها",
+    "he": "הרשאות",
+    "pl": "Uprawnienia",
+    "nl": "Machtigingen",
+    "fil": "Mga pahintulot"
+  },
+  "搜索语言": {
+    "en": "Search languages",
+    "ja": "言語を検索",
+    "ko": "언어 검색",
+    "es": "Buscar idiomas",
+    "fr": "Rechercher une langue",
+    "de": "Sprachen suchen",
+    "it": "Cerca lingue",
+    "pt": "Pesquisar idiomas",
+    "ru": "Поиск языков",
+    "uk": "Пошук мов",
+    "ar": "البحث عن لغة",
+    "hi": "भाषाएँ खोजें",
+    "bn": "ভাষা খুঁজুন",
+    "ur": "زبان تلاش کریں",
+    "ta": "மொழிகளைத் தேடு",
+    "te": "భాషలు వెతుకు",
+    "id": "Cari bahasa",
+    "ms": "Cari bahasa",
+    "vi": "Tìm ngôn ngữ",
+    "th": "ค้นหาภาษา",
+    "tr": "Dil ara",
+    "fa": "جست‌وجوی زبان",
+    "he": "חיפוש שפות",
+    "pl": "Szukaj języków",
+    "nl": "Talen zoeken",
+    "fil": "Maghanap ng wika"
+  },
+  "诗意": {
+    "en": "Poetic meaning",
+    "ja": "詩の意味",
+    "ko": "시의 뜻",
+    "es": "Sentido del poema",
+    "fr": "Sens du poème",
+    "de": "Bedeutung des Gedichts",
+    "it": "Senso della poesia",
+    "pt": "Sentido do poema",
+    "ru": "Смысл стихотворения",
+    "uk": "Зміст вірша",
+    "ar": "معنى القصيدة",
+    "hi": "कविता का अर्थ",
+    "bn": "কবিতার অর্থ",
+    "ur": "نظم کا مطلب",
+    "ta": "கவிதையின் பொருள்",
+    "te": "పద్య భావం",
+    "id": "Makna puisi",
+    "ms": "Makna puisi",
+    "vi": "Ý nghĩa bài thơ",
+    "th": "ความหมายบทกลอน",
+    "tr": "Şiirin anlamı",
+    "fa": "معنای شعر",
+    "he": "משמעות השיר",
+    "pl": "Znaczenie wiersza",
+    "nl": "Betekenis van het gedicht",
+    "fil": "Kahulugan ng tula"
+  },
+  "解曰": {
+    "en": "Traditional explanation",
+    "ja": "伝統の解説",
+    "ko": "전통 풀이",
+    "es": "Explicación tradicional",
+    "fr": "Explication traditionnelle",
+    "de": "Traditionelle Deutung",
+    "it": "Spiegazione tradizionale",
+    "pt": "Explicação tradicional",
+    "ru": "Традиционное толкование",
+    "uk": "Традиційне пояснення",
+    "ar": "التفسير التقليدي",
+    "hi": "पारंपरिक अर्थ",
+    "bn": "প্রচলিত ব্যাখ্যা",
+    "ur": "روایتی تشریح",
+    "ta": "மரபு விளக்கம்",
+    "te": "సంప్రదాయ వివరణ",
+    "id": "Penjelasan tradisional",
+    "ms": "Penjelasan tradisional",
+    "vi": "Lời giải truyền thống",
+    "th": "คำอธิบายดั้งเดิม",
+    "tr": "Geleneksel açıklama",
+    "fa": "تفسیر سنتی",
+    "he": "פירוש מסורתי",
+    "pl": "Tradycyjne wyjaśnienie",
+    "nl": "Traditionele uitleg",
+    "fil": "Tradisyonal na paliwanag"
+  },
+  "现代解读": {
+    "en": "Modern reflection",
+    "ja": "現代の読み解き",
+    "ko": "현대적 성찰",
+    "es": "Reflexión moderna",
+    "fr": "Réflexion moderne",
+    "de": "Moderne Reflexion",
+    "it": "Riflessione moderna",
+    "pt": "Reflexão moderna",
+    "ru": "Современное размышление",
+    "uk": "Сучасні роздуми",
+    "ar": "تأمل حديث",
+    "hi": "आधुनिक मनन",
+    "bn": "আধুনিক মনন",
+    "ur": "جدید غور",
+    "ta": "நவீன சிந்தனை",
+    "te": "ఆధునిక ఆలోచన",
+    "id": "Refleksi modern",
+    "ms": "Renungan moden",
+    "vi": "Suy ngẫm hiện đại",
+    "th": "บททบทวนสมัยใหม่",
+    "tr": "Modern yorum",
+    "fa": "تأمل امروزی",
+    "he": "התבוננות מודרנית",
+    "pl": "Współczesna refleksja",
+    "nl": "Moderne reflectie",
+    "fil": "Makabagong pagninilay"
+  },
+  "传统原文": {
+    "en": "Traditional text",
+    "ja": "伝統の原文",
+    "ko": "전통 원문",
+    "es": "Texto tradicional",
+    "fr": "Texte traditionnel",
+    "de": "Überlieferter Text",
+    "it": "Testo tradizionale",
+    "pt": "Texto tradicional",
+    "ru": "Традиционный текст",
+    "uk": "Традиційний текст",
+    "ar": "النص التقليدي",
+    "hi": "पारंपरिक पाठ",
+    "bn": "প্রচলিত পাঠ",
+    "ur": "روایتی متن",
+    "ta": "மரபு உரை",
+    "te": "సంప్రదాయ పాఠ్యం",
+    "id": "Teks tradisional",
+    "ms": "Teks tradisional",
+    "vi": "Nguyên văn truyền thống",
+    "th": "ข้อความดั้งเดิม",
+    "tr": "Geleneksel metin",
+    "fa": "متن سنتی",
+    "he": "טקסט מסורתי",
+    "pl": "Tekst tradycyjny",
+    "nl": "Traditionele tekst",
+    "fil": "Tradisyonal na teksto"
+  },
+  "浏览完整 100 签": {
+    "en": "Browse all 100 lots",
+    "ja": "全100籤を見る",
+    "ko": "100개 제비 모두 보기",
+    "es": "Ver las 100 suertes",
+    "fr": "Voir les 100 tirages",
+    "de": "Alle 100 Lose ansehen",
+    "it": "Sfoglia tutte le 100 sorti",
+    "pt": "Ver todas as 100 sortes",
+    "ru": "Все 100 жребиев",
+    "uk": "Усі 100 жеребів",
+    "ar": "تصفح القرعات المئة",
+    "hi": "सभी 100 पर्चियाँ देखें",
+    "bn": "সব ১০০টি দেখুন",
+    "ur": "تمام ۱۰۰ قرعے دیکھیں",
+    "ta": "100 சீட்டுகளையும் பார்க்கவும்",
+    "te": "మొత్తం 100 చీటీలు చూడండి",
+    "id": "Lihat semua 100 undian",
+    "ms": "Lihat semua 100 cabutan",
+    "vi": "Xem đủ 100 quẻ",
+    "th": "ดูเซียมซีครบ 100 ใบ",
+    "tr": "100 kurayı incele",
+    "fa": "دیدن هر ۱۰۰ قرعه",
+    "he": "עיון בכל 100 הפתקים",
+    "pl": "Zobacz wszystkie 100 losów",
+    "nl": "Alle 100 loten bekijken",
+    "fil": "Tingnan ang lahat ng 100 bunot"
+  },
+  "动机清晰": {
+    "en": "Clear motivation",
+    "ja": "動機の明確さ",
+    "ko": "명확한 동기",
+    "es": "Motivación clara",
+    "fr": "Motivation claire",
+    "de": "Klare Motivation",
+    "it": "Motivazione chiara",
+    "pt": "Motivação clara",
+    "ru": "Ясность мотивации",
+    "uk": "Чітка мотивація",
+    "ar": "وضوح الدافع",
+    "hi": "स्पष्ट प्रेरणा",
+    "bn": "স্পষ্ট প্রেরণা",
+    "ur": "واضح محرک",
+    "ta": "தெளிவான நோக்கம்",
+    "te": "స్పష్టమైన ఉద్దేశం",
+    "id": "Motivasi jelas",
+    "ms": "Motivasi jelas",
+    "vi": "Động lực rõ ràng",
+    "th": "แรงจูงใจชัดเจน",
+    "tr": "Net motivasyon",
+    "fa": "انگیزه روشن",
+    "he": "מניע ברור",
+    "pl": "Jasna motywacja",
+    "nl": "Heldere motivatie",
+    "fil": "Malinaw na motibasyon"
+  },
+  "事实依据": {
+    "en": "Evidence",
+    "ja": "根拠",
+    "ko": "근거",
+    "es": "Evidencia",
+    "fr": "Faits",
+    "de": "Fakten",
+    "it": "Fatti",
+    "pt": "Evidências",
+    "ru": "Факты",
+    "uk": "Факти",
+    "ar": "الأدلة",
+    "hi": "तथ्य",
+    "bn": "তথ্য",
+    "ur": "حقائق",
+    "ta": "ஆதாரம்",
+    "te": "ఆధారం",
+    "id": "Bukti",
+    "ms": "Bukti",
+    "vi": "Bằng chứng",
+    "th": "หลักฐาน",
+    "tr": "Kanıt",
+    "fa": "شواهد",
+    "he": "ראיות",
+    "pl": "Dowody",
+    "nl": "Bewijs",
+    "fil": "Ebidensya"
+  },
+  "资源准备": {
+    "en": "Resources",
+    "ja": "準備",
+    "ko": "자원 준비",
+    "es": "Recursos",
+    "fr": "Ressources",
+    "de": "Ressourcen",
+    "it": "Risorse",
+    "pt": "Recursos",
+    "ru": "Ресурсы",
+    "uk": "Ресурси",
+    "ar": "الموارد",
+    "hi": "संसाधन",
+    "bn": "সম্পদ",
+    "ur": "وسائل",
+    "ta": "வளங்கள்",
+    "te": "వనరులు",
+    "id": "Sumber daya",
+    "ms": "Sumber",
+    "vi": "Nguồn lực",
+    "th": "ทรัพยากร",
+    "tr": "Kaynaklar",
+    "fa": "منابع",
+    "he": "משאבים",
+    "pl": "Zasoby",
+    "nl": "Middelen",
+    "fil": "Mga mapagkukunan"
+  },
+  "风险承受": {
+    "en": "Risk tolerance",
+    "ja": "リスク許容",
+    "ko": "위험 감수",
+    "es": "Tolerancia al riesgo",
+    "fr": "Tolérance au risque",
+    "de": "Risikotoleranz",
+    "it": "Tolleranza al rischio",
+    "pt": "Tolerância ao risco",
+    "ru": "Допустимый риск",
+    "uk": "Прийнятний ризик",
+    "ar": "تحمل المخاطر",
+    "hi": "जोखिम सहनशीलता",
+    "bn": "ঝুঁকি সহনশীলতা",
+    "ur": "خطرہ برداشت",
+    "ta": "இடர் தாங்கும் திறன்",
+    "te": "ప్రమాద సహనం",
+    "id": "Toleransi risiko",
+    "ms": "Toleransi risiko",
+    "vi": "Chịu rủi ro",
+    "th": "การรับความเสี่ยง",
+    "tr": "Risk toleransı",
+    "fa": "تحمل خطر",
+    "he": "סבילות לסיכון",
+    "pl": "Tolerancja ryzyka",
+    "nl": "Risicotolerantie",
+    "fil": "Pagtanggap sa panganib"
+  },
+  "独立判断": {
+    "en": "Independent judgment",
+    "ja": "自主判断",
+    "ko": "독립적 판단",
+    "es": "Criterio propio",
+    "fr": "Jugement personnel",
+    "de": "Eigenes Urteil",
+    "it": "Giudizio autonomo",
+    "pt": "Juízo próprio",
+    "ru": "Своё суждение",
+    "uk": "Власне судження",
+    "ar": "حكم مستقل",
+    "hi": "स्वतंत्र निर्णय",
+    "bn": "স্বাধীন বিচার",
+    "ur": "آزادانہ فیصلہ",
+    "ta": "சுய தீர்ப்பு",
+    "te": "స్వతంత్ర నిర్ణయం",
+    "id": "Penilaian mandiri",
+    "ms": "Pertimbangan sendiri",
+    "vi": "Phán đoán độc lập",
+    "th": "การตัดสินใจอิสระ",
+    "tr": "Bağımsız yargı",
+    "fa": "قضاوت مستقل",
+    "he": "שיקול דעת עצמאי",
+    "pl": "Własny osąd",
+    "nl": "Eigen oordeel",
+    "fil": "Sariling paghatol"
+  },
+  "获取验证码": {
+    "en": "Send code",
+    "ja": "コードを送信",
+    "ko": "코드 보내기",
+    "es": "Enviar código",
+    "fr": "Envoyer le code",
+    "de": "Code senden",
+    "it": "Invia codice",
+    "pt": "Enviar código",
+    "ru": "Отправить код",
+    "uk": "Надіслати код",
+    "ar": "إرسال الرمز",
+    "hi": "कोड भेजें",
+    "bn": "কোড পাঠান",
+    "ur": "کوڈ بھیجیں",
+    "ta": "குறியீடு அனுப்பு",
+    "te": "కోడ్ పంపు",
+    "id": "Kirim kode",
+    "ms": "Hantar kod",
+    "vi": "Gửi mã",
+    "th": "ส่งรหัส",
+    "tr": "Kod gönder",
+    "fa": "ارسال کد",
+    "he": "שליחת קוד",
+    "pl": "Wyślij kod",
+    "nl": "Code verzenden",
+    "fil": "Ipadala ang code"
+  },
+  "短信验证码": {
+    "en": "SMS code",
+    "ja": "SMSコード",
+    "ko": "SMS 코드",
+    "es": "Código SMS",
+    "fr": "Code SMS",
+    "de": "SMS-Code",
+    "it": "Codice SMS",
+    "pt": "Código SMS",
+    "ru": "Код из SMS",
+    "uk": "Код SMS",
+    "ar": "رمز الرسالة",
+    "hi": "SMS कोड",
+    "bn": "SMS কোড",
+    "ur": "SMS کوڈ",
+    "ta": "SMS குறியீடு",
+    "te": "SMS కోడ్",
+    "id": "Kode SMS",
+    "ms": "Kod SMS",
+    "vi": "Mã SMS",
+    "th": "รหัส SMS",
+    "tr": "SMS kodu",
+    "fa": "کد پیامک",
+    "he": "קוד SMS",
+    "pl": "Kod SMS",
+    "nl": "SMS-code",
+    "fil": "SMS code"
+  },
+  "登录提示": {
+    "en": "Sign-in notice",
+    "ja": "ログインのお知らせ",
+    "ko": "로그인 안내",
+    "es": "Aviso de acceso",
+    "fr": "Connexion",
+    "de": "Anmeldehinweis",
+    "it": "Avviso di accesso",
+    "pt": "Aviso de acesso",
+    "ru": "Вход в аккаунт",
+    "uk": "Повідомлення про вхід",
+    "ar": "إشعار الدخول",
+    "hi": "साइन-इन सूचना",
+    "bn": "প্রবেশের বার্তা",
+    "ur": "داخلے کا پیغام",
+    "ta": "உள்நுழைவு அறிவிப்பு",
+    "te": "సైన్-ఇన్ నోటీసు",
+    "id": "Pemberitahuan masuk",
+    "ms": "Notis log masuk",
+    "vi": "Thông báo đăng nhập",
+    "th": "แจ้งการเข้าสู่ระบบ",
+    "tr": "Giriş bildirimi",
+    "fa": "پیام ورود",
+    "he": "הודעת כניסה",
+    "pl": "Informacja o logowaniu",
+    "nl": "Aanmeldbericht",
+    "fil": "Abiso sa pag-sign in"
+  },
+  "知道了": {
+    "en": "OK",
+    "ja": "わかりました",
+    "ko": "확인",
+    "es": "Entendido",
+    "fr": "Compris",
+    "de": "Verstanden",
+    "it": "Ho capito",
+    "pt": "Entendido",
+    "ru": "Понятно",
+    "uk": "Зрозуміло",
+    "ar": "حسنًا",
+    "hi": "समझ गया",
+    "bn": "বুঝেছি",
+    "ur": "سمجھ گیا",
+    "ta": "புரிந்தது",
+    "te": "అర్థమైంది",
+    "id": "Mengerti",
+    "ms": "Faham",
+    "vi": "Đã hiểu",
+    "th": "เข้าใจแล้ว",
+    "tr": "Anladım",
+    "fa": "متوجه شدم",
+    "he": "הבנתי",
+    "pl": "Rozumiem",
+    "nl": "Begrepen",
+    "fil": "Naintindihan"
+  },
+  "绑定": {
+    "en": "Link",
+    "ja": "連携",
+    "ko": "연결",
+    "es": "Vincular",
+    "fr": "Associer",
+    "de": "Verknüpfen",
+    "it": "Collega",
+    "pt": "Associar",
+    "ru": "Привязать",
+    "uk": "Прив’язати",
+    "ar": "ربط",
+    "hi": "जोड़ें",
+    "bn": "যুক্ত করুন",
+    "ur": "منسلک کریں",
+    "ta": "இணை",
+    "te": "లింక్ చేయు",
+    "id": "Tautkan",
+    "ms": "Pautkan",
+    "vi": "Liên kết",
+    "th": "เชื่อมโยง",
+    "tr": "Bağla",
+    "fa": "پیوند",
+    "he": "קישור",
+    "pl": "Połącz",
+    "nl": "Koppelen",
+    "fil": "I-link"
+  },
+  "更换": {
+    "en": "Change",
+    "ja": "変更",
+    "ko": "변경",
+    "es": "Cambiar",
+    "fr": "Modifier",
+    "de": "Ändern",
+    "it": "Cambia",
+    "pt": "Alterar",
+    "ru": "Изменить",
+    "uk": "Змінити",
+    "ar": "تغيير",
+    "hi": "बदलें",
+    "bn": "বদলান",
+    "ur": "بدلیں",
+    "ta": "மாற்று",
+    "te": "మార్చు",
+    "id": "Ubah",
+    "ms": "Tukar",
+    "vi": "Thay đổi",
+    "th": "เปลี่ยน",
+    "tr": "Değiştir",
+    "fa": "تغییر",
+    "he": "שינוי",
+    "pl": "Zmień",
+    "nl": "Wijzigen",
+    "fil": "Palitan"
+  },
+  "未绑定": {
+    "en": "Not linked",
+    "ja": "未連携",
+    "ko": "연결 안 됨",
+    "es": "Sin vincular",
+    "fr": "Non associé",
+    "de": "Nicht verknüpft",
+    "it": "Non collegato",
+    "pt": "Não associado",
+    "ru": "Не привязано",
+    "uk": "Не прив’язано",
+    "ar": "غير مرتبط",
+    "hi": "नहीं जुड़ा",
+    "bn": "যুক্ত নয়",
+    "ur": "منسلک نہیں",
+    "ta": "இணைக்கவில்லை",
+    "te": "లింక్ కాలేదు",
+    "id": "Belum ditautkan",
+    "ms": "Belum dipautkan",
+    "vi": "Chưa liên kết",
+    "th": "ยังไม่เชื่อมโยง",
+    "tr": "Bağlı değil",
+    "fa": "پیوند ندارد",
+    "he": "לא מקושר",
+    "pl": "Niepołączone",
+    "nl": "Niet gekoppeld",
+    "fil": "Hindi naka-link"
+  },
+  "已绑定": {
+    "en": "Linked",
+    "ja": "連携済み",
+    "ko": "연결됨",
+    "es": "Vinculado",
+    "fr": "Associé",
+    "de": "Verknüpft",
+    "it": "Collegato",
+    "pt": "Associado",
+    "ru": "Привязано",
+    "uk": "Прив’язано",
+    "ar": "مرتبط",
+    "hi": "जुड़ा है",
+    "bn": "যুক্ত",
+    "ur": "منسلک",
+    "ta": "இணைக்கப்பட்டது",
+    "te": "లింక్ అయింది",
+    "id": "Ditautkan",
+    "ms": "Dipautkan",
+    "vi": "Đã liên kết",
+    "th": "เชื่อมโยงแล้ว",
+    "tr": "Bağlı",
+    "fa": "پیوند دارد",
+    "he": "מקושר",
+    "pl": "Połączone",
+    "nl": "Gekoppeld",
+    "fil": "Naka-link"
+  },
+  "这个念头，\n在你心里待了多久？": {
+    "en": "This idea still matters to me after calm reflection over time.",
+    "ja": "落ち着いて時間を置いても、この考えは大切です。",
+    "ko": "시간을 두고 차분히 생각한 뒤에도 이 생각은 중요합니다.",
+    "es": "La idea sigue siendo importante tras reflexionar con calma.",
+    "fr": "Cette idée compte encore après un temps de réflexion calme.",
+    "de": "Auch nach ruhigem Nachdenken ist mir diese Idee wichtig.",
+    "it": "Questa idea conta ancora dopo una riflessione calma.",
+    "pt": "Esta ideia continua importante após uma reflexão calma.",
+    "ru": "После спокойных размышлений эта идея всё ещё важна для меня.",
+    "uk": "Після спокійних роздумів ця ідея й далі важлива для мене.",
+    "ar": "تظل هذه الفكرة مهمة لي بعد تفكير هادئ مع مرور الوقت.",
+    "hi": "शांत होकर समय देने के बाद भी यह विचार मेरे लिए महत्वपूर्ण है।",
+    "bn": "সময় নিয়ে শান্তভাবে ভাবার পরও ধারণাটি আমার কাছে গুরুত্বপূর্ণ।",
+    "ur": "وقت لے کر سکون سے سوچنے کے بعد بھی یہ خیال میرے لیے اہم ہے۔",
+    "ta": "அமைதியாகக் காலம் எடுத்துச் சிந்தித்த பிறகும் இந்த எண்ணம் எனக்கு முக்கியம்.",
+    "te": "సమయం తీసుకుని ప్రశాంతంగా ఆలోచించినా ఈ ఆలోచన నాకు ముఖ్యమే.",
+    "id": "Ide ini tetap penting setelah saya pikirkan dengan tenang.",
+    "ms": "Idea ini masih penting selepas saya fikirkan dengan tenang.",
+    "vi": "Sau khi bình tĩnh suy nghĩ một thời gian, ý tưởng này vẫn quan trọng.",
+    "th": "หลังใช้เวลาคิดอย่างสงบ ความคิดนี้ยังสำคัญต่อฉัน",
+    "tr": "Sakin düşünmeye zaman ayırdıktan sonra da bu fikir benim için önemli.",
+    "fa": "پس از مدتی فکر آرام، این ایده هنوز برایم مهم است.",
+    "he": "לאחר מחשבה רגועה לאורך זמן, הרעיון עדיין חשוב לי.",
+    "pl": "Po spokojnym namyśle ten pomysł nadal jest dla mnie ważny.",
+    "nl": "Na rustig nadenken blijft dit idee belangrijk voor mij.",
+    "fil": "Mahalaga pa rin ang ideyang ito matapos ang mahinahong pag-iisip."
+  },
+  "你最想通过它，\n改变什么？": {
+    "en": "I know what I want to change and how it fits my long-term direction.",
+    "ja": "変えたいことと長期的な方向が明確です。",
+    "ko": "바꾸려는 점과 장기적인 방향이 분명합니다.",
+    "es": "Sé qué quiero cambiar y cómo encaja en mi rumbo a largo plazo.",
+    "fr": "Je sais ce que je veux changer et comment cela s’inscrit dans ma direction à long terme.",
+    "de": "Ich weiß, was ich ändern möchte und wie es zu meinem langfristigen Weg passt.",
+    "it": "So cosa voglio cambiare e come si collega alla mia direzione a lungo termine.",
+    "pt": "Sei o que quero mudar e como se liga ao meu rumo a longo prazo.",
+    "ru": "Я понимаю, что хочу изменить и как это связано с долгосрочными целями.",
+    "uk": "Я розумію, що хочу змінити і як це відповідає довгостроковому напряму.",
+    "ar": "أعرف ما أريد تغييره وكيف ينسجم مع اتجاهي طويل الأمد.",
+    "hi": "मुझे पता है क्या बदलना है और यह दीर्घकालिक दिशा से कैसे जुड़ता है।",
+    "bn": "আমি জানি কী বদলাতে চাই এবং তা দীর্ঘমেয়াদি লক্ষ্যের সঙ্গে কীভাবে মেলে।",
+    "ur": "مجھے معلوم ہے کیا بدلنا ہے اور یہ طویل مدتی سمت سے کیسے ملتا ہے۔",
+    "ta": "எதை மாற்ற வேண்டும், அது நீண்டகால நோக்குடன் எப்படி பொருந்துகிறது என்பது தெளிவு.",
+    "te": "ఏం మార్చాలో, అది దీర్ఘకాల దిశకు ఎలా సరిపోతుందో తెలుసు.",
+    "id": "Saya tahu apa yang ingin diubah dan kaitannya dengan arah jangka panjang.",
+    "ms": "Saya tahu apa yang mahu diubah dan kaitannya dengan hala tuju jangka panjang.",
+    "vi": "Tôi biết muốn thay đổi điều gì và nó phù hợp với hướng đi dài hạn ra sao.",
+    "th": "ฉันรู้ว่าต้องการเปลี่ยนอะไรและสอดคล้องกับทิศทางระยะยาวอย่างไร",
+    "tr": "Neyi değiştirmek istediğimi ve uzun vadeli yönümle bağını biliyorum.",
+    "fa": "می‌دانم چه چیزی را می‌خواهم تغییر دهم و با مسیر بلندمدتم چه ارتباطی دارد.",
+    "he": "ברור לי מה ברצוני לשנות וכיצד זה משתלב בכיוון שלי לטווח ארוך.",
+    "pl": "Wiem, co chcę zmienić i jak pasuje to do mojego długofalowego kierunku.",
+    "nl": "Ik weet wat ik wil veranderen en hoe het past bij mijn langetermijnrichting.",
+    "fil": "Alam ko ang gusto kong baguhin at ang ugnay nito sa pangmatagalang direksiyon."
+  },
+  "热情退去之后，\n你还愿意继续吗？": {
+    "en": "I am willing to continue through the routine, unexciting parts.",
+    "ja": "地道で退屈な過程も続ける覚悟があります。",
+    "ko": "지루하고 평범한 과정도 계속할 의지가 있습니다.",
+    "es": "Acepto continuar también durante las partes rutinarias.",
+    "fr": "Je suis prêt à poursuivre même dans les étapes routinières.",
+    "de": "Ich bin bereit, auch durch die alltäglichen, langweiligen Phasen weiterzumachen.",
+    "it": "Sono disposto a continuare anche nelle parti ordinarie e noiose.",
+    "pt": "Estou disposto a continuar mesmo nas partes rotineiras.",
+    "ru": "Я готов продолжать и в рутинные, скучные периоды.",
+    "uk": "Я готовий продовжувати й під час рутинних етапів.",
+    "ar": "أنا مستعد للاستمرار حتى في الأجزاء الروتينية والمملة.",
+    "hi": "मैं साधारण और उबाऊ हिस्सों में भी आगे बढ़ने को तैयार हूँ।",
+    "bn": "সাধারণ ও একঘেয়ে অংশেও এগিয়ে যেতে আমি প্রস্তুত।",
+    "ur": "میں معمول کے غیر دلچسپ حصوں میں بھی جاری رہنے کو تیار ہوں۔",
+    "ta": "சாதாரணமான சலிப்பூட்டும் கட்டங்களிலும் தொடரத் தயாராக உள்ளேன்.",
+    "te": "సాధారణమైన, విసుగైన దశల్లోనూ కొనసాగేందుకు సిద్ధంగా ఉన్నాను.",
+    "id": "Saya bersedia bertahan pada bagian yang rutin dan membosankan.",
+    "ms": "Saya sanggup meneruskan bahagian yang rutin dan membosankan.",
+    "vi": "Tôi sẵn lòng tiếp tục cả những phần thường ngày và nhàm chán.",
+    "th": "ฉันพร้อมทำต่อแม้ในช่วงธรรมดาและน่าเบื่อ",
+    "tr": "Rutin ve sıkıcı kısımlarda da devam etmeye hazırım.",
+    "fa": "حاضرم در بخش‌های روزمره و خسته‌کننده هم ادامه بدهم.",
+    "he": "אני מוכן להמשיך גם בחלקים השגרתיים והמשעממים.",
+    "pl": "Jestem gotów kontynuować także w rutynowych i nudnych etapach.",
+    "nl": "Ik wil ook doorgaan tijdens gewone en saaie onderdelen.",
+    "fil": "Handa akong magpatuloy kahit sa karaniwan at nakakabagot na bahagi."
+  },
+  "你对这件事的了解，\n来自哪里？": {
+    "en": "I have checked the key facts, including direct experience where possible.",
+    "ja": "可能な範囲で体験し、重要な事実を確認しました。",
+    "ko": "가능한 직접 경험을 포함해 핵심 사실을 확인했습니다.",
+    "es": "He comprobado los hechos clave, con experiencia directa cuando es posible.",
+    "fr": "J’ai vérifié les faits essentiels, par expérience directe si possible.",
+    "de": "Ich habe die wichtigsten Fakten geprüft, möglichst auch durch eigene Erfahrung.",
+    "it": "Ho verificato i fatti essenziali, anche direttamente quando possibile.",
+    "pt": "Verifiquei os factos essenciais, com experiência direta quando possível.",
+    "ru": "Я проверил ключевые факты, по возможности на собственном опыте.",
+    "uk": "Я перевірив основні факти, за можливості на власному досвіді.",
+    "ar": "تحققت من الحقائق الأساسية وبالتجربة المباشرة حين أمكن.",
+    "hi": "मैंने मुख्य तथ्य जाँचे हैं, जहाँ संभव हो सीधे अनुभव से भी।",
+    "bn": "সম্ভব হলে সরাসরি অভিজ্ঞতাসহ মূল তথ্য যাচাই করেছি।",
+    "ur": "میں نے اہم حقائق جانچے ہیں، جہاں ممکن ہو براہ راست تجربے سے بھی۔",
+    "ta": "முக்கிய உண்மைகளை, முடிந்தால் நேரடி அனுபவத்துடனும் சரிபார்த்தேன்.",
+    "te": "సాధ్యమైన చోట ప్రత్యక్ష అనుభవంతో సహా కీలక నిజాలు తనిఖీ చేశాను.",
+    "id": "Saya sudah memeriksa fakta utama, lewat pengalaman langsung bila memungkinkan.",
+    "ms": "Saya sudah menyemak fakta utama, melalui pengalaman langsung jika boleh.",
+    "vi": "Tôi đã kiểm chứng các sự thật chính, bằng trải nghiệm trực tiếp khi có thể.",
+    "th": "ฉันตรวจสอบข้อเท็จจริงสำคัญแล้ว รวมถึงประสบการณ์ตรงเมื่อทำได้",
+    "tr": "Önemli gerçekleri, mümkünse doğrudan deneyimle doğruladım.",
+    "fa": "واقعیت‌های مهم را تا حد امکان با تجربه مستقیم بررسی کرده‌ام.",
+    "he": "בדקתי את העובדות המרכזיות, גם מניסיון ישיר כשאפשר.",
+    "pl": "Sprawdziłem kluczowe fakty, w miarę możliwości także osobiście.",
+    "nl": "Ik heb de belangrijkste feiten gecontroleerd, waar mogelijk uit eigen ervaring.",
+    "fil": "Sinuri ko ang mahahalagang katotohanan, sa tuwirang karanasan kung maaari."
+  },
+  "如果有人反对，\n你能听进去吗？": {
+    "en": "I have looked for evidence against my plan and taken it seriously.",
+    "ja": "反対の証拠も探し、真剣に検討しました。",
+    "ko": "계획에 반대되는 근거도 찾아 진지하게 검토했습니다.",
+    "es": "He buscado pruebas contrarias a mi plan y las he considerado.",
+    "fr": "J’ai recherché et considéré les éléments contraires à mon projet.",
+    "de": "Ich habe Gegenargumente gesucht und ernst genommen.",
+    "it": "Ho cercato e considerato prove contrarie al mio piano.",
+    "pt": "Procurei e considerei provas contrárias ao meu plano.",
+    "ru": "Я искал аргументы против плана и серьёзно их рассмотрел.",
+    "uk": "Я шукав аргументи проти плану й серйозно їх розглянув.",
+    "ar": "بحثت عن أدلة تعارض خطتي وأخذتها بجدية.",
+    "hi": "मैंने अपनी योजना के विरुद्ध सबूत खोजे और गंभीरता से सोचे हैं।",
+    "bn": "পরিকল্পনার বিপক্ষে প্রমাণ খুঁজেছি এবং গুরুত্ব দিয়ে ভেবেছি।",
+    "ur": "میں نے منصوبے کے خلاف شواہد تلاش کر کے سنجیدگی سے دیکھے ہیں۔",
+    "ta": "திட்டத்திற்கு எதிரான ஆதாரங்களையும் தேடி கவனமாகப் பரிசீலித்தேன்.",
+    "te": "నా ప్రణాళికకు వ్యతిరేక ఆధారాలు వెతికి తీవ్రంగా పరిశీలించాను.",
+    "id": "Saya mencari bukti yang menentang rencana dan mempertimbangkannya.",
+    "ms": "Saya mencari bukti yang menentang rancangan dan mempertimbangkannya.",
+    "vi": "Tôi đã tìm và nghiêm túc xem xét bằng chứng phản đối kế hoạch.",
+    "th": "ฉันค้นหาและพิจารณาหลักฐานที่ขัดกับแผนอย่างจริงจัง",
+    "tr": "Planıma karşı kanıt aradım ve ciddiyetle değerlendirdim.",
+    "fa": "دنبال شواهد مخالف برنامه‌ام گشته‌ام و جدی گرفته‌ام.",
+    "he": "חיפשתי ראיות נגד התוכנית והתייחסתי אליהן ברצינות.",
+    "pl": "Szukałem dowodów przeciw planowi i poważnie je rozważyłem.",
+    "nl": "Ik heb bewijs tegen mijn plan gezocht en serieus overwogen.",
+    "fil": "Humanap ako ng ebidensiyang laban sa plano at seryoso itong pinag-isipan."
+  },
+  "除了这条路，\n你看过别的选择吗？": {
+    "en": "I have compared alternatives, including taking no action for now.",
+    "ja": "今は行動しない選択も含めて比較しました。",
+    "ko": "당장 행동하지 않는 선택까지 비교했습니다.",
+    "es": "He comparado alternativas, incluida la de no actuar por ahora.",
+    "fr": "J’ai comparé les options, y compris ne pas agir pour le moment.",
+    "de": "Ich habe Alternativen verglichen, auch vorerst nichts zu tun.",
+    "it": "Ho confrontato alternative, compreso non agire per ora.",
+    "pt": "Comparei alternativas, incluindo não agir por agora.",
+    "ru": "Я сравнил варианты, включая временное бездействие.",
+    "uk": "Я порівняв варіанти, зокрема поки не діяти.",
+    "ar": "قارنت البدائل بما فيها عدم التحرك الآن.",
+    "hi": "मैंने विकल्पों की तुलना की है, जिसमें अभी कुछ न करना भी है।",
+    "bn": "এখন কিছু না করাসহ বিকল্পগুলো তুলনা করেছি।",
+    "ur": "میں نے متبادل دیکھے ہیں، جن میں ابھی کچھ نہ کرنا بھی شامل ہے۔",
+    "ta": "இப்போது செயல்படாமல் இருப்பது உட்பட மாற்றுகளை ஒப்பிட்டேன்.",
+    "te": "ఇప్పుడు ఏమీ చేయకపోవడం సహా ప్రత్యామ్నాయాలు పోల్చాను.",
+    "id": "Saya membandingkan pilihan, termasuk tidak bertindak dulu.",
+    "ms": "Saya membandingkan pilihan, termasuk tidak bertindak dahulu.",
+    "vi": "Tôi đã so sánh lựa chọn, kể cả chưa hành động lúc này.",
+    "th": "ฉันเปรียบเทียบทางเลือก รวมถึงการยังไม่ลงมือในตอนนี้",
+    "tr": "Şimdilik hiçbir şey yapmamak dahil seçenekleri karşılaştırdım.",
+    "fa": "گزینه‌ها از جمله فعلاً اقدام نکردن را مقایسه کرده‌ام.",
+    "he": "השוויתי חלופות, כולל לא לפעול כרגע.",
+    "pl": "Porównałem alternatywy, w tym niepodejmowanie działania teraz.",
+    "nl": "Ik heb alternatieven vergeleken, waaronder voorlopig niets doen.",
+    "fil": "Inihambing ko ang mga pagpipilian, pati ang hindi muna kumilos."
+  },
+  "开始所需要的资源，\n你准备了多少？": {
+    "en": "The essential money, time, skills and support are ready.",
+    "ja": "必要なお金、時間、技能、支援がそろっています。",
+    "ko": "필요한 돈, 시간, 기술과 지원이 준비되어 있습니다.",
+    "es": "Cuento con el dinero, tiempo, capacidades y apoyo esenciales.",
+    "fr": "L’argent, le temps, les compétences et le soutien essentiels sont disponibles.",
+    "de": "Das nötige Geld, die Zeit, Fähigkeiten und Unterstützung sind vorhanden.",
+    "it": "Denaro, tempo, competenze e sostegno essenziali sono disponibili.",
+    "pt": "Tenho o dinheiro, tempo, capacidades e apoio essenciais.",
+    "ru": "Необходимые деньги, время, навыки и поддержка готовы.",
+    "uk": "Потрібні гроші, час, навички та підтримка готові.",
+    "ar": "المال والوقت والمهارات والدعم الضروري متاح.",
+    "hi": "ज़रूरी धन, समय, कौशल और सहायता तैयार हैं।",
+    "bn": "প্রয়োজনীয় অর্থ, সময়, দক্ষতা ও সহায়তা প্রস্তুত।",
+    "ur": "ضروری رقم، وقت، مہارت اور مدد تیار ہیں۔",
+    "ta": "தேவையான பணம், நேரம், திறன், ஆதரவு தயாராக உள்ளன.",
+    "te": "అవసరమైన డబ్బు, సమయం, నైపుణ్యాలు, మద్దతు సిద్ధంగా ఉన్నాయి.",
+    "id": "Uang, waktu, keterampilan dan dukungan penting sudah siap.",
+    "ms": "Wang, masa, kemahiran dan sokongan penting sudah tersedia.",
+    "vi": "Tiền, thời gian, kỹ năng và sự hỗ trợ cần thiết đã sẵn sàng.",
+    "th": "เงิน เวลา ทักษะ และความช่วยเหลือที่จำเป็นพร้อมแล้ว",
+    "tr": "Gerekli para, zaman, beceri ve destek hazır.",
+    "fa": "پول، زمان، مهارت و حمایت ضروری آماده است.",
+    "he": "הכסף, הזמן, המיומנויות והתמיכה הנחוצים מוכנים.",
+    "pl": "Potrzebne pieniądze, czas, umiejętności i wsparcie są gotowe.",
+    "nl": "Het nodige geld, tijd, vaardigheden en steun zijn beschikbaar.",
+    "fil": "Handa ang kailangang pera, oras, kasanayan at suporta."
+  },
+  "你知道第一步，\n具体要做什么吗？": {
+    "en": "My first step has a clear action, time and completion standard.",
+    "ja": "最初の行動、時期、完了基準が明確です。",
+    "ko": "첫 행동, 시점과 완료 기준이 명확합니다.",
+    "es": "Mi primer paso tiene una acción, un momento y un criterio de finalización claros.",
+    "fr": "Ma première étape a une action, une date et un critère de réalisation clairs.",
+    "de": "Mein erster Schritt hat eine klare Handlung, einen Zeitpunkt und ein Abschlusskriterium.",
+    "it": "Il primo passo ha un’azione, una data e un criterio di completamento chiari.",
+    "pt": "O primeiro passo tem ação, data e critério de conclusão claros.",
+    "ru": "Для первого шага ясны действие, срок и критерий завершения.",
+    "uk": "Для першого кроку зрозумілі дія, час і критерій завершення.",
+    "ar": "لخطوتي الأولى فعل ووقت ومعيار إنجاز واضح.",
+    "hi": "पहले कदम का काम, समय और पूरा होने का मानक स्पष्ट है।",
+    "bn": "প্রথম পদক্ষেপের কাজ, সময় ও শেষ হওয়ার মানদণ্ড স্পষ্ট।",
+    "ur": "پہلے قدم کا کام، وقت اور تکمیل کا معیار واضح ہے۔",
+    "ta": "முதல் செயலின் வேலை, நேரம், நிறைவு அளவுகோல் தெளிவு.",
+    "te": "మొదటి పని, సమయం, పూర్తి ప్రమాణం స్పష్టంగా ఉన్నాయి.",
+    "id": "Langkah pertama memiliki tindakan, waktu dan standar selesai yang jelas.",
+    "ms": "Langkah pertama mempunyai tindakan, masa dan ukuran selesai yang jelas.",
+    "vi": "Bước đầu có hành động, thời gian và tiêu chuẩn hoàn thành rõ ràng.",
+    "th": "ก้าวแรกมีการกระทำ เวลา และเกณฑ์เสร็จที่ชัดเจน",
+    "tr": "İlk adımın eylemi, zamanı ve bitirme ölçütü açık.",
+    "fa": "کار، زمان و معیار پایان گام نخست روشن است.",
+    "he": "לצעד הראשון יש פעולה, מועד וקריטריון סיום ברורים.",
+    "pl": "Pierwszy krok ma jasne działanie, termin i kryterium ukończenia.",
+    "nl": "Mijn eerste stap heeft een duidelijke actie, tijd en afrondingsnorm.",
+    "fil": "Malinaw ang gawain, oras at pamantayan ng pagtatapos ng unang hakbang."
+  },
+  "它会占用的时间，\n你真的留出来了吗？": {
+    "en": "I have made time without neglecting existing responsibilities.",
+    "ja": "今ある責任を損なわずに時間を確保しました。",
+    "ko": "기존 책임을 소홀히 하지 않고 시간을 마련했습니다.",
+    "es": "He reservado tiempo sin descuidar mis responsabilidades.",
+    "fr": "J’ai réservé du temps sans négliger mes responsabilités.",
+    "de": "Ich habe Zeit eingeplant, ohne bestehende Pflichten zu vernachlässigen.",
+    "it": "Ho riservato tempo senza trascurare le mie responsabilità.",
+    "pt": "Reservei tempo sem descurar as minhas responsabilidades.",
+    "ru": "Я выделил время, не пренебрегая текущими обязанностями.",
+    "uk": "Я виділив час, не нехтуючи чинними обов’язками.",
+    "ar": "خصصت الوقت دون إهمال مسؤولياتي الحالية.",
+    "hi": "मैंने मौजूदा ज़िम्मेदारियाँ छोड़े बिना समय निकाला है।",
+    "bn": "বর্তমান দায়িত্ব অবহেলা না করে সময় রেখেছি।",
+    "ur": "میں نے موجودہ ذمہ داریاں نظرانداز کیے بغیر وقت رکھا ہے۔",
+    "ta": "தற்போதைய பொறுப்புகளைப் புறக்கணிக்காமல் நேரம் ஒதுக்கினேன்.",
+    "te": "ప్రస్తుత బాధ్యతలను నిర్లక్ష్యం చేయకుండా సమయం కేటాయించాను.",
+    "id": "Saya menyediakan waktu tanpa mengabaikan tanggung jawab.",
+    "ms": "Saya menyediakan masa tanpa mengabaikan tanggungjawab.",
+    "vi": "Tôi đã dành thời gian mà không bỏ bê trách nhiệm hiện có.",
+    "th": "ฉันจัดเวลาโดยไม่ละเลยหน้าที่เดิม",
+    "tr": "Mevcut sorumlulukları ihmal etmeden zaman ayırdım.",
+    "fa": "بدون نادیده گرفتن مسئولیت‌های فعلی زمان کنار گذاشته‌ام.",
+    "he": "פיניתי זמן בלי להזניח אחריות קיימת.",
+    "pl": "Znalazłem czas bez zaniedbywania obecnych obowiązków.",
+    "nl": "Ik heb tijd gemaakt zonder bestaande verantwoordelijkheden te verwaarlozen.",
+    "fil": "Naglaan ako ng oras nang hindi pinababayaan ang kasalukuyang tungkulin."
+  },
+  "如果结果不如预期，\n你承受得住吗？": {
+    "en": "An unfavorable outcome would not threaten my basic needs or responsibilities.",
+    "ja": "期待どおりでなくても基本の生活は守れます。",
+    "ko": "결과가 나빠도 기본 생활과 책임은 지킬 수 있습니다.",
+    "es": "Un resultado desfavorable no pondría en riesgo mis necesidades básicas.",
+    "fr": "Un résultat défavorable ne menacerait pas mes besoins essentiels.",
+    "de": "Ein ungünstiges Ergebnis würde meine Grundbedürfnisse nicht gefährden.",
+    "it": "Un risultato sfavorevole non minaccerebbe i miei bisogni fondamentali.",
+    "pt": "Um resultado desfavorável não ameaçaria as minhas necessidades básicas.",
+    "ru": "Неудачный результат не поставит под угрозу базовые потребности.",
+    "uk": "Несприятливий результат не загрожуватиме базовим потребам.",
+    "ar": "لن تهدد النتيجة غير المرغوبة احتياجاتي الأساسية.",
+    "hi": "खराब परिणाम मेरी मूल ज़रूरतों को खतरे में नहीं डालेगा।",
+    "bn": "খারাপ ফল আমার মৌলিক প্রয়োজনকে বিপদে ফেলবে না।",
+    "ur": "برا نتیجہ میری بنیادی ضروریات کو خطرے میں نہیں ڈالے گا۔",
+    "ta": "மோசமான முடிவு என் அடிப்படைத் தேவைகளைப் பாதிக்காது.",
+    "te": "అననుకూల ఫలితం నా ప్రాథమిక అవసరాలను దెబ్బతీయదు.",
+    "id": "Hasil yang buruk tidak akan mengancam kebutuhan dasar saya.",
+    "ms": "Hasil yang buruk tidak akan mengancam keperluan asas saya.",
+    "vi": "Kết quả không tốt sẽ không đe dọa nhu cầu cơ bản của tôi.",
+    "th": "ผลลัพธ์ที่ไม่ดีจะไม่กระทบความต้องการพื้นฐานของฉัน",
+    "tr": "Olumsuz sonuç temel ihtiyaçlarımı tehlikeye atmayacak.",
+    "fa": "نتیجه نامطلوب نیازهای اساسی مرا تهدید نمی‌کند.",
+    "he": "תוצאה לא טובה לא תסכן את הצרכים הבסיסיים שלי.",
+    "pl": "Niekorzystny wynik nie zagrozi moim podstawowym potrzebom.",
+    "nl": "Een ongunstige uitkomst bedreigt mijn basisbehoeften niet.",
+    "fil": "Hindi isasapanganib ng masamang resulta ang mga pangunahing pangangailangan ko."
+  },
+  "如果走不通，\n你有退路吗？": {
+    "en": "I have a feasible backup plan and clear stopping conditions.",
+    "ja": "実行できる代案と中止条件があります。",
+    "ko": "실행 가능한 대안과 중단 조건이 있습니다.",
+    "es": "Tengo un plan alternativo viable y condiciones claras para parar.",
+    "fr": "J’ai une solution de repli réalisable et des conditions d’arrêt claires.",
+    "de": "Ich habe einen umsetzbaren Ersatzplan und klare Abbruchbedingungen.",
+    "it": "Ho un’alternativa praticabile e condizioni chiare per fermarmi.",
+    "pt": "Tenho uma alternativa viável e condições claras para parar.",
+    "ru": "У меня есть выполнимый запасной план и условия остановки.",
+    "uk": "Я маю здійсненний запасний план і умови зупинки.",
+    "ar": "لدي خطة بديلة قابلة للتنفيذ وشروط واضحة للتوقف.",
+    "hi": "मेरे पास व्यवहार्य वैकल्पिक योजना और रुकने की शर्तें हैं।",
+    "bn": "আমার কার্যকর বিকল্প পরিকল্পনা ও থামার শর্ত আছে।",
+    "ur": "میرے پاس قابل عمل متبادل اور رکنے کی واضح شرائط ہیں۔",
+    "ta": "செயல்படுத்தக்கூடிய மாற்றுத் திட்டமும் நிறுத்தும் நிபந்தனைகளும் உள்ளன.",
+    "te": "అమలు చేయగల ప్రత్యామ్నాయ ప్రణాళిక, ఆపే షరతులు ఉన్నాయి.",
+    "id": "Saya punya rencana cadangan yang layak dan syarat berhenti.",
+    "ms": "Saya ada rancangan sandaran yang boleh dibuat dan syarat berhenti.",
+    "vi": "Tôi có phương án dự phòng khả thi và điều kiện dừng rõ ràng.",
+    "th": "ฉันมีแผนสำรองที่ทำได้และเงื่อนไขหยุดที่ชัดเจน",
+    "tr": "Uygulanabilir yedek planım ve açık durma koşullarım var.",
+    "fa": "برنامه جایگزین عملی و شرایط توقف روشن دارم.",
+    "he": "יש לי תוכנית גיבוי אפשרית ותנאי עצירה ברורים.",
+    "pl": "Mam wykonalny plan zapasowy i jasne warunki zatrzymania.",
+    "nl": "Ik heb een haalbaar alternatief en duidelijke stopvoorwaarden.",
+    "fil": "May maisasagawang alternatibong plano at malinaw na kondisyon sa paghinto."
+  },
+  "能不能先用一个\n小尝试验证它？": {
+    "en": "I have tried a small, affordable test and learned from the feedback.",
+    "ja": "無理のない小さな試行を行い、結果から学びました。",
+    "ko": "부담 적은 작은 시도를 하고 피드백을 반영했습니다.",
+    "es": "He hecho una prueba pequeña y asequible y aprendido de ella.",
+    "fr": "J’ai réalisé un petit essai abordable et tenu compte des retours.",
+    "de": "Ich habe einen kleinen bezahlbaren Versuch gemacht und aus Rückmeldungen gelernt.",
+    "it": "Ho svolto una piccola prova sostenibile e imparato dai risultati.",
+    "pt": "Fiz um pequeno teste acessível e aprendi com os resultados.",
+    "ru": "Я провёл небольшой доступный тест и учёл обратную связь.",
+    "uk": "Я провів невеликий доступний тест і врахував відгуки.",
+    "ar": "أجريت تجربة صغيرة محتملة التكلفة وتعلمت من نتائجها.",
+    "hi": "मैंने छोटा, किफ़ायती प्रयोग किया और प्रतिक्रिया से सीखा है।",
+    "bn": "ছোট সাশ্রয়ী পরীক্ষা করেছি এবং প্রতিক্রিয়া থেকে শিখেছি।",
+    "ur": "میں نے چھوٹا قابل برداشت تجربہ کیا اور نتائج سے سیکھا ہے۔",
+    "ta": "செலவு தாங்கக்கூடிய சிறு முயற்சி செய்து கருத்துகளிலிருந்து கற்றேன்.",
+    "te": "తక్కువ ఖర్చుతో చిన్న పరీక్ష చేసి స్పందనల నుంచి నేర్చుకున్నాను.",
+    "id": "Saya mencoba tes kecil yang terjangkau dan belajar dari umpan balik.",
+    "ms": "Saya membuat ujian kecil yang mampu ditanggung dan belajar daripada maklum balas.",
+    "vi": "Tôi đã thử ở quy mô nhỏ, chi phí phù hợp và học từ phản hồi.",
+    "th": "ฉันทดลองเล็ก ๆ ในต้นทุนที่รับได้และเรียนรู้จากผลตอบรับ",
+    "tr": "Uygun maliyetli küçük bir deneme yaptım ve geri bildirimden öğrendim.",
+    "fa": "آزمایشی کوچک و قابل‌تحمل انجام داده‌ام و از بازخورد آموخته‌ام.",
+    "he": "ביצעתי ניסיון קטן בעלות סבירה ולמדתי מהמשוב.",
+    "pl": "Przeprowadziłem małą, niedrogą próbę i wyciągnąłem wnioski.",
+    "nl": "Ik heb een kleine betaalbare proef gedaan en van feedback geleerd.",
+    "fil": "Gumawa ako ng maliit na abot-kayang pagsubok at natuto sa tugon."
+  },
+  "如果没人知道，\n你还会做这件事吗？": {
+    "en": "I would still choose this even if nobody else knew.",
+    "ja": "誰にも知られなくても、この選択をします。",
+    "ko": "다른 사람이 몰라도 이 선택을 하겠습니다.",
+    "es": "Lo elegiría aunque nadie más lo supiera.",
+    "fr": "Je ferais ce choix même si personne ne le savait.",
+    "de": "Ich würde dies auch wählen, wenn niemand davon wüsste.",
+    "it": "Lo sceglierei anche se nessuno lo sapesse.",
+    "pt": "Escolheria isto mesmo que ninguém soubesse.",
+    "ru": "Я выбрал бы это, даже если бы никто не узнал.",
+    "uk": "Я обрав би це, навіть якби ніхто не знав.",
+    "ar": "سأختار هذا حتى لو لم يعرف أحد.",
+    "hi": "किसी को पता न चले तब भी मैं यही चुनूँगा।",
+    "bn": "কেউ না জানলেও আমি এটি বেছে নিতাম।",
+    "ur": "کسی کو معلوم نہ ہو تب بھی میں یہی چنوں گا۔",
+    "ta": "யாருக்கும் தெரியாவிட்டாலும் இதையே தேர்ந்தெடுப்பேன்.",
+    "te": "ఇతరులకు తెలియకపోయినా ఇదే ఎంచుకుంటాను.",
+    "id": "Saya tetap memilih ini walau tidak ada yang tahu.",
+    "ms": "Saya tetap memilih ini walaupun tiada orang tahu.",
+    "vi": "Tôi vẫn chọn điều này dù không ai biết.",
+    "th": "ฉันยังเลือกสิ่งนี้แม้ไม่มีใครรู้",
+    "tr": "Kimse bilmese de bunu seçerdim.",
+    "fa": "حتی اگر کسی نداند باز هم این را انتخاب می‌کنم.",
+    "he": "הייתי בוחר בכך גם אילו איש לא ידע.",
+    "pl": "Wybrałbym to nawet, gdyby nikt o tym nie wiedział.",
+    "nl": "Ik zou dit ook kiezen als niemand ervan wist.",
+    "fil": "Pipiliin ko pa rin ito kahit walang ibang nakaaalam."
+  },
+  "现在的你，\n适合做这个决定吗？": {
+    "en": "I am rested, emotionally steady and free from pressure right now.",
+    "ja": "今は休息が取れ、気持ちが安定し、急かされていません。",
+    "ko": "지금은 잘 쉬었고 감정이 안정되며 압박을 받지 않습니다.",
+    "es": "Ahora estoy descansado, emocionalmente estable y sin presiones.",
+    "fr": "Je suis reposé, émotionnellement stable et sans pression.",
+    "de": "Ich bin ausgeruht, emotional ruhig und werde nicht gedrängt.",
+    "it": "Sono riposato, emotivamente stabile e libero da pressioni.",
+    "pt": "Estou descansado, emocionalmente estável e sem pressão.",
+    "ru": "Сейчас я отдохнул, эмоционально спокоен и не испытываю давления.",
+    "uk": "Зараз я відпочив, емоційно спокійний і не відчуваю тиску.",
+    "ar": "أنا مرتاح ومستقر عاطفيًا ولا أتعرض لضغط الآن.",
+    "hi": "अभी मैं आराम कर चुका हूँ, भावनात्मक रूप से स्थिर हूँ और दबाव में नहीं हूँ।",
+    "bn": "এখন আমি বিশ্রামপ্রাপ্ত, মানসিকভাবে স্থির এবং চাপমুক্ত।",
+    "ur": "میں آرام کر چکا ہوں، جذبات متوازن ہیں اور دباؤ میں نہیں ہوں۔",
+    "ta": "இப்போது ஓய்வுடன், உணர்ச்சி நிலையாக, அழுத்தமின்றி இருக்கிறேன்.",
+    "te": "ఇప్పుడు విశ్రాంతితో, భావోద్వేగ స్థిరత్వంతో, ఒత్తిడి లేకుండా ఉన్నాను.",
+    "id": "Saya cukup istirahat, emosi stabil dan tidak ditekan saat ini.",
+    "ms": "Saya cukup rehat, emosi stabil dan tidak didesak sekarang.",
+    "vi": "Hiện tôi nghỉ ngơi đủ, cảm xúc ổn định và không bị thúc ép.",
+    "th": "ตอนนี้ฉันพักพอ อารมณ์มั่นคง และไม่ได้ถูกกดดัน",
+    "tr": "Şu anda dinlenmiş, duygusal olarak dengeli ve baskıdan uzağım.",
+    "fa": "اکنون استراحت کرده‌ام، آرامم و زیر فشار نیستم.",
+    "he": "כרגע אני נח, יציב רגשית ולא נתון ללחץ.",
+    "pl": "Teraz jestem wypoczęty, spokojny emocjonalnie i bez presji.",
+    "nl": "Ik ben nu uitgerust, emotioneel stabiel en niet onder druk.",
+    "fil": "Nakapahinga ako, matatag ang damdamin at hindi napipilitan ngayon."
+  },
+  "再等 48 小时，\n你的答案会改变吗？": {
+    "en": "I have allowed a cooling-off period and still want to proceed.",
+    "ja": "冷却期間を置いた後も、進みたいと考えています。",
+    "ko": "숙려 기간이 지난 뒤에도 계속하고 싶습니다.",
+    "es": "Tras un período de reflexión, sigo queriendo avanzar.",
+    "fr": "Après un temps de recul, je souhaite toujours avancer.",
+    "de": "Nach einer Bedenkzeit möchte ich weiterhin fortfahren.",
+    "it": "Dopo un periodo di riflessione voglio ancora procedere.",
+    "pt": "Depois de um período de reflexão, continuo a querer avançar.",
+    "ru": "После времени на обдумывание я всё ещё хочу действовать.",
+    "uk": "Після часу на обдумування я все ще хочу діяти.",
+    "ar": "بعد مهلة للتروي ما زلت أرغب في المتابعة.",
+    "hi": "शांत होकर सोचने का समय देने के बाद भी मैं आगे बढ़ना चाहता हूँ।",
+    "bn": "ভাবার বিরতির পরও আমি এগোতে চাই।",
+    "ur": "سوچنے کا وقفہ لینے کے بعد بھی میں آگے بڑھنا چاہتا ہوں۔",
+    "ta": "சிந்திக்க இடைவெளி எடுத்த பிறகும் தொடர விரும்புகிறேன்.",
+    "te": "ఆలోచనకు విరామం ఇచ్చాక కూడా ముందుకు వెళ్లాలనుకుంటున్నాను.",
+    "id": "Setelah jeda berpikir, saya tetap ingin melanjutkan.",
+    "ms": "Selepas tempoh bertenang, saya masih mahu meneruskan.",
+    "vi": "Sau thời gian cân nhắc, tôi vẫn muốn tiếp tục.",
+    "th": "หลังเว้นเวลาทบทวน ฉันยังอยากเดินหน้าต่อ",
+    "tr": "Düşünme süresinden sonra da ilerlemek istiyorum.",
+    "fa": "پس از مهلت فکر کردن هنوز مایل به ادامه‌ام.",
+    "he": "אחרי זמן להירגע ולחשוב, אני עדיין רוצה להמשיך.",
+    "pl": "Po czasie do namysłu nadal chcę działać.",
+    "nl": "Na een bedenktijd wil ik nog steeds doorgaan.",
+    "fil": "Matapos ang panahong mag-isip, gusto ko pa ring magpatuloy."
+  },
+  "什么结果，\n才算值得你投入？": {
+    "en": "My success criteria and the trade-offs I accept are clear.",
+    "ja": "成功の基準と受け入れる取捨選択が明確です。",
+    "ko": "성공 기준과 감수할 절충점이 분명합니다.",
+    "es": "Tengo claros mis criterios de éxito y las renuncias que acepto.",
+    "fr": "Mes critères de réussite et les compromis acceptés sont clairs.",
+    "de": "Meine Erfolgskriterien und akzeptierten Kompromisse sind klar.",
+    "it": "I criteri di successo e i compromessi accettati sono chiari.",
+    "pt": "Os meus critérios de sucesso e compromissos aceites são claros.",
+    "ru": "Мне ясны критерии успеха и допустимые компромиссы.",
+    "uk": "Мої критерії успіху та допустимі компроміси зрозумілі.",
+    "ar": "معايير النجاح والتنازلات المقبولة واضحة لدي.",
+    "hi": "सफलता के मानक और स्वीकार किए जाने वाले समझौते स्पष्ट हैं।",
+    "bn": "সাফল্যের মানদণ্ড ও গ্রহণযোগ্য ছাড় স্পষ্ট।",
+    "ur": "کامیابی کے معیار اور قابل قبول سمجھوتے واضح ہیں۔",
+    "ta": "வெற்றி அளவுகோலும் ஏற்கும் விட்டுக்கொடுப்புகளும் தெளிவு.",
+    "te": "విజయ ప్రమాణాలు, అంగీకరించే సర్దుబాట్లు స్పష్టంగా ఉన్నాయి.",
+    "id": "Kriteria keberhasilan dan kompromi yang diterima jelas.",
+    "ms": "Ukuran kejayaan dan kompromi yang diterima jelas.",
+    "vi": "Tiêu chuẩn thành công và những đánh đổi chấp nhận được đã rõ.",
+    "th": "เกณฑ์ความสำเร็จและสิ่งที่ยอมแลกชัดเจนแล้ว",
+    "tr": "Başarı ölçütlerim ve kabul ettiğim ödünler açık.",
+    "fa": "معیار موفقیت و سازش‌هایی که می‌پذیرم روشن است.",
+    "he": "קריטריוני ההצלחה והפשרות שאני מקבל ברורים.",
+    "pl": "Moje kryteria sukcesu i akceptowane kompromisy są jasne.",
+    "nl": "Mijn succescriteria en aanvaarde afwegingen zijn duidelijk.",
+    "fil": "Malinaw ang pamantayan ng tagumpay at ang mga kapalit na tinatanggap ko."
+  },
+  "什么新事实，\n会让你改变主意？": {
+    "en": "I know which facts would make me reconsider my assumptions.",
+    "ja": "どんな事実があれば考え直すか分かっています。",
+    "ko": "어떤 사실이 나오면 생각을 바꿀지 알고 있습니다.",
+    "es": "Sé qué hechos me harían revisar mis supuestos.",
+    "fr": "Je sais quels faits me feraient revoir mes hypothèses.",
+    "de": "Ich weiß, welche Fakten meine Annahmen ändern würden.",
+    "it": "So quali fatti mi farebbero rivedere le mie ipotesi.",
+    "pt": "Sei que factos me fariam rever as minhas suposições.",
+    "ru": "Я знаю, какие факты заставят пересмотреть мои предположения.",
+    "uk": "Я знаю, які факти змусили б переглянути припущення.",
+    "ar": "أعرف الحقائق التي ستجعلني أراجع افتراضاتي.",
+    "hi": "मुझे पता है कौन से तथ्य मेरी धारणाएँ बदलेंगे।",
+    "bn": "কোন তথ্য এলে ধারণা বদলাব তা জানি।",
+    "ur": "مجھے معلوم ہے کون سے حقائق میری رائے بدلیں گے۔",
+    "ta": "எந்த உண்மைகள் என் ஊகங்களை மாற்றும் என்று தெரியும்.",
+    "te": "ఏ నిజాలు వస్తే నా అంచనాలను మార్చాలో తెలుసు.",
+    "id": "Saya tahu fakta apa yang akan mengubah asumsi saya.",
+    "ms": "Saya tahu fakta yang akan membuat saya menilai semula andaian.",
+    "vi": "Tôi biết sự thật nào sẽ khiến mình xét lại giả định.",
+    "th": "ฉันรู้ว่าข้อเท็จจริงใดจะทำให้ทบทวนสมมติฐาน",
+    "tr": "Hangi gerçeklerin varsayımlarımı değiştireceğini biliyorum.",
+    "fa": "می‌دانم چه واقعیت‌هایی فرض‌هایم را تغییر می‌دهد.",
+    "he": "אני יודע אילו עובדות יגרמו לי לבחון מחדש את ההנחות.",
+    "pl": "Wiem, jakie fakty skłoniłyby mnie do zmiany założeń.",
+    "nl": "Ik weet welke feiten mijn aannames zouden veranderen.",
+    "fil": "Alam ko kung aling katotohanan ang magpapabago sa aking palagay."
+  },
+  "遇到困难时，\n你能向谁求助？": {
+    "en": "I have spoken with people who can help and confirmed the support.",
+    "ja": "助けてくれる人と話し、支援を確認しました。",
+    "ko": "도움을 줄 사람들과 이야기하고 지원을 확인했습니다.",
+    "es": "He hablado con quienes pueden ayudarme y confirmado su apoyo.",
+    "fr": "J’ai parlé aux personnes qui peuvent aider et confirmé leur soutien.",
+    "de": "Ich habe mögliche Helfer angesprochen und ihre Unterstützung bestätigt.",
+    "it": "Ho parlato con chi può aiutarmi e confermato il sostegno.",
+    "pt": "Falei com quem pode ajudar e confirmei o apoio.",
+    "ru": "Я обсудил помощь с нужными людьми и подтвердил поддержку.",
+    "uk": "Я поговорив із тими, хто може допомогти, і підтвердив підтримку.",
+    "ar": "تحدثت مع من يمكنهم المساعدة وتأكدت من الدعم.",
+    "hi": "मैंने मदद करने वालों से बात करके सहायता तय की है।",
+    "bn": "যারা সাহায্য করতে পারেন তাঁদের সঙ্গে কথা বলে সহায়তা নিশ্চিত করেছি।",
+    "ur": "میں نے مدد کرنے والوں سے بات کر کے حمایت پکی کی ہے۔",
+    "ta": "உதவக்கூடியவர்களுடன் பேசி ஆதரவை உறுதிசெய்தேன்.",
+    "te": "సహాయం చేసే వారితో మాట్లాడి మద్దతు నిర్ధారించుకున్నాను.",
+    "id": "Saya sudah berbicara dengan calon penolong dan memastikan dukungan.",
+    "ms": "Saya sudah berbincang dengan pihak yang boleh membantu dan mengesahkan sokongan.",
+    "vi": "Tôi đã trao đổi với người có thể giúp và xác nhận hỗ trợ.",
+    "th": "ฉันคุยกับคนที่ช่วยได้และยืนยันความช่วยเหลือแล้ว",
+    "tr": "Yardım edebilecek kişilerle konuştum ve desteği doğruladım.",
+    "fa": "با افرادی که می‌توانند کمک کنند صحبت و حمایت را تأیید کرده‌ام.",
+    "he": "דיברתי עם מי שיכול לעזור ואישרתי את התמיכה.",
+    "pl": "Porozmawiałem z osobami mogącymi pomóc i potwierdziłem wsparcie.",
+    "nl": "Ik heb met mogelijke helpers gesproken en de steun bevestigd.",
+    "fil": "Nakausap ko ang mga makatutulong at nakumpirma ang suporta."
+  },
+  "什么时候，\n你会停下来重新评估？": {
+    "en": "I have set a review date and limits on time, money and losses.",
+    "ja": "見直す時期と時間・お金・損失の上限を決めました。",
+    "ko": "재검토 날짜와 시간, 돈, 손실의 한도를 정했습니다.",
+    "es": "He fijado una revisión y límites de tiempo, dinero y pérdidas.",
+    "fr": "J’ai fixé une date de bilan et des limites de temps, d’argent et de pertes.",
+    "de": "Ich habe einen Prüftermin und Grenzen für Zeit, Geld und Verluste gesetzt.",
+    "it": "Ho fissato una revisione e limiti di tempo, denaro e perdite.",
+    "pt": "Defini uma revisão e limites de tempo, dinheiro e perdas.",
+    "ru": "Я назначил пересмотр и пределы времени, денег и потерь.",
+    "uk": "Я визначив дату перегляду та межі часу, грошей і втрат.",
+    "ar": "حددت موعدًا للمراجعة وحدودًا للوقت والمال والخسائر.",
+    "hi": "मैंने समीक्षा की तारीख और समय, धन व नुकसान की सीमा तय की है।",
+    "bn": "পর্যালোচনার দিন এবং সময়, অর্থ ও ক্ষতির সীমা ঠিক করেছি।",
+    "ur": "میں نے جائزے کی تاریخ اور وقت، رقم و نقصان کی حد مقرر کی ہے۔",
+    "ta": "மீளாய்வு நாளும் நேரம், பணம், இழப்பின் வரம்பும் நிர்ணயித்தேன்.",
+    "te": "సమీక్ష తేదీ, సమయం, డబ్బు, నష్టాల పరిమితులు నిర్ణయించాను.",
+    "id": "Saya menetapkan waktu evaluasi serta batas waktu, biaya dan kerugian.",
+    "ms": "Saya menetapkan tarikh semakan serta had masa, wang dan kerugian.",
+    "vi": "Tôi đã đặt ngày xem lại và giới hạn thời gian, tiền, tổn thất.",
+    "th": "ฉันกำหนดวันทบทวนและขีดจำกัดเวลา เงิน และความเสียหายแล้ว",
+    "tr": "Gözden geçirme tarihi ve zaman, para, kayıp sınırları belirledim.",
+    "fa": "زمان بازبینی و سقف زمان، پول و زیان را تعیین کرده‌ام.",
+    "he": "קבעתי מועד לבדיקה וגבולות לזמן, לכסף ולהפסדים.",
+    "pl": "Ustaliłem termin przeglądu oraz granice czasu, pieniędzy i strat.",
+    "nl": "Ik heb een evaluatiedatum en grenzen voor tijd, geld en verlies vastgesteld.",
+    "fil": "Nagtakda ako ng araw ng pagsusuri at hangganan ng oras, pera at pagkalugi."
+  },
+  "你是否可以\n自由地说“不”？": {
+    "en": "I can freely refuse, change my mind or postpone this choice.",
+    "ja": "自由に断る、考えを変える、延期することができます。",
+    "ko": "자유롭게 거절하거나 마음을 바꾸거나 미룰 수 있습니다.",
+    "es": "Puedo rechazar, cambiar de opinión o aplazar libremente esta decisión.",
+    "fr": "Je peux librement refuser, changer d’avis ou reporter ce choix.",
+    "de": "Ich kann frei ablehnen, umdenken oder die Entscheidung verschieben.",
+    "it": "Posso liberamente rifiutare, cambiare idea o rimandare.",
+    "pt": "Posso recusar, mudar de ideias ou adiar livremente.",
+    "ru": "Я могу свободно отказаться, передумать или отложить выбор.",
+    "uk": "Я можу вільно відмовитися, передумати чи відкласти вибір.",
+    "ar": "يمكنني الرفض أو تغيير رأيي أو التأجيل بحرية.",
+    "hi": "मैं स्वतंत्र रूप से मना कर सकता हूँ, मन बदल सकता हूँ या टाल सकता हूँ।",
+    "bn": "আমি স্বাধীনভাবে না বলতে, মত বদলাতে বা পিছিয়ে দিতে পারি।",
+    "ur": "میں آزادانہ انکار، رائے کی تبدیلی یا تاخیر کر سکتا ہوں۔",
+    "ta": "சுதந்திரமாக மறுக்கவும் மனம் மாற்றவும் ஒத்திவைக்கவும் முடியும்.",
+    "te": "స్వేచ్ఛగా నిరాకరించగలను, మనసు మార్చగలను లేదా వాయిదా వేయగలను.",
+    "id": "Saya bebas menolak, berubah pikiran atau menunda pilihan ini.",
+    "ms": "Saya bebas menolak, berubah fikiran atau menangguhkan pilihan ini.",
+    "vi": "Tôi có thể tự do từ chối, đổi ý hoặc hoãn lựa chọn này.",
+    "th": "ฉันปฏิเสธ เปลี่ยนใจ หรือเลื่อนการตัดสินใจได้อย่างอิสระ",
+    "tr": "Özgürce reddedebilir, fikrimi değiştirebilir veya erteleyebilirim.",
+    "fa": "می‌توانم آزادانه رد کنم، نظرم را عوض کنم یا به تأخیر بیندازم.",
+    "he": "אני חופשי לסרב, לשנות את דעתי או לדחות את הבחירה.",
+    "pl": "Mogę swobodnie odmówić, zmienić zdanie lub odłożyć wybór.",
+    "nl": "Ik kan vrij weigeren, van gedachten veranderen of uitstellen.",
+    "fil": "Malaya akong tumanggi, magbago ng isip o ipagpaliban ito."
+  },
+  "完全不符合": {
+    "en": "Not at all true",
+    "ja": "まったく当てはまらない",
+    "ko": "전혀 그렇지 않다",
+    "es": "Nada cierto",
+    "fr": "Pas du tout vrai",
+    "de": "Trifft gar nicht zu",
+    "it": "Per nulla vero",
+    "pt": "Nada verdadeiro",
+    "ru": "Совсем не так",
+    "uk": "Зовсім не так",
+    "ar": "لا ينطبق إطلاقًا",
+    "hi": "बिल्कुल सही नहीं",
+    "bn": "একেবারেই সত্য নয়",
+    "ur": "بالکل درست نہیں",
+    "ta": "சிறிதும் பொருந்தாது",
+    "te": "అస్సలు వర్తించదు",
+    "id": "Sama sekali tidak sesuai",
+    "ms": "Langsung tidak benar",
+    "vi": "Hoàn toàn không đúng",
+    "th": "ไม่ตรงเลย",
+    "tr": "Hiç doğru değil",
+    "fa": "اصلاً درست نیست",
+    "he": "כלל לא נכון",
+    "pl": "Zupełnie nieprawdziwe",
+    "nl": "Helemaal niet waar",
+    "fil": "Hindi talaga totoo"
+  },
+  "不太符合": {
+    "en": "Mostly untrue",
+    "ja": "あまり当てはまらない",
+    "ko": "별로 그렇지 않다",
+    "es": "Poco cierto",
+    "fr": "Plutôt faux",
+    "de": "Trifft eher nicht zu",
+    "it": "Poco vero",
+    "pt": "Pouco verdadeiro",
+    "ru": "Скорее не так",
+    "uk": "Скоріше не так",
+    "ar": "لا ينطبق غالبًا",
+    "hi": "अधिकतर सही नहीं",
+    "bn": "বেশিরভাগ সত্য নয়",
+    "ur": "زیادہ تر درست نہیں",
+    "ta": "அதிகம் பொருந்தாது",
+    "te": "ఎక్కువగా వర్తించదు",
+    "id": "Kurang sesuai",
+    "ms": "Kurang benar",
+    "vi": "Phần lớn không đúng",
+    "th": "ไม่ค่อยตรง",
+    "tr": "Pek doğru değil",
+    "fa": "بیشتر درست نیست",
+    "he": "לרוב לא נכון",
+    "pl": "Raczej nieprawdziwe",
+    "nl": "Meestal niet waar",
+    "fil": "Kadalasang hindi totoo"
+  },
+  "比较符合": {
+    "en": "Mostly true",
+    "ja": "おおむね当てはまる",
+    "ko": "대체로 그렇다",
+    "es": "Bastante cierto",
+    "fr": "Plutôt vrai",
+    "de": "Trifft eher zu",
+    "it": "Abbastanza vero",
+    "pt": "Bastante verdadeiro",
+    "ru": "В основном так",
+    "uk": "Переважно так",
+    "ar": "ينطبق غالبًا",
+    "hi": "अधिकतर सही",
+    "bn": "বেশিরভাগ সত্য",
+    "ur": "زیادہ تر درست",
+    "ta": "பெரும்பாலும் பொருந்தும்",
+    "te": "ఎక్కువగా వర్తిస్తుంది",
+    "id": "Cukup sesuai",
+    "ms": "Agak benar",
+    "vi": "Phần lớn đúng",
+    "th": "ค่อนข้างตรง",
+    "tr": "Büyük ölçüde doğru",
+    "fa": "بیشتر درست است",
+    "he": "לרוב נכון",
+    "pl": "Raczej prawdziwe",
+    "nl": "Meestal waar",
+    "fil": "Kadalasang totoo"
+  },
+  "完全符合": {
+    "en": "Fully true",
+    "ja": "よく当てはまる",
+    "ko": "매우 그렇다",
+    "es": "Totalmente cierto",
+    "fr": "Tout à fait vrai",
+    "de": "Trifft ganz zu",
+    "it": "Del tutto vero",
+    "pt": "Totalmente verdadeiro",
+    "ru": "Полностью так",
+    "uk": "Цілком так",
+    "ar": "ينطبق تمامًا",
+    "hi": "पूरी तरह सही",
+    "bn": "পুরোপুরি সত্য",
+    "ur": "مکمل درست",
+    "ta": "முழுவதும் பொருந்தும்",
+    "te": "పూర్తిగా వర్తిస్తుంది",
+    "id": "Sepenuhnya sesuai",
+    "ms": "Sepenuhnya benar",
+    "vi": "Hoàn toàn đúng",
+    "th": "ตรงทั้งหมด",
+    "tr": "Tamamen doğru",
+    "fa": "کاملاً درست است",
+    "he": "נכון לגמרי",
+    "pl": "Całkowicie prawdziwe",
+    "nl": "Helemaal waar",
+    "fil": "Lubos na totoo"
+  },
+  "请根据你此刻的实际准备程度作答。这是自我观察，不是预测。": {
+    "en": "Answer according to your current preparation. This is a reflection, not a prediction.",
+    "ja": "今の準備に合わせて選んでください。予測ではなく振り返りです。",
+    "ko": "현재 준비 상태에 맞춰 답하세요. 예측이 아닌 성찰입니다.",
+    "es": "Responde según tu preparación actual. Es una reflexión, no una predicción.",
+    "fr": "Répondez selon votre préparation actuelle. C’est une réflexion, pas une prédiction.",
+    "de": "Antworte nach deiner aktuellen Vorbereitung. Dies ist Reflexion, keine Vorhersage.",
+    "it": "Rispondi secondo la tua preparazione attuale. È una riflessione, non una previsione.",
+    "pt": "Responda de acordo com a preparação atual. É uma reflexão, não uma previsão.",
+    "ru": "Ответьте по своей текущей готовности. Это размышление, не прогноз.",
+    "uk": "Відповідайте за поточною готовністю. Це роздуми, а не прогноз.",
+    "ar": "أجب وفق استعدادك الحالي. هذا تأمل وليس تنبؤًا.",
+    "hi": "अपनी वर्तमान तैयारी के अनुसार उत्तर दें। यह मनन है, भविष्यवाणी नहीं।",
+    "bn": "বর্তমান প্রস্তুতি অনুযায়ী উত্তর দিন। এটি মনন, ভবিষ্যদ্বাণী নয়।",
+    "ur": "موجودہ تیاری کے مطابق جواب دیں۔ یہ غور ہے، پیش گوئی نہیں۔",
+    "ta": "தற்போதைய தயாரிப்புக்கு ஏற்ப பதிலளிக்கவும். இது சிந்தனை, கணிப்பு அல்ல.",
+    "te": "ప్రస్తుత సిద్ధత ప్రకారం జవాబు ఇవ్వండి. ఇది ఆలోచన, అంచనా కాదు.",
+    "id": "Jawab sesuai persiapan saat ini. Ini refleksi, bukan ramalan.",
+    "ms": "Jawab mengikut persediaan semasa. Ini renungan, bukan ramalan.",
+    "vi": "Trả lời theo sự chuẩn bị hiện tại. Đây là suy ngẫm, không phải dự đoán.",
+    "th": "ตอบตามความพร้อมปัจจุบัน นี่คือการทบทวน ไม่ใช่คำทำนาย",
+    "tr": "Mevcut hazırlığınıza göre yanıtlayın. Bu bir düşünme çalışmasıdır, tahmin değildir.",
+    "fa": "بر اساس آمادگی فعلی پاسخ دهید. این تأمل است، نه پیش‌بینی.",
+    "he": "ענו לפי ההכנה הנוכחית. זו התבוננות, לא חיזוי.",
+    "pl": "Odpowiedz według obecnego przygotowania. To refleksja, nie prognoza.",
+    "nl": "Antwoord naar je huidige voorbereiding. Dit is reflectie, geen voorspelling.",
+    "fil": "Sumagot ayon sa kasalukuyang paghahanda. Pagninilay ito, hindi hula."
+  },
+  "我的星座属性": {
+    "en": "My zodiac notes"
+  },
+  "编辑": {
+    "en": "Edit"
+  },
+  "生日区间匹配 · 时间用于节律标签 · 非完整星盘": {
+    "en": "Birthday ranges · Time adds a rhythm label · Not a full birth chart"
+  },
+  "保存我的星座属性": {
+    "en": "Save my birth details"
+  },
+  "出生信息": {
+    "en": "Birth details"
+  },
+  "分": {
+    "en": "pts"
+  },
+  "当天娱乐指数 · 点此查看完整星笺": {
+    "en": "Today's entertainment score · Open full notes"
+  },
+  "日子有起伏，选择可以慢一点。\n留一点时间，听见自己的声音。": {
+    "en": "Life has its ups and downs.\nTake a moment to hear your own voice."
+  },
+  "有个决定，想问问自己": {
+    "en": "A decision on your mind?"
+  },
+  "20 个问题 · 把心动整理成行动": {
+    "en": "20 questions · Turn an idea into a considered next step"
+  },
+  "版本 1.0": {
+    "en": "Version 1.0"
+  },
+  "愿每一次选择，都更接近你自己。": {
+    "en": "May each choice bring you closer to yourself."
+  },
+  "清除当前档案的问答记录？": {
+    "en": "Clear this profile's question history?"
+  },
+  "清除问答历史和草稿": {
+    "en": "Clear answers and draft"
+  },
+  "将删除已完成的问答、解读和未完成草稿。出生档案、抽签记录与显示设置会保留。此操作无法撤销。": {
+    "en": "Completed answers, reflections and the unfinished draft will be deleted. Birth details, lots and display preferences stay. This cannot be undone."
+  },
+  "退出登录？": {
+    "en": "Sign out?"
+  },
+  "本机记录会保留。手机号和微信账号再次进入时需要重新验证。": {
+    "en": "Local records stay on this device. Phone and WeChat accounts must verify again to sign in."
+  },
+  "已清除问答记录": {
+    "en": "Question history cleared"
+  },
+  "界面样式": {
+    "en": "Appearance"
+  },
+  "支持的系统会自动使用原生液态玻璃。开启系统“降低透明度”时，界面会改用清晰的实色。奶油、陶土与鼠尾草色在浅色和深色下分别适配。": {
+    "en": "Supported systems use native Liquid Glass. Reduce Transparency switches to solid colors. Warm cream, terracotta and sage adapt to light and dark appearances."
+  },
+  "界面与问答支持 28 种语言；古典签诗保留中文原文，长篇内容在未翻译时显示原文。": {
+    "en": "Navigation and the 20 questions support 28 languages. Classical poems stay in Chinese; long-form content without a translation is shown in its original language.",
+    "ja": "28言語に対応。古典の詩は中国語原文を保持し、未翻訳の長文は原文で表示します。",
+    "ko": "28개 언어를 지원합니다. 고전 시는 중국어 원문을 유지하며 미번역 긴 글은 원문으로 표시합니다.",
+    "es": "28 idiomas. Los poemas conservan el chino; los textos largos sin traducción se muestran en su idioma original.",
+    "fr": "28 langues. Les poèmes restent en chinois ; les longs textes non traduits sont affichés dans leur langue d’origine.",
+    "de": "28 Sprachen. Gedichte bleiben auf Chinesisch; nicht übersetzte Langtexte erscheinen im Original.",
+    "it": "28 lingue. Le poesie restano in cinese; i testi lunghi non tradotti sono mostrati nella lingua originale.",
+    "pt": "28 idiomas. Os poemas mantêm o chinês; textos longos sem tradução são apresentados na língua original.",
+    "ru": "28 языков. Стихи сохраняются на китайском; длинные тексты без перевода показываются в оригинале.",
+    "uk": "28 мов. Вірші залишаються китайською; довгі тексти без перекладу показуються мовою оригіналу.",
+    "ar": "28 لغة. تبقى القصائد بالصينية، وتظهر النصوص الطويلة غير المترجمة بلغتها الأصلية.",
+    "hi": "28 भाषाएँ। कविताएँ चीनी में रहती हैं; लंबे अपूर्ण अनुवाद मूल भाषा में दिखते हैं।",
+    "bn": "২৮টি ভাষা। কবিতা চীনা ভাষায় থাকে; অনূদিত নয় এমন দীর্ঘ লেখা মূল ভাষায় দেখানো হয়।",
+    "ur": "۲۸ زبانیں۔ نظمیں چینی میں رہتی ہیں؛ طویل غیر ترجمہ شدہ متن اصل زبان میں دکھتا ہے۔",
+    "ta": "28 மொழிகள். கவிதைகள் சீன மொழியில் இருக்கும்; மொழிபெயர்க்காத நீண்ட உரைகள் அசல் மொழியில் காட்டப்படும்.",
+    "te": "28 భాషలు. పద్యాలు చైనీస్‌లోనే ఉంటాయి; అనువదించని పొడవైన సమాచారం అసలు భాషలో కనిపిస్తుంది.",
+    "id": "28 bahasa. Puisi tetap dalam bahasa Tionghoa; teks panjang yang belum diterjemahkan tampil dalam bahasa aslinya.",
+    "ms": "28 bahasa. Puisi kekal dalam bahasa Cina; teks panjang tanpa terjemahan dipaparkan dalam bahasa asal.",
+    "vi": "28 ngôn ngữ. Thơ giữ nguyên tiếng Trung; bài dài chưa dịch hiển thị bằng ngôn ngữ gốc.",
+    "th": "รองรับ 28 ภาษา บทกลอนคงภาษาจีนไว้ เนื้อหายาวที่ยังไม่แปลจะแสดงต้นฉบับ",
+    "tr": "28 dil. Şiirler Çince kalır; çevrilmemiş uzun içerikler özgün dilinde gösterilir.",
+    "fa": "۲۸ زبان. شعرها به چینی می‌مانند؛ متن‌های بلند ترجمه‌نشده به زبان اصلی نمایش داده می‌شوند.",
+    "he": "28 שפות. השירים נשארים בסינית; טקסטים ארוכים שטרם תורגמו מוצגים בשפת המקור.",
+    "pl": "28 języków. Wiersze pozostają po chińsku; długie teksty bez tłumaczenia są wyświetlane w oryginale.",
+    "nl": "28 talen. Gedichten blijven Chinees; onvertaalde lange teksten worden in de oorspronkelijke taal getoond.",
+    "fil": "28 wika. Nananatiling Chinese ang mga tula; ang mahahabang tekstong hindi pa naisalin ay nasa orihinal na wika."
+  },
+  "值得吗？": {
+    "en": "Worth It?"
+  },
+  "星笺 · 自问 · 问心签": {
+    "en": "Star notes · Reflection · Mindful lots"
+  },
+  "用二十个问题，整理动机、事实、资源、风险与独立判断；用一点轻轻的仪式，留意当下的心情。": {
+    "en": "Twenty questions to organize motivation, facts, resources, risk and independent judgment. A small ritual to notice how you feel."
+  },
+  "准备度来自自我报告，不代表实际成功概率。星座分数和幸运提示仅供娱乐；问心签是传统签文化启发的原创文字，不作吉凶预测。": {
+    "en": "Readiness comes from self-report, not a measured probability of success. Star scores are entertainment. Mindful lots are original reflections inspired by traditional poetry, not predictions."
+  },
+  "每一个选择，\n从认识自己开始。": {
+    "en": "Every choice starts\nwith knowing yourself."
+  },
+  "建立专属档案，把星光与心事留在这里。": {
+    "en": "Create a profile for your notes and reflections."
+  },
+  "注册 / 继续本机档案": {
+    "en": "Create or resume a local profile"
+  },
+  "验证码已发送，请查看手机短信，5 分钟内有效。": {
+    "en": "Code sent. Check your SMS. It expires in 5 minutes."
+  },
+  "了解并同意隐私与使用说明": {
+    "en": "Read and agree to the privacy and usage notes"
+  },
+  "我已了解并同意": {
+    "en": "I have read and agree to",
+    "ja": "内容を読み、同意します",
+    "ko": "내용을 읽고 동의합니다",
+    "es": "He leído y acepto",
+    "fr": "J’ai lu et j’accepte",
+    "de": "Ich habe gelesen und stimme zu",
+    "it": "Ho letto e accetto",
+    "pt": "Li e aceito",
+    "ru": "Я прочитал и согласен",
+    "uk": "Я прочитав і погоджуюся",
+    "ar": "قرأت وأوافق على",
+    "hi": "मैंने पढ़ा और सहमत हूँ",
+    "bn": "আমি পড়েছি এবং সম্মত",
+    "ur": "میں نے پڑھا اور متفق ہوں",
+    "ta": "படித்து ஒப்புக்கொள்கிறேன்",
+    "te": "చదివి అంగీకరిస్తున్నాను",
+    "id": "Saya sudah membaca dan setuju",
+    "ms": "Saya telah membaca dan bersetuju",
+    "vi": "Tôi đã đọc và đồng ý",
+    "th": "ฉันอ่านและยอมรับแล้ว",
+    "tr": "Okudum ve kabul ediyorum",
+    "fa": "خواندم و موافقم",
+    "he": "קראתי ואני מסכים",
+    "pl": "Przeczytano i akceptuję",
+    "nl": "Ik heb gelezen en ga akkoord",
+    "fil": "Nabasa ko at sumasang-ayon ako"
+  },
+  "《隐私与使用说明》": {
+    "en": "Privacy and usage notes"
+  },
+  "继续，开启我的星笺": {
+    "en": "Continue",
+    "ja": "続ける",
+    "ko": "계속",
+    "es": "Continuar",
+    "fr": "Continuer",
+    "de": "Weiter",
+    "it": "Continua",
+    "pt": "Continuar",
+    "ru": "Продолжить",
+    "uk": "Продовжити",
+    "ar": "متابعة",
+    "hi": "जारी रखें",
+    "bn": "চালিয়ে যান",
+    "ur": "جاری رکھیں",
+    "ta": "தொடரவும்",
+    "te": "కొనసాగించు",
+    "id": "Lanjutkan",
+    "ms": "Teruskan",
+    "vi": "Tiếp tục",
+    "th": "ดำเนินการต่อ",
+    "tr": "Devam et",
+    "fa": "ادامه",
+    "he": "המשך",
+    "pl": "Kontynuuj",
+    "nl": "Doorgaan",
+    "fil": "Magpatuloy"
+  },
+  "等待微信授权…": {
+    "en": "Waiting for WeChat…"
+  },
+  "通过微信授权继续": {
+    "en": "Continue with WeChat"
+  },
+  "手机号需通过真实短信验证后登录。验证码不会显示在应用内。": {
+    "en": "Phone sign-in requires a real SMS code. The app does not display the code."
+  },
+  "邮箱目前用于本机建档，尚未验证邮箱所有权。正式账号可使用手机号或微信授权登录。": {
+    "en": "Email currently identifies a local profile; ownership is not verified. Use phone or WeChat for a verified account."
+  },
+  "验证码已过期，请重新获取。": {
+    "en": "The code has expired. Request a new one."
+  },
+  "返回注册方式": {
+    "en": "Back to sign-in methods"
+  },
+  "把你的星光，\n轻轻写在这里。": {
+    "en": "A little space\nfor your own story."
+  },
+  "出生信息只用于你的专属星座属性和内容灵感。": {
+    "en": "Birth details personalize zodiac notes and content inspiration."
+  },
+  "生成档案，进入值得吗？": {
+    "en": "Create profile and enter"
+  },
+  "星座采用常见生日区间，临界日期仅作娱乐。出生时间细化节律标签；未计算上升星座或完整星盘。": {
+    "en": "Signs use common birthday ranges. Boundary dates are for entertainment. Birth time adds a rhythm label; no rising sign or full chart is calculated."
+  },
+  "怎么称呼你？": {
+    "en": "What should we call you?",
+    "ja": "どうお呼びしましょうか？",
+    "ko": "어떻게 불러 드릴까요?",
+    "es": "¿Cómo te llamamos?",
+    "fr": "Comment vous appeler ?",
+    "de": "Wie dürfen wir dich nennen?",
+    "it": "Come ti chiamiamo?",
+    "pt": "Como prefere ser chamado?",
+    "ru": "Как к вам обращаться?",
+    "uk": "Як до вас звертатися?",
+    "ar": "بأي اسم نناديك؟",
+    "hi": "आपको किस नाम से बुलाएँ?",
+    "bn": "আপনাকে কী নামে ডাকব?",
+    "ur": "آپ کو کس نام سے پکاریں؟",
+    "ta": "உங்களை எப்படி அழைப்பது?",
+    "te": "మిమ్మల్ని ఏమని పిలవాలి?",
+    "id": "Kami memanggilmu siapa?",
+    "ms": "Apa panggilan anda?",
+    "vi": "Nên gọi bạn là gì?",
+    "th": "ให้เรียกคุณว่าอะไรดี",
+    "tr": "Size nasıl hitap edelim?",
+    "fa": "شما را چه بنامیم؟",
+    "he": "איך לקרוא לך?",
+    "pl": "Jak się do Ciebie zwracać?",
+    "nl": "Hoe mogen we je noemen?",
+    "fil": "Ano ang itatawag namin sa iyo?"
+  },
+  "出生年月日": {
+    "en": "Date of birth"
+  },
+  "我知道出生时间": {
+    "en": "I know my birth time"
+  },
+  "出生时间": {
+    "en": "Time of birth"
+  },
+  "填写出生地当地的钟表时间，可精确到分钟。": {
+    "en": "Use the local clock time at your birthplace, to the minute if known."
+  },
+  "不知道几点也没关系，留空即可。": {
+    "en": "It's fine not to know the time. Leave it off."
+  },
+  "把星光留在身边，\n把选择留给自己。": {
+    "en": "Keep a little light nearby.\nKeep the choice your own."
+  },
+  "本机档案": {
+    "en": "On-device profile",
+    "ja": "本機のプロフィール",
+    "ko": "기기 내 프로필",
+    "es": "Perfil en el dispositivo",
+    "fr": "Profil sur cet appareil",
+    "de": "Profil auf diesem Gerät",
+    "it": "Profilo sul dispositivo",
+    "pt": "Perfil neste dispositivo",
+    "ru": "Профиль на устройстве",
+    "uk": "Профіль на пристрої",
+    "ar": "ملف على الجهاز",
+    "hi": "डिवाइस पर प्रोफ़ाइल",
+    "bn": "ডিভাইসের প্রোফাইল",
+    "ur": "ڈیوائس پر پروفائل",
+    "ta": "சாதனத்தில் சுயவிவரம்",
+    "te": "పరికరంలోని ప్రొఫైల్",
+    "id": "Profil di perangkat",
+    "ms": "Profil pada peranti",
+    "vi": "Hồ sơ trên thiết bị",
+    "th": "โปรไฟล์บนอุปกรณ์",
+    "tr": "Cihazdaki profil",
+    "fa": "نمایه روی دستگاه",
+    "he": "פרופיל במכשיר",
+    "pl": "Profil na urządzeniu",
+    "nl": "Profiel op dit apparaat",
+    "fil": "Profile sa device"
+  },
+  "信息与存储": {
+    "en": "Information and storage"
+  },
+  "怎样理解星笺": {
+    "en": "Understanding star notes"
+  },
+  "答题与小事": {
+    "en": "Questions and small actions"
+  },
+  "隐私与使用说明": {
+    "en": "Privacy and usage notes"
+  },
+  "100 签": {
+    "en": "100 lots"
+  },
+  "摇一支签，\n安放此刻的心。": {
+    "en": "Draw a little poem.\nMake room for this moment."
+  },
+  "读一首旧诗，\n照见当下的心。": {
+    "en": "Read an old poem.\nReflect on the present."
+  },
+  "先选心情，再轻轻摇一摇。签里有意境，路在你脚下。": {
+    "en": "Choose a feeling, then gently shake. The poem offers a perspective; the next step is yours."
+  },
+  "你现在的感受是什么？五种心情都可以。": {
+    "en": "How are you feeling? All five are welcome."
+  },
+  "签声轻响，片刻就好…": {
+    "en": "Drawing your lot…"
+  },
+  "已准备好，请轻摇手机": {
+    "en": "Ready. Gently shake your phone."
+  },
+  "正在抽签…": {
+    "en": "Drawing…"
+  },
+  "100 首原创签诗 · 取意山水、竹月与灯火\n不分凶吉，不替你做决定。摇动不便时，可点按抽签。": {
+    "en": "100 original poems inspired by nature and everyday light.\nNo good or bad verdicts. Tap instead if shaking is inconvenient."
+  },
+  "七言通行版 · 传统签诗与现代解读分开阅读\n签的等第是传统称谓，不代表现实吉凶。可轻摇或点按。": {
+    "en": "Common seven-character recension · Traditional text and modern reflections are separate.\nTraditional ranks do not predict real outcomes. Shake gently or tap."
+  },
+  "还没有签笺。慢慢来，随时可以开始。": {
+    "en": "No lots yet. Take your time; begin whenever you like."
+  },
+  "问心": {
+    "en": "REFLECT"
+  },
+  "一签一念": {
+    "en": "A POEM · A PAUSE"
+  },
+  "自拟签文 · 取意传统意象": {
+    "en": "Original poem inspired by traditional imagery"
+  },
+  "观音灵签 · 七言通行版": {
+    "en": "Guanyin lots · Common seven-character recension"
+  },
+  "解签 · 给此刻的你": {
+    "en": "A reflection for this moment"
+  },
+  "可以先做的一件小事": {
+    "en": "One small next step"
+  },
+  "分享这份签意": {
+    "en": "Share this reflection"
+  },
+  "签文是文化与自我关照的灵感，不预言结果，也不决定你的价值。": {
+    "en": "These texts offer cultural inspiration and self-reflection. They do not predict outcomes or determine your worth."
+  },
+  "苹果": {
+    "en": "Apple"
+  },
+  "微信": {
+    "en": "WeChat"
+  },
+  "管理": {
+    "en": "Manage"
+  },
+  "微博": {
+    "en": "Weibo"
+  },
+  "当前为邮箱本机档案。绑定和密码功能需先退出并通过手机号或微信验证登录。注销会删除当前本机档案。": {
+    "en": "This is an unverified local email profile. Account linking and passwords require verified sign-in. Deleting removes this local profile."
+  },
+  "联系方式经服务端验证后生效。更换或设置密码后，其他设备的登录会失效。": {
+    "en": "Contact changes take effect after server verification. Updating contacts or passwords signs out other devices."
+  },
+  "确认注销账号？": {
+    "en": "Delete this account?"
+  },
+  "永久注销并删除当前档案": {
+    "en": "Permanently delete account and profile"
+  },
+  "将删除当前账号、出生信息、问答和抽签记录，无法恢复。验证账号需在最近 10 分钟内重新登录后才能注销。": {
+    "en": "This permanently deletes the account, birth details, answers and lots. Verified accounts must have signed in within the last 10 minutes."
+  },
+  "账号提示": {
+    "en": "Account notice"
+  },
+  "绑定或更换手机号": {
+    "en": "Link or change phone number"
+  },
+  "绑定邮箱": {
+    "en": "Link email"
+  },
+  "验证码发送至已绑定的手机或邮箱。": {
+    "en": "The code is sent to your linked phone or email."
+  },
+  "新密码（8–128 位）": {
+    "en": "New password (8–128 characters)"
+  },
+  "再次输入密码": {
+    "en": "Confirm password"
+  },
+  "新手机号": {
+    "en": "New phone number"
+  },
+  "邮箱地址": {
+    "en": "Email address"
+  },
+  "验证码": {
+    "en": "Verification code"
+  },
+  "发送验证码": {
+    "en": "Send code"
+  },
+  "验证码 5 分钟内有效。验证成功才会更新账号信息。": {
+    "en": "Codes expire in 5 minutes. Account details change only after verification."
+  },
+  "请先通过手机号或微信验证登录后使用此功能。": {
+    "en": "Sign in with a verified phone or WeChat account to use this feature."
+  },
+  "正在处理…": {
+    "en": "Working…"
+  },
+  "确认保存": {
+    "en": "Save changes"
+  },
+  "验证码已发送，请查看手机短信或邮箱。": {
+    "en": "Code sent. Check your phone or email."
+  },
+  "已保存。": {
+    "en": "Saved."
+  },
+  "已通过微信授权绑定。": {
+    "en": "Linked through official WeChat authorization."
+  },
+  "使用官方微信授权，为当前账号绑定微信。": {
+    "en": "Link WeChat to this account using official authorization."
+  },
+  "前往微信授权": {
+    "en": "Authorize with WeChat"
+  },
+  "微信绑定暂未开放，请稍后再试。": {
+    "en": "WeChat linking is not available yet. Please try later."
+  },
+  "微信绑定": {
+    "en": "WeChat linking"
+  },
+  "微信授权": {
+    "en": "WeChat authorization"
+  },
+  "已绑定的登录方式": {
+    "en": "Linked sign-in methods"
+  },
+  "手机号": {
+    "en": "Phone"
+  },
+  "当前没有已验证的授权方式": {
+    "en": "No verified sign-in methods"
+  },
+  "退出其他设备的登录": {
+    "en": "Sign out other devices"
+  },
+  "其他设备的登录已失效。": {
+    "en": "Other devices have been signed out."
+  },
+  "应用不读取通讯录。微信授权范围和撤销也可在微信的授权管理中查看。": {
+    "en": "The app does not read contacts. You can also review or revoke WeChat authorization in WeChat."
+  },
+  "你的决定签": {
+    "en": "Your reflection"
+  },
+  "分享决定签": {
+    "en": "Share reflection"
+  },
+  "删除这份决定签": {
+    "en": "Delete this reflection"
+  },
+  "命运不在签里，在你接下来的行动里。": {
+    "en": "Your next actions matter more than a score."
+  },
+  "准备度来自自我报告，不代表真实成功概率。": {
+    "en": "Readiness is self-reported, not a measured chance of success.",
+    "ja": "準備度は自己申告であり、実際の成功確率ではありません。",
+    "ko": "준비도는 자기 보고이며 실제 성공 확률이 아닙니다.",
+    "es": "La preparación es autodeclarada, no una probabilidad medida de éxito.",
+    "fr": "La préparation est autodéclarée, pas une probabilité de réussite mesurée.",
+    "de": "Bereitschaft beruht auf Selbstauskunft, nicht auf einer gemessenen Erfolgswahrscheinlichkeit.",
+    "it": "La preparazione è autodichiarata, non una probabilità di successo misurata.",
+    "pt": "A preparação é autodeclarada, não uma probabilidade de sucesso medida.",
+    "ru": "Готовность основана на самоотчёте, а не на измеренной вероятности успеха.",
+    "uk": "Готовність ґрунтується на самооцінці, а не на виміряній імовірності успіху.",
+    "ar": "الاستعداد مبني على إجاباتك، وليس احتمال نجاح مقاسًا.",
+    "hi": "तैयारी आपके बताए उत्तरों पर है, मापी हुई सफलता की संभावना नहीं।",
+    "bn": "প্রস্তুতি নিজের দেওয়া তথ্যভিত্তিক, সাফল্যের মাপা সম্ভাবনা নয়।",
+    "ur": "تیاری آپ کے جوابات پر مبنی ہے، ناپا ہوا امکانِ کامیابی نہیں۔",
+    "ta": "தயார்நிலை உங்கள் பதில்களின் அடிப்படை மட்டுமே; அளவிட்ட வெற்றி வாய்ப்பு அல்ல.",
+    "te": "సిద్ధత మీ జవాబులపై ఆధారితం, కొలిచిన విజయ సంభావ్యత కాదు.",
+    "id": "Kesiapan berdasarkan jawaban sendiri, bukan peluang sukses yang terukur.",
+    "ms": "Kesediaan berdasarkan jawapan sendiri, bukan kebarangkalian kejayaan yang diukur.",
+    "vi": "Mức sẵn sàng dựa trên tự báo cáo, không phải xác suất thành công được đo lường.",
+    "th": "ความพร้อมมาจากคำตอบของคุณ ไม่ใช่โอกาสสำเร็จที่วัดได้",
+    "tr": "Hazırlık kendi beyanınıza dayanır, ölçülmüş başarı olasılığı değildir.",
+    "fa": "آمادگی بر پایه پاسخ خودتان است، نه احتمال موفقیت اندازه‌گیری‌شده.",
+    "he": "המוכנות מבוססת על דיווח עצמי, לא על הסתברות הצלחה שנמדדה.",
+    "pl": "Gotowość opiera się na własnych odpowiedziach, nie na zmierzonej szansie sukcesu.",
+    "nl": "Gereedheid komt uit zelfrapportage, niet uit een gemeten kans op succes.",
+    "fil": "Ang kahandaan ay sariling ulat, hindi sinusukat na posibilidad ng tagumpay."
+  },
+  "带着答案，回到生活里": {
+    "en": "Take your reflection into life"
+  },
+  "删除这份决定签？": {
+    "en": "Delete this reflection?"
+  },
+  "永久删除": {
+    "en": "Delete permanently"
+  },
+  "保留": {
+    "en": "Keep"
+  },
+  "删除后无法恢复，其他决定签不受影响。": {
+    "en": "This cannot be undone. Other reflections stay."
+  },
+  "准备度 / 100": {
+    "en": "READINESS / 100"
+  },
+  "已存入决定簿": {
+    "en": "Saved to question history"
+  },
+  "%d / %d 个真实回答": {
+    "en": "%d / %d genuine answers"
+  },
+  "你的内心坐标": {
+    "en": "Your readiness map"
+  },
+  "每个维度由 4 题构成，满分 12 分后换算为百分制。分数越高，表示自述准备越充分。": {
+    "en": "Each area has 4 questions worth 12 points, converted to 100. Higher scores reflect greater self-reported preparation."
+  },
+  "这份旧版报告按原来的 15 题计算，每个维度 3 题，共 9 分。": {
+    "en": "This legacy report keeps its original 15 questions: 3 per area, worth 9 points."
+  },
+  "给此刻的你": {
+    "en": "For you, right now"
+  },
+  "先暂停，也是一种主动选择。": {
+    "en": "Pausing can be an active choice."
+  },
+  "留一句话给未来": {
+    "en": "A note to your future self"
+  },
+  "我准备先做的一件小事是……": {
+    "en": "One small action I can take is…"
+  },
+  "自动保存 · 随时回来补充后来的故事": {
+    "en": "Saved automatically · Return whenever you like"
+  },
+  "回看我的回答": {
+    "en": "Review my answers"
+  },
+  "星笺分数与幸运提示仅供娱乐，不是预测或心理诊断。食物与物品按个人需要选择，无需购买，也不表示真实吉凶。": {
+    "en": "Scores and charms are entertainment, not predictions or psychological diagnoses. No purchase is needed; choose items and food according to your own needs."
+  },
+  "选择星笺日期": {
+    "en": "Choose a date"
+  },
+  "查看这一天": {
+    "en": "View this day"
+  },
+  "选择日期": {
+    "en": "Choose date"
+  },
+  "今": {
+    "en": "Now"
+  },
+  "娱乐指数 / 100": {
+    "en": "ENTERTAINMENT / 100"
+  },
+  "适合": {
+    "en": "Try"
+  },
+  "放一放": {
+    "en": "Let wait"
+  },
+  "本期数字": {
+    "en": "This period's number"
+  },
+  "小小仪式即可，不用为幸运额外花钱。": {
+    "en": "A small ritual is enough. No need to buy anything for luck."
+  },
+  "让心慢下来的三件小事": {
+    "en": "Three small ways to slow down"
+  },
+  "它们是日常休息的小邀请，不是治疗方案。": {
+    "en": "These are optional everyday breaks, not treatment."
+  },
+  "心理解读 · 五个角度": {
+    "en": "Inner notes · Five perspectives"
+  },
+  "星座灵感版 · 完成 20 问可加入答题线索": {
+    "en": "Zodiac inspiration · Complete 20 questions to add your own responses"
+  },
+  "星座灵感 + 最近一次答题线索": {
+    "en": "Zodiac inspiration + your latest answers"
+  },
+  "去自问": {
+    "en": "Reflect now"
+  },
+  "展开全文": {
+    "en": "Read more"
+  },
+  "内容是一份自我观察邀请，不代表确定性格、心理诊断或未来结果。": {
+    "en": "An invitation to reflect, not a fixed personality label, diagnosis or prediction."
+  },
+  "没有标准答案。选更接近真实的那个你。": {
+    "en": "No ideal answer. Choose what is closest to you now."
+  },
+  "把思考留在这里？": {
+    "en": "Save your thoughts here?"
+  },
+  "还有问题未回答": {
+    "en": "Some questions are unanswered"
+  },
+  "返回检查": {
+    "en": "Check answers"
+  },
+  "完整回答 20 个问题后才能生成决定签。": {
+    "en": "Answer all 20 questions to create your reflection."
+  },
+  "把心里的线索，\n慢慢连起来。": {
+    "en": "Connecting the threads\nof your reflection."
+  },
+  "答案一直在你心里。": {
+    "en": "Make room for your own answer."
+  },
+  "以下由本应用整理，是自我观察的建议，与古文断语分别展示。": {
+    "en": "These reflections were written for this app and are separate from the traditional text."
+  },
+  "故事提要按签题整理；民间传说、演义与史实有别。": {
+    "en": "Story summaries follow the lot titles. Folklore, fiction and history are different."
+  },
+  "各地签本的诗句、故事和等第存在差异。本版采用七言四句通行录文，不代表任何寺院认证。": {
+    "en": "Poems, stories and ranks vary by region. This common four-line recension is not endorsed by a temple."
+  },
+  "下面是旧时签本的文化条目，不是现实判断，也不用于疾病、孕产、投资或法律决定。": {
+    "en": "These are historical cultural entries, not judgments about reality or guidance for medical, pregnancy, investment or legal decisions."
+  },
+  "仙机 · 传统条目": {
+    "en": "Traditional entries"
+  },
+  "签谱阅读": {
+    "en": "Read the collection"
+  },
+  "签号、签题或诗句": {
+    "en": "Number, title or poem"
+  },
+  "观音百签": {
+    "en": "100 Guanyin lots"
+  },
+  "正在确认登录状态…": {
+    "en": "Checking sign-in status…"
+  },
+  "重试": {
+    "en": "Retry"
+  },
+  "返回注册界面": {
+    "en": "Back to sign-in"
+  },
+  "档案提示": {
+    "en": "Profile notice"
+  },
+  "登录已失效，请重新验证。": {
+    "en": "Your session expired. Please verify again."
+  },
+  "暂时无法验证登录。请检查网络后重试。": {
+    "en": "Could not verify your session. Check the connection and try again."
+  },
+  "星笺详情": {
+    "en": "Star notes"
+  },
+  "开始新的决定？": {
+    "en": "Start a new reflection?"
+  },
+  "替换未完成的答题": {
+    "en": "Replace unfinished answers"
+  },
+  "继续之前的答题": {
+    "en": "Continue previous answers"
+  },
+  "新决定会替换当前草稿，已经保存的决定签不受影响。": {
+    "en": "A new reflection replaces the draft. Saved reflections stay."
+  },
+  "本地存储提示": {
+    "en": "Local storage notice"
+  },
+  "使用说明": {
+    "en": "How it works"
+  },
+  "大决定之前，\n先看清自己。": {
+    "en": "Before a big decision,\nget to know yourself."
+  },
+  "给直觉一点空间，也给理性一个发言权。": {
+    "en": "Give intuition some space, and reason a voice."
+  },
+  "20 个问题": {
+    "en": "20 questions"
+  },
+  "约 4 分钟": {
+    "en": "About 4 minutes"
+  },
+  "继续上次的思考": {
+    "en": "Continue your reflection"
+  },
+  "你正在犹豫什么？": {
+    "en": "What are you considering?"
+  },
+  "把它写下来，答案从这里开始。": {
+    "en": "Write it down. Start your reflection here."
+  },
+  "开始解读我的决定": {
+    "en": "Start my reflection"
+  },
+  "专属本机档案 · 真实自问 · 自己选择": {
+    "en": "Local profile · Honest reflection · Your own choice"
+  },
+  "每一次选择，\n都有迹可循。": {
+    "en": "Every choice leaves\na trail of reflection."
+  },
+  "第一份决定签，等你来写。": {
+    "en": "Your first reflection starts with you."
+  },
+  "完成 20 个问题后，你的心态画像和行动建议会出现在这里。以后再回来，看看当时的自己。": {
+    "en": "Complete 20 questions to save your readiness reflection and next steps here. Return later to see what has changed."
+  },
+  "去问问自己": {
+    "en": "Ask yourself"
+  },
+  "不是预言，\n是一次看见自己。": {
+    "en": "A moment to see yourself,\nnot a prediction."
+  },
+  "未来不是被算出来的，\n是被你一步一步走出来的。": {
+    "en": "Your future unfolds\nthrough the steps you choose."
+  },
+  "请输入中国大陆手机号": {
+    "en": "Enter a mainland China phone number"
+  },
+  "使用 11 位中国大陆手机号。": {
+    "en": "Use an 11-digit mainland China phone number."
+  },
+  "使用完整邮箱地址，例如 name@example.com。": {
+    "en": "Use a full email address, such as name@example.com."
+  },
+  "工作": {
+    "en": "Work"
+  },
+  "关系": {
+    "en": "Relationships"
+  },
+  "消费": {
+    "en": "Spending"
+  },
+  "人生": {
+    "en": "Life"
+  },
+  "上签": {
+    "en": "Upper rank"
+  },
+  "中签": {
+    "en": "Middle rank"
+  },
+  "下签": {
+    "en": "Lower rank"
+  },
+  "整体解译": {
+    "en": "Overall reflection"
+  },
+  "本签精髓": {
+    "en": "Core theme"
+  },
+  "凡事做事": {
+    "en": "Everyday decisions"
+  },
+  "爱情婚姻": {
+    "en": "Love and relationships"
+  },
+  "工作求职 · 创业事业": {
+    "en": "Work and business"
+  },
+  "考试竞赛 · 升迁竞选": {
+    "en": "Study and advancement"
+  },
+  "投资理财": {
+    "en": "Money and investments"
+  },
+  "经商生意": {
+    "en": "Business"
+  },
+  "房地交易": {
+    "en": "Property decisions"
+  },
+  "健康与照顾": {
+    "en": "Health and care"
+  },
+  "转换变更": {
+    "en": "Changes"
+  },
+  "求孕求子": {
+    "en": "Pregnancy and parenthood"
+  },
+  "官司诉讼": {
+    "en": "Legal matters"
+  },
+  "寻人寻物": {
+    "en": "People and lost items"
+  },
+  "远行出国": {
+    "en": "Travel"
+  },
+  "全文": {
+    "en": "Full text"
+  },
+  "胸有成竹型": {
+    "en": "Well prepared",
+    "ja": "準備が整っている",
+    "ko": "준비가 잘됨",
+    "es": "Buena preparación",
+    "fr": "Bien préparé",
+    "de": "Gut vorbereitet",
+    "it": "Ben preparato",
+    "pt": "Boa preparação",
+    "ru": "Хорошая подготовка",
+    "uk": "Добре підготовлено",
+    "ar": "استعداد جيد",
+    "hi": "अच्छी तैयारी",
+    "bn": "ভালো প্রস্তুতি",
+    "ur": "اچھی تیاری",
+    "ta": "நல்ல தயாரிப்பு",
+    "te": "మంచి సిద్ధత",
+    "id": "Siap dengan baik",
+    "ms": "Persediaan baik",
+    "vi": "Chuẩn bị tốt",
+    "th": "เตรียมพร้อมดี",
+    "tr": "İyi hazırlanmış",
+    "fa": "آمادگی خوب",
+    "he": "מוכנות טובה",
+    "pl": "Dobre przygotowanie",
+    "nl": "Goed voorbereid",
+    "fil": "Handang-handa"
+  },
+  "蓄势待发型": {
+    "en": "Building momentum",
+    "ja": "準備を進めている",
+    "ko": "준비 중",
+    "es": "Preparación en marcha",
+    "fr": "En préparation",
+    "de": "Im Aufbau",
+    "it": "Preparazione in corso",
+    "pt": "Em preparação",
+    "ru": "Набираете готовность",
+    "uk": "Підготовка триває",
+    "ar": "استعداد يتقدم",
+    "hi": "तैयारी जारी",
+    "bn": "প্রস্তুতি চলছে",
+    "ur": "تیاری جاری",
+    "ta": "தயாராகிக் கொண்டிருக்கிறீர்கள்",
+    "te": "సిద్ధమవుతున్నారు",
+    "id": "Sedang bersiap",
+    "ms": "Sedang bersedia",
+    "vi": "Đang chuẩn bị",
+    "th": "กำลังเตรียมพร้อม",
+    "tr": "Hazırlık sürüyor",
+    "fa": "در حال آماده شدن",
+    "he": "בהכנה",
+    "pl": "Przygotowania trwają",
+    "nl": "Voorbereiding groeit",
+    "fil": "Naghahanda pa"
+  },
+  "边走边想型": {
+    "en": "Still exploring",
+    "ja": "まだ探っている",
+    "ko": "탐색 중",
+    "es": "Aún explorando",
+    "fr": "En exploration",
+    "de": "Noch am Erkunden",
+    "it": "Ancora in esplorazione",
+    "pt": "Ainda a explorar",
+    "ru": "Ещё исследуете",
+    "uk": "Ще досліджуєте",
+    "ar": "ما زلت تستكشف",
+    "hi": "अभी खोज रहे हैं",
+    "bn": "এখনও খুঁজছেন",
+    "ur": "ابھی تلاش میں",
+    "ta": "இன்னும் ஆராய்கிறீர்கள்",
+    "te": "ఇంకా అన్వేషిస్తున్నారు",
+    "id": "Masih menjelajah",
+    "ms": "Masih meneroka",
+    "vi": "Vẫn đang tìm hiểu",
+    "th": "ยังสำรวจอยู่",
+    "tr": "Hâlâ araştırıyor",
+    "fa": "هنوز در حال بررسی",
+    "he": "עדיין בוחנים",
+    "pl": "Wciąż odkrywasz",
+    "nl": "Nog aan het verkennen",
+    "fil": "Nagsasaliksik pa"
+  },
+  "心血来潮型": {
+    "en": "A spark of impulse",
+    "ja": "思いつきの段階",
+    "ko": "충동적인 아이디어",
+    "es": "Un impulso inicial",
+    "fr": "Un élan spontané",
+    "de": "Ein spontaner Impuls",
+    "it": "Un impulso iniziale",
+    "pt": "Um impulso inicial",
+    "ru": "Первый порыв",
+    "uk": "Перший порив",
+    "ar": "اندفاع أولي",
+    "hi": "एक शुरुआती आवेग",
+    "bn": "একটি প্রাথমিক আবেগ",
+    "ur": "ابتدائی جوش",
+    "ta": "முதல் உந்துதல்",
+    "te": "ప్రారంభ ఉత్సాహం",
+    "id": "Dorongan awal",
+    "ms": "Dorongan awal",
+    "vi": "Một thôi thúc ban đầu",
+    "th": "แรงกระตุ้นแรก",
+    "tr": "İlk dürtü",
+    "fa": "یک انگیزه ناگهانی",
+    "he": "דחף ראשוני",
+    "pl": "Pierwszy impuls",
+    "nl": "Een eerste impuls",
+    "fil": "Isang unang bugso"
+  },
+  "情绪上头型": {
+    "en": "Emotion is running high",
+    "ja": "感情が強い状態",
+    "ko": "감정이 강한 상태",
+    "es": "Emociones intensas",
+    "fr": "Émotions intenses",
+    "de": "Starke Gefühle",
+    "it": "Emozioni intense",
+    "pt": "Emoções intensas",
+    "ru": "Сильные эмоции",
+    "uk": "Сильні емоції",
+    "ar": "مشاعر قوية",
+    "hi": "भावनाएँ तीव्र हैं",
+    "bn": "তীব্র অনুভূতি",
+    "ur": "شدید جذبات",
+    "ta": "தீவிர உணர்வுகள்",
+    "te": "తీవ్రమైన భావాలు",
+    "id": "Emosi sedang kuat",
+    "ms": "Emosi kuat",
+    "vi": "Cảm xúc đang mạnh",
+    "th": "อารมณ์เข้มข้น",
+    "tr": "Duygular yoğun",
+    "fa": "احساسات شدید",
+    "he": "רגשות עזים",
+    "pl": "Silne emocje",
+    "nl": "Sterke emoties",
+    "fil": "Matindi ang damdamin"
+  },
+  "需要缓冲型": {
+    "en": "Give yourself a buffer",
+    "ja": "余裕を確保したい",
+    "ko": "여유가 필요한 상태",
+    "es": "Necesitas margen",
+    "fr": "Besoin de marge",
+    "de": "Etwas Puffer nötig",
+    "it": "Serve un margine",
+    "pt": "Precisa de margem",
+    "ru": "Нужен запас",
+    "uk": "Потрібен запас",
+    "ar": "تحتاج إلى فسحة",
+    "hi": "थोड़ी गुंजाइश रखें",
+    "bn": "কিছুটা অবকাশ দরকার",
+    "ur": "کچھ گنجائش رکھیں",
+    "ta": "சிறு இடைவெளி தேவை",
+    "te": "కొంత వెసులుబాటు కావాలి",
+    "id": "Butuh ruang jeda",
+    "ms": "Perlu ruang",
+    "vi": "Cần khoảng đệm",
+    "th": "ควรเผื่อพื้นที่",
+    "tr": "Biraz pay bırakın",
+    "fa": "به کمی مجال نیاز دارید",
+    "he": "כדאי להשאיר מרווח",
+    "pl": "Potrzebny margines",
+    "nl": "Neem wat ruimte",
+    "fil": "Maglaan ng puwang"
+  },
+  "先把选择权，留回自己手里。": {
+    "en": "Keep the choice in your own hands."
+  },
+  "先让情绪落地，再让决定发生。": {
+    "en": "Let emotions settle before deciding."
+  },
+  "先给生活留好缓冲，再迈出这一步。": {
+    "en": "Protect your daily needs before taking the next step."
+  },
+  "你的笃定，有迹可循。": {
+    "en": "Your confidence has some preparation behind it."
+  },
+  "方向渐渐清晰，还差一点准备。": {
+    "en": "The direction is clearer; a little preparation remains."
+  },
+  "念头有了，地图还需要补全。": {
+    "en": "The idea is here; the map still needs detail."
+  },
+  "心动是真的，准备也要跟上。": {
+    "en": "The spark matters. Give preparation time to catch up."
+  },
+  "白羊座": {
+    "en": "Aries"
+  },
+  "金牛座": {
+    "en": "Taurus"
+  },
+  "双子座": {
+    "en": "Gemini"
+  },
+  "巨蟹座": {
+    "en": "Cancer"
+  },
+  "狮子座": {
+    "en": "Leo"
+  },
+  "处女座": {
+    "en": "Virgo"
+  },
+  "天秤座": {
+    "en": "Libra"
+  },
+  "天蝎座": {
+    "en": "Scorpio"
+  },
+  "射手座": {
+    "en": "Sagittarius"
+  },
+  "摩羯座": {
+    "en": "Capricorn"
+  },
+  "水瓶座": {
+    "en": "Aquarius"
+  },
+  "双鱼座": {
+    "en": "Pisces"
+  },
+  "晨光慢启型": {
+    "en": "Morning rhythm"
+  },
+  "午后生长型": {
+    "en": "Afternoon rhythm"
+  },
+  "暮色漫游型": {
+    "en": "Evening rhythm"
+  },
+  "静夜灵感型": {
+    "en": "Night rhythm"
+  },
+  "自在节律": {
+    "en": "Your own rhythm"
+  },
+  "子宫": {
+    "en": "Zi palace"
+  },
+  "丑宫": {
+    "en": "Chou palace"
+  },
+  "寅宫": {
+    "en": "Yin palace"
+  },
+  "卯宫": {
+    "en": "Mao palace"
+  },
+  "辰宫": {
+    "en": "Chen palace"
+  },
+  "巳宫": {
+    "en": "Si palace"
+  },
+  "午宫": {
+    "en": "Wu palace"
+  },
+  "未宫": {
+    "en": "Wei palace"
+  },
+  "申宫": {
+    "en": "Shen palace"
+  },
+  "酉宫": {
+    "en": "You palace"
+  },
+  "戌宫": {
+    "en": "Xu palace"
+  },
+  "亥宫": {
+    "en": "Hai palace"
+  },
+  "%@，\n按你的节奏来。": {
+    "en": "%@,\nat your own pace.",
+    "ja": "%@さん、\n自分のペースで。",
+    "ko": "%@님,\n나만의 속도로.",
+    "es": "%@,\na tu ritmo.",
+    "fr": "%@,\nà votre rythme.",
+    "de": "%@,\nin deinem Tempo.",
+    "it": "%@,\nal tuo ritmo.",
+    "pt": "%@,\nao seu ritmo.",
+    "ru": "%@,\nв своём ритме.",
+    "uk": "%@,\nу своєму ритмі.",
+    "ar": "%@،\nعلى مهل.",
+    "hi": "%@,\nअपनी गति से।",
+    "bn": "%@,\nনিজের গতিতে।",
+    "ur": "%@،\nاپنی رفتار سے۔",
+    "ta": "%@,\nஉங்கள் வேகத்தில்.",
+    "te": "%@,\nమీ వేగంతో.",
+    "id": "%@,\ndengan ritmemu.",
+    "ms": "%@,\nikut rentak sendiri.",
+    "vi": "%@,\ntheo nhịp riêng.",
+    "th": "%@\nตามจังหวะของคุณ",
+    "tr": "%@,\nkendi hızında.",
+    "fa": "%@،\nبا ریتم خودت.",
+    "he": "%@,\nבקצב שלך.",
+    "pl": "%@,\nw swoim tempie.",
+    "nl": "%@,\nin je eigen tempo.",
+    "fil": "%@,\nsa sarili mong takbo."
+  },
+  "%d 份问答记录": {
+    "en": "%d saved reflections",
+    "ja": "回答記録 %d 件",
+    "ko": "답변 기록 %d개",
+    "es": "%d reflexiones guardadas",
+    "fr": "%d réflexions enregistrées",
+    "de": "%d gespeicherte Reflexionen",
+    "it": "%d riflessioni salvate",
+    "pt": "%d reflexões guardadas",
+    "ru": "Сохранено размышлений: %d",
+    "uk": "Збережено роздумів: %d",
+    "ar": "%d تأملات محفوظة",
+    "hi": "%d सहेजे गए मनन",
+    "bn": "%dটি সংরক্ষিত মনন",
+    "ur": "%d محفوظ غور",
+    "ta": "%d சேமித்த சிந்தனைகள்",
+    "te": "%d భద్రపరచిన ఆలోచనలు",
+    "id": "%d refleksi tersimpan",
+    "ms": "%d renungan disimpan",
+    "vi": "%d suy ngẫm đã lưu",
+    "th": "บันทึกการทบทวน %d รายการ",
+    "tr": "%d kayıtlı düşünce",
+    "fa": "%d تأمل ذخیره‌شده",
+    "he": "%d התבוננויות שמורות",
+    "pl": "%d zapisanych refleksji",
+    "nl": "%d opgeslagen reflecties",
+    "fil": "%d naka-save na pagninilay"
+  },
+  "%d 秒后重发": {
+    "en": "%d seconds to resend",
+    "ja": "%d秒後に再送",
+    "ko": "%d초 후 재전송",
+    "es": "Reenviar en %d segundos",
+    "fr": "Renvoyer dans %d secondes",
+    "de": "Erneut senden in %d Sekunden",
+    "it": "Invia di nuovo tra %d secondi",
+    "pt": "Reenviar em %d segundos",
+    "ru": "Отправить снова через %d с",
+    "uk": "Повторити через %d с",
+    "ar": "إعادة الإرسال بعد %d ثانية",
+    "hi": "%d सेकंड बाद फिर भेजें",
+    "bn": "%d সেকেন্ড পরে আবার পাঠান",
+    "ur": "%d سیکنڈ بعد دوبارہ بھیجیں",
+    "ta": "%d நொடிக்குப் பின் மீண்டும் அனுப்பு",
+    "te": "%d సెకన్ల తర్వాత మళ్లీ పంపు",
+    "id": "Kirim ulang dalam %d detik",
+    "ms": "Hantar semula dalam %d saat",
+    "vi": "Gửi lại sau %d giây",
+    "th": "ส่งอีกครั้งใน %d วินาที",
+    "tr": "%d saniye sonra yeniden gönder",
+    "fa": "ارسال دوباره پس از %d ثانیه",
+    "he": "שליחה שוב בעוד %d שניות",
+    "pl": "Wyślij ponownie za %d s",
+    "nl": "Opnieuw sturen over %d seconden",
+    "fil": "Ipadala muli sa loob ng %d segundo"
+  },
+  "已回答 %d 题，稍后可以继续。": {
+    "en": "%d questions answered. You can continue later.",
+    "ja": "%d問回答済み。後で続けられます。",
+    "ko": "%d개 답변 완료. 나중에 계속할 수 있습니다.",
+    "es": "%d respuestas. Puedes continuar después.",
+    "fr": "%d réponses. Vous pouvez reprendre plus tard.",
+    "de": "%d Fragen beantwortet. Später fortsetzen möglich.",
+    "it": "%d risposte. Puoi continuare dopo.",
+    "pt": "%d respostas. Pode continuar depois.",
+    "ru": "Ответов: %d. Можно продолжить позже.",
+    "uk": "Відповідей: %d. Можна продовжити пізніше.",
+    "ar": "أجبت عن %d أسئلة. يمكنك المتابعة لاحقًا.",
+    "hi": "%d उत्तर दिए। बाद में जारी रख सकते हैं।",
+    "bn": "%dটি উত্তর দেওয়া হয়েছে। পরে চালাতে পারেন।",
+    "ur": "%d جواب مکمل۔ بعد میں جاری رکھ سکتے ہیں۔",
+    "ta": "%d பதில்கள் முடிந்தன. பிறகு தொடரலாம்.",
+    "te": "%d జవాబులు పూర్తయ్యాయి. తర్వాత కొనసాగించవచ్చు.",
+    "id": "%d jawaban selesai. Bisa dilanjutkan nanti.",
+    "ms": "%d jawapan selesai. Boleh sambung kemudian.",
+    "vi": "Đã trả lời %d câu. Có thể tiếp tục sau.",
+    "th": "ตอบแล้ว %d ข้อ กลับมาทำต่อได้",
+    "tr": "%d soru yanıtlandı. Sonra devam edebilirsiniz.",
+    "fa": "%d پاسخ ثبت شد. بعداً می‌توانید ادامه دهید.",
+    "he": "נענו %d שאלות. אפשר להמשיך אחר כך.",
+    "pl": "Odpowiedziano na %d pytań. Możesz wrócić później.",
+    "nl": "%d vragen beantwoord. Later doorgaan is mogelijk.",
+    "fil": "%d tanong ang nasagutan. Puwedeng magpatuloy mamaya."
+  },
+  "%@的五个生活角度": {
+    "en": "Five perspectives · %@",
+    "ja": "五つの視点 · %@",
+    "ko": "다섯 가지 관점 · %@",
+    "es": "Cinco perspectivas · %@",
+    "fr": "Cinq perspectives · %@",
+    "de": "Fünf Perspektiven · %@",
+    "it": "Cinque prospettive · %@",
+    "pt": "Cinco perspetivas · %@",
+    "ru": "Пять взглядов · %@",
+    "uk": "П’ять поглядів · %@",
+    "ar": "خمس زوايا · %@",
+    "hi": "पाँच दृष्टिकोण · %@",
+    "bn": "পাঁচটি দৃষ্টিভঙ্গি · %@",
+    "ur": "پانچ زاویے · %@",
+    "ta": "ஐந்து பார்வைகள் · %@",
+    "te": "ఐదు కోణాలు · %@",
+    "id": "Lima sudut pandang · %@",
+    "ms": "Lima sudut pandang · %@",
+    "vi": "Năm góc nhìn · %@",
+    "th": "ห้ามุมมอง · %@",
+    "tr": "Beş bakış açısı · %@",
+    "fa": "پنج زاویه · %@",
+    "he": "חמש נקודות מבט · %@",
+    "pl": "Pięć perspektyw · %@",
+    "nl": "Vijf perspectieven · %@",
+    "fil": "Limang pananaw · %@"
+  },
+  "把日子过成喜欢的温度": {
+    "en": "Make room for a day that feels like you"
+  },
+  "让小小的笃定慢慢生长": {
+    "en": "Let a little confidence grow"
+  },
+  "留一点空白，接住好心情": {
+    "en": "Leave a little room for a lighter moment"
+  },
+  "按自己的节奏，轻轻出发": {
+    "en": "Take a gentle step at your own pace"
+  },
+  "今天的你，也值得被照顾": {
+    "en": "You deserve some care today"
+  },
+  "火象": {
+    "en": "Fire"
+  },
+  "土象": {
+    "en": "Earth"
+  },
+  "风象": {
+    "en": "Air"
+  },
+  "水象": {
+    "en": "Water"
+  },
+  "开创": {
+    "en": "Cardinal"
+  },
+  "固定": {
+    "en": "Fixed"
+  },
+  "变动": {
+    "en": "Mutable"
+  },
+  "本机档案不创建互联网账号，也不上传答题和出生信息。请妥善保管设备。": {
+    "en": "A local profile is not an online account. Answers and birth details stay on this device. Keep the device secure."
+  },
+  "无需手机号或邮箱，记录只保存在本机。": {
+    "en": "No phone or email needed. Records stay on this device.",
+    "ja": "電話番号やメールは不要です。記録はこの端末だけに保存します。",
+    "ko": "전화나 이메일 없이 기록을 이 기기에만 저장합니다.",
+    "es": "Sin teléfono ni correo. Los registros quedan en este dispositivo.",
+    "fr": "Sans téléphone ni e-mail. Les données restent sur cet appareil.",
+    "de": "Keine Telefonnummer oder E-Mail nötig. Daten bleiben auf diesem Gerät.",
+    "it": "Senza telefono o e-mail. I dati restano su questo dispositivo.",
+    "pt": "Sem telefone ou e-mail. Os registos ficam neste dispositivo.",
+    "ru": "Без телефона и почты. Данные остаются на этом устройстве.",
+    "uk": "Без телефону й пошти. Дані залишаються на цьому пристрої.",
+    "ar": "لا حاجة لهاتف أو بريد. تبقى السجلات على هذا الجهاز.",
+    "hi": "फ़ोन या ईमेल नहीं चाहिए। रिकॉर्ड इसी डिवाइस पर रहते हैं।",
+    "bn": "ফোন বা ইমেইল লাগে না। তথ্য এই ডিভাইসেই থাকে।",
+    "ur": "فون یا ای میل ضروری نہیں۔ ریکارڈ اسی ڈیوائس پر رہتے ہیں۔",
+    "ta": "தொலைபேசியோ மின்னஞ்சலோ தேவையில்லை. பதிவுகள் இச்சாதனத்தில் இருக்கும்.",
+    "te": "ఫోన్ లేదా ఇమెయిల్ అవసరం లేదు. రికార్డులు ఈ పరికరంలోనే ఉంటాయి.",
+    "id": "Tanpa telepon atau email. Catatan tetap di perangkat ini.",
+    "ms": "Tanpa telefon atau e-mel. Rekod kekal pada peranti ini.",
+    "vi": "Không cần điện thoại hay email. Dữ liệu ở trên thiết bị này.",
+    "th": "ไม่ต้องใช้โทรศัพท์หรืออีเมล ข้อมูลอยู่บนอุปกรณ์นี้",
+    "tr": "Telefon veya e-posta gerekmez. Kayıtlar bu cihazda kalır.",
+    "fa": "نیازی به تلفن یا ایمیل نیست. داده‌ها روی همین دستگاه می‌مانند.",
+    "he": "אין צורך בטלפון או בדוא״ל. הנתונים נשארים במכשיר הזה.",
+    "pl": "Bez telefonu i e-maila. Dane pozostają na tym urządzeniu.",
+    "nl": "Geen telefoon of e-mail nodig. Gegevens blijven op dit apparaat.",
+    "fil": "Hindi kailangan ng telepono o email. Dito lang sa device ang mga tala."
+  },
+  "继续本机档案": {
+    "en": "Resume local profile"
+  },
+  "当前为本机档案。绑定和密码功能需先通过手机号或微信验证登录。注销会删除当前本机档案。": {
+    "en": "This is a local profile. Linking and passwords require verified sign-in. Deleting removes this local profile."
+  },
+  "版本与来源": {
+    "en": "Edition and sources"
+  },
+  "帮助与支持": {
+    "en": "Help and support"
+  },
+  "联系支持": {
+    "en": "Contact support"
+  },
+  "在线隐私政策": {
+    "en": "Online privacy policy"
+  },
+  "使用条款": {
+    "en": "Terms of use"
+  },
+  "A small pause can make room for a clearer next step. Notice what you need today.": {
+    "en": "A small pause can make room for a clearer next step. Notice what you need today."
+  },
+  "树洞": {
+    "en": "Quiet Corner",
+    "ja": "心のよりどころ",
+    "ko": "마음 쉼터",
+    "es": "Rincón de calma",
+    "fr": "Coin tranquille",
+    "de": "Ruheort",
+    "it": "Angolo di ascolto",
+    "pt": "Cantinho de escuta",
+    "ru": "Тихий уголок",
+    "uk": "Тихий куточок",
+    "ar": "مساحة للبوح",
+    "hi": "मन की बात",
+    "bn": "মনের কথা",
+    "ur": "دل کی بات",
+    "ta": "மனதின் குரல்",
+    "te": "మనసులోని మాట",
+    "id": "Ruang Curhat",
+    "ms": "Ruang Luahan",
+    "vi": "Góc tâm sự",
+    "th": "มุมระบายใจ",
+    "tr": "İçini Dök",
+    "fa": "گوشهٔ آرام",
+    "he": "פינה שקטה",
+    "pl": "Cichy kącik",
+    "nl": "Rustige plek",
+    "fil": "Sulok ng saloobin"
+  },
+  "开心可以分享，委屈也有人听。": {
+    "en": "Share your joy. Make room for the hard days."
+  },
+  "把心里的话，\n放在这里一会儿。": {
+    "en": "Let your thoughts\nrest here for a while."
+  },
+  "分享一件小开心，吐槽糟糕的一天，或一起把乱成一团的想法理顺。你可以直接告诉树洞：只听我说，先不要建议。": {
+    "en": "Share a little joy, vent about a rough day, or untangle your thoughts together. You can simply say: please listen, without advice for now."
+  },
+  "聊天服务已连接": {
+    "en": "Chat service connected"
+  },
+  "聊天服务待接入": {
+    "en": "Chat service not configured"
+  },
+  "回复由 AI 生成，可能不准确。发送前请阅读聊天发送说明。": {
+    "en": "AI replies may be inaccurate. Please read the sharing notice before sending."
+  },
+  "目前尚未连接可用的模型服务，暂时不能回复。你可以先把想说的话写下来，草稿仅保存在本机。": {
+    "en": "No model service is connected yet, so replies are unavailable. You can still write a draft, saved only on this device."
+  },
+  "检查连接": {
+    "en": "Check connection"
+  },
+  "聊天发送说明": {
+    "en": "Chat sharing notice"
+  },
+  "撤回聊天授权": {
+    "en": "Withdraw chat consent"
+  },
+  "清空树洞对话": {
+    "en": "Clear this chat"
+  },
+  "清空树洞对话？": {
+    "en": "Clear this chat?"
+  },
+  "删除本机聊天记录": {
+    "en": "Delete chat on this device"
+  },
+  "删除本机保存的对话与草稿。已发送给服务商的内容遵循其隐私政策，不能通过清空本机记录撤回。": {
+    "en": "Delete the conversation and draft on this device. Previously sent content is subject to the provider’s privacy policy and cannot be recalled by clearing local history."
+  },
+  "有件开心的事想分享": {
+    "en": "I have something happy to share"
+  },
+  "今天有点委屈，想吐槽": {
+    "en": "A rough day. I need to vent"
+  },
+  "先听我说，不用给建议": {
+    "en": "Please listen, without advice"
+  },
+  "想一起理清一个烦恼": {
+    "en": "Help me untangle a worry"
+  },
+  "此刻，你想说些什么？": {
+    "en": "What is on your mind?"
+  },
+  "阅读并开启树洞聊天": {
+    "en": "Read the notice and enable chat"
+  },
+  "发送": {
+    "en": "Send"
+  },
+  "停止": {
+    "en": "Stop"
+  },
+  "重新发送": {
+    "en": "Try again"
+  },
+  "这条消息尚未收到回复。": {
+    "en": "No reply has arrived for this message."
+  },
+  "正在认真听你说……": {
+    "en": "Listening to you…"
+  },
+  "我": {
+    "en": "Me"
+  },
+  "树洞 · AI": {
+    "en": "Quiet Corner · AI"
+  },
+  "AI 陪伴 · 由你选择何时分享": {
+    "en": "AI companion · Share when you choose"
+  },
+  "树洞不是心理诊疗服务。如果你正面临即时危险，请联系当地急救或身边可信赖的人。": {
+    "en": "This is not a mental health treatment service. If you are in immediate danger, contact local emergency services or someone you trust."
+  },
+  "发送消息时，本次输入及最近最多 10 轮对话将通过应用后端发送给模型服务商，用于生成回复。昵称、生日、星盘、问答和抽签记录不会自动随消息上传。": {
+    "en": "When you send a message, your input and up to 10 recent conversation turns are sent through the app backend to the model provider to generate a reply. Your nickname, birthday, chart, questionnaire and lot records are not sent automatically."
+  },
+  "请勿发送身份证、密码、验证码、精确住址或其他不愿分享的隐私。回复由 AI 生成，可能出错，不代替医疗、法律或其他专业服务。": {
+    "en": "Do not send identity documents, passwords, verification codes, exact addresses or private information you do not wish to share. AI replies may be wrong and do not replace professional care or advice."
+  },
+  "对话和草稿保存在当前本机档案内。可以在右上角菜单清空对话或撤回后续发送授权。应用参考后端不保存对话正文；模型服务商的处理与保留规则以其隐私政策为准。": {
+    "en": "Conversations and drafts are saved in this local profile. Use the top-right menu to clear them or withdraw consent for future messages. The reference backend does not store message text. The provider’s privacy policy governs its processing and retention."
+  },
+  "服务商隐私政策": {
+    "en": "Provider privacy policy"
+  },
+  "同意并开启聊天": {
+    "en": "Agree and enable chat"
+  },
+  "我的星座档案": {
+    "en": "My zodiac profile"
+  },
+  "星座密码": {
+    "en": "Zodiac reflections"
+  },
+  "表面上的自己": {
+    "en": "How you meet the world"
+  },
+  "内在的自己": {
+    "en": "Your inner needs"
+  },
+  "可以发挥的长处": {
+    "en": "Strengths to explore"
+  },
+  "关系里的靠近": {
+    "en": "Connecting with others"
+  },
+  "待补充出生资料": {
+    "en": "Birth details needed"
+  },
+  "出生资料": {
+    "en": "Birth details"
+  },
+  "补充出生地与时区": {
+    "en": "Add birthplace and timezone"
+  },
+  "出生地与时区": {
+    "en": "Birthplace and timezone"
+  },
+  "选择常用城市": {
+    "en": "Choose a city"
+  },
+  "搜索城市": {
+    "en": "Search cities"
+  },
+  "或手动填写全球地点": {
+    "en": "Or enter any location"
+  },
+  "地点名称": {
+    "en": "Place name"
+  },
+  "纬度：南负北正，-90 至 90": {
+    "en": "Latitude: north +, south −, −90 to 90"
+  },
+  "经度：西负东正，-180 至 180": {
+    "en": "Longitude: east +, west −, −180 to 180"
+  },
+  "出生地时区": {
+    "en": "Birthplace timezone"
+  },
+  "保存出生地": {
+    "en": "Save birthplace"
+  },
+  "移除出生地": {
+    "en": "Remove birthplace"
+  },
+  "解读内容": {
+    "en": "Reading view"
+  },
+  "宫位": {
+    "en": "Houses"
+  },
+  "展开解读": {
+    "en": "Read more"
+  },
+  "计算与阅读说明": {
+    "en": "Calculation and reading notes"
+  },
+  "分享星座阅读": {
+    "en": "Share zodiac reading"
+  },
+  "给自己的今日提醒": {
+    "en": "A reminder for today"
+  },
+  "提醒与幸运提示仅供娱乐，不是个人运势预测。": {
+    "en": "Reminders and lucky items are for entertainment, not predictions."
+  },
+  "星体位置": {
+    "en": "Celestial positions"
+  },
+  "婚神星": {
+    "en": "Juno"
+  },
+  "婚神星属于小行星。本版尚未接入对应星历，暂不显示你的落座或宫位，也不推断未来伴侣。": {
+    "en": "Juno is an asteroid. Its ephemeris is not included in this version, so no personal sign, house or future-partner prediction is shown."
+  },
+  "本宫没有本版收录的主要星体。空宫不代表这一领域缺失。": {
+    "en": "None of the major bodies included here occupy this house. An empty house does not mean this area of life is missing."
+  },
+  "补全出生资料后显示个人宫位。": {
+    "en": "Complete birth details to see personal houses."
+  }
+}

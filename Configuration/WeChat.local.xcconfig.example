@@ -1,0 +1,17 @@
+// Copy to WeChat.local.xcconfig. Keep AppSecret on your server, never in this file.
+WECHAT_APP_ID = wxYOUR16CHARAPPID
+// $() prevents // from being parsed as an xcconfig comment.
+WECHAT_UNIVERSAL_LINK = https:/$()/links.your-domain.com/wechat/
+AUTH_BASE_URL = https:/$()/auth.your-domain.com/
+WECHAT_ASSOCIATED_DOMAIN = applinks:links.your-domain.com
+CODE_SIGN_ENTITLEMENTS = Configuration/WeChat.entitlements
+
+// Required before distribution. Keep owner name consistent with platform registrations.
+APP_OWNER_NAME =
+PRIVACY_POLICY_URL =
+TERMS_OF_USE_URL =
+SUPPORT_URL =
+SUPPORT_EMAIL =
+
+// Optional tree-hole service; no model API key in any Xcode file.
+TREE_HOLE_BASE_URL = https:/$()/chat.your-domain.com/

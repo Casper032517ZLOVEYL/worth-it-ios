@@ -1,0 +1,2 @@
+# Official Tencent Cloud SMS SDK, used only by the server's real send path.
+tencentcloud-sdk-python-sms>=3.0,<4.0

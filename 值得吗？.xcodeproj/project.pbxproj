@@ -1,0 +1,478 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 110;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		B22000000000000000000002 /* Vendor/WechatOpenSDK-NoPay.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B22000000000000000000001 /* Vendor/WechatOpenSDK-NoPay.xcframework */; };
+		B2200000000000000000000E /* System/Library/Frameworks/Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B22000000000000000000004 /* System/Library/Frameworks/Security.framework */; };
+		B2200000000000000000000F /* System/Library/Frameworks/CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B22000000000000000000005 /* System/Library/Frameworks/CoreGraphics.framework */; };
+		B22000000000000000000010 /* System/Library/Frameworks/WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B22000000000000000000006 /* System/Library/Frameworks/WebKit.framework */; };
+		B22000000000000000000011 /* System/Library/Frameworks/SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B22000000000000000000007 /* System/Library/Frameworks/SystemConfiguration.framework */; };
+		B22000000000000000000012 /* System/Library/Frameworks/CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B22000000000000000000008 /* System/Library/Frameworks/CoreTelephony.framework */; };
+		B22000000000000000000013 /* System/Library/Frameworks/CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B22000000000000000000009 /* System/Library/Frameworks/CFNetwork.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		A1100000000000000000000A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 041263323089262B00903A65 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 041263393089262B00903A65;
+			remoteInfo = "值得吗？";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0412633A3089262B00903A65 /* 值得吗？.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "值得吗？.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A11000000000000000000001 /* WorthItUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WorthItUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B22000000000000000000001 /* Vendor/WechatOpenSDK-NoPay.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = "Vendor/WechatOpenSDK-NoPay.xcframework"; sourceTree = SOURCE_ROOT; };
+		B22000000000000000000003 /* Configuration/WeChat.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Configuration/WeChat.xcconfig; sourceTree = SOURCE_ROOT; };
+		B22000000000000000000004 /* System/Library/Frameworks/Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		B22000000000000000000005 /* System/Library/Frameworks/CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		B22000000000000000000006 /* System/Library/Frameworks/WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
+		B22000000000000000000007 /* System/Library/Frameworks/SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		B22000000000000000000008 /* System/Library/Frameworks/CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = System/Library/Frameworks/CoreTelephony.framework; sourceTree = SDKROOT; };
+		B22000000000000000000009 /* System/Library/Frameworks/CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		0412633C3089262B00903A65 /* 值得吗？ */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "值得吗？";
+			sourceTree = "<group>";
+		};
+		A11000000000000000000002 /* WorthItUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = WorthItUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		041263373089262B00903A65 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			files = (
+				B22000000000000000000002 /* Vendor/WechatOpenSDK-NoPay.xcframework in Frameworks */,
+				B2200000000000000000000E /* System/Library/Frameworks/Security.framework in Frameworks */,
+				B2200000000000000000000F /* System/Library/Frameworks/CoreGraphics.framework in Frameworks */,
+				B22000000000000000000010 /* System/Library/Frameworks/WebKit.framework in Frameworks */,
+				B22000000000000000000011 /* System/Library/Frameworks/SystemConfiguration.framework in Frameworks */,
+				B22000000000000000000012 /* System/Library/Frameworks/CoreTelephony.framework in Frameworks */,
+				B22000000000000000000013 /* System/Library/Frameworks/CFNetwork.framework in Frameworks */,
+			);
+		};
+		A11000000000000000000004 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			files = (
+			);
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		041263313089262B00903A65 = {
+			isa = PBXGroup;
+			children = (
+				B22000000000000000000001 /* Vendor/WechatOpenSDK-NoPay.xcframework */,
+				B22000000000000000000003 /* Configuration/WeChat.xcconfig */,
+				0412633C3089262B00903A65 /* 值得吗？ */,
+				A11000000000000000000002 /* WorthItUITests */,
+				0412633B3089262B00903A65 /* Products */,
+				04A91F28308937D200862358 /* Recovered References */,
+			);
+			sourceTree = "<group>";
+		};
+		0412633B3089262B00903A65 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0412633A3089262B00903A65 /* 值得吗？.app */,
+				A11000000000000000000001 /* WorthItUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		04A91F28308937D200862358 /* Recovered References */ = {
+			isa = PBXGroup;
+			children = (
+				B22000000000000000000004 /* System/Library/Frameworks/Security.framework */,
+				B22000000000000000000005 /* System/Library/Frameworks/CoreGraphics.framework */,
+				B22000000000000000000006 /* System/Library/Frameworks/WebKit.framework */,
+				B22000000000000000000007 /* System/Library/Frameworks/SystemConfiguration.framework */,
+				B22000000000000000000008 /* System/Library/Frameworks/CoreTelephony.framework */,
+				B22000000000000000000009 /* System/Library/Frameworks/CFNetwork.framework */,
+			);
+			name = "Recovered References";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		041263393089262B00903A65 /* 值得吗？ */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 041263453089262D00903A65 /* Build configuration list for PBXNativeTarget "值得吗？" */;
+			buildPhases = (
+				041263363089262B00903A65 /* Sources */,
+				041263373089262B00903A65 /* Frameworks */,
+				041263383089262B00903A65 /* Resources */,
+			);
+			buildRules = (
+			);
+			fileSystemSynchronizedGroups = (
+				0412633C3089262B00903A65 /* 值得吗？ */,
+			);
+			name = "值得吗？";
+			productName = "值得吗？";
+			productReference = 0412633A3089262B00903A65 /* 值得吗？.app */;
+			productType = "com.apple.product-type.application";
+		};
+		A11000000000000000000006 /* WorthItUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A11000000000000000000007 /* Build configuration list for PBXNativeTarget "WorthItUITests" */;
+			buildPhases = (
+				A11000000000000000000003 /* Sources */,
+				A11000000000000000000004 /* Frameworks */,
+				A11000000000000000000005 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A1100000000000000000000B /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				A11000000000000000000002 /* WorthItUITests */,
+			);
+			name = WorthItUITests;
+			productName = WorthItUITests;
+			productReference = A11000000000000000000001 /* WorthItUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		041263323089262B00903A65 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2710;
+				LastUpgradeCheck = 2710;
+				TargetAttributes = {
+					041263393089262B00903A65 = {
+						CreatedOnToolsVersion = 27.1;
+					};
+					A11000000000000000000006 = {
+						TestTargetID = 041263393089262B00903A65;
+					};
+				};
+			};
+			buildConfigurationList = 041263353089262B00903A65 /* Build configuration list for PBXProject "值得吗？" */;
+			developmentRegion = "zh-Hans";
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				"zh-Hans",
+				en,
+				Base,
+			);
+			mainGroup = 041263313089262B00903A65;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 0412633B3089262B00903A65 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A11000000000000000000006 /* WorthItUITests */,
+				041263393089262B00903A65 /* 值得吗？ */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		041263383089262B00903A65 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			files = (
+			);
+		};
+		A11000000000000000000005 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			files = (
+			);
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		041263363089262B00903A65 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			files = (
+			);
+		};
+		A11000000000000000000003 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			files = (
+			);
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		A1100000000000000000000B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 041263393089262B00903A65 /* 值得吗？ */;
+			targetProxy = A1100000000000000000000A /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		041263433089262D00903A65 /* Debug configuration for PBXProject "值得吗？" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = "";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		041263443089262D00903A65 /* Release configuration for PBXProject "值得吗？" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = "";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		041263463089262D00903A65 /* Debug configuration for PBXNativeTarget "值得吗？" */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B22000000000000000000003 /* Configuration/WeChat.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "值得吗？";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.casper.WorthIt.----";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		041263473089262D00903A65 /* Release configuration for PBXNativeTarget "值得吗？" */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B22000000000000000000003 /* Configuration/WeChat.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "值得吗？";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.casper.WorthIt.----";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		A11000000000000000000008 /* Debug configuration for PBXNativeTarget "WorthItUITests" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 27.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.casper.WorthIt.UITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "值得吗？";
+			};
+			name = Debug;
+		};
+		A11000000000000000000009 /* Release configuration for PBXNativeTarget "WorthItUITests" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 27.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.casper.WorthIt.UITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "值得吗？";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		041263353089262B00903A65 /* Build configuration list for PBXProject "值得吗？" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				041263433089262D00903A65 /* Debug configuration for PBXProject "值得吗？" */,
+				041263443089262D00903A65 /* Release configuration for PBXProject "值得吗？" */,
+			);
+			defaultConfigurationName = Release;
+		};
+		041263453089262D00903A65 /* Build configuration list for PBXNativeTarget "值得吗？" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				041263463089262D00903A65 /* Debug configuration for PBXNativeTarget "值得吗？" */,
+				041263473089262D00903A65 /* Release configuration for PBXNativeTarget "值得吗？" */,
+			);
+			defaultConfigurationName = Release;
+		};
+		A11000000000000000000007 /* Build configuration list for PBXNativeTarget "WorthItUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A11000000000000000000008 /* Debug configuration for PBXNativeTarget "WorthItUITests" */,
+				A11000000000000000000009 /* Release configuration for PBXNativeTarget "WorthItUITests" */,
+			);
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 041263323089262B00903A65 /* Project object */;
+	validationLevel = 1;
+}

@@ -1,0 +1,31 @@
+# Supply through your server process environment. Do not commit real values.
+VERIFICATION_HMAC_KEY=
+TENCENT_SECRET_ID=
+TENCENT_SECRET_KEY=
+SMS_SDK_APP_ID=
+SMS_SIGN_NAME=
+SMS_TEMPLATE_ID=
+SMS_REGION=ap-guangzhou
+SMS_TEMPLATE_WITH_MINUTES=0
+AUTH_DATABASE=worthit-auth.sqlite3
+AUTH_TRUST_LOCAL_PROXY=0
+PORT=8080
+# Optional WeChat login/binding:
+WECHAT_APP_ID=
+WECHAT_APP_SECRET=
+# Optional verified email binding:
+SMTP_HOST=
+SMTP_USER=
+SMTP_PASSWORD=
+SMTP_FROM=
+SMTP_PORT=465
+# Optional tree-hole AI. All values below stay on the SERVER.
+# Example provider protocol: https://api-docs.deepseek.com/api/create-chat-completion/
+CHAT_COMPLETIONS_URL=
+CHAT_MODEL=
+CHAT_API_KEY=
+# Random independent secret, at least 32 characters; signs scoped two-hour anonymous sessions.
+CHAT_SESSION_KEY=
+# Required disclosure shown before consent. Use the real provider and its current privacy page.
+CHAT_PROVIDER_NAME=
+CHAT_PROVIDER_PRIVACY_URL=

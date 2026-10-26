@@ -1,0 +1,25 @@
+# macOS / Xcode
+.DS_Store
+DerivedData/
+build/
+*.xcresult
+xcuserdata/
+*.xcuserstate
+# Local credentials, signing and databases
+.env
+.env.*
+!.env.example
+*.local.xcconfig
+*.p12
+*.pem
+*.key
+*.mobileprovision
+*.sqlite
+*.sqlite3*
+__pycache__/
+*.py[cod]
+.venv/
+# Downloaded vendor SDK; restore via scripts/bootstrap-wechat-sdk.sh
+Vendor/WechatOpenSDK-NoPay.xcframework/
+# Local promotional renders and test runs
+Promo/
